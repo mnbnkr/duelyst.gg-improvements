@@ -1,2 +1,2 @@
 # ddg-card-text
-Duelyst.gg card description corrections + correct text width script
+Duelyst.gg card description corrections by community.
