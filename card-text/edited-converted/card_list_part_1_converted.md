@@ -30,7 +30,7 @@ text:     Restore 3 Health to any Minion.
 
 name:     Auryn Nexus
 text:     Give a friendly minion +3 Health.
-**Echo**
+          **Echo**
 
 name:     Conscript
 text:
@@ -94,11 +94,11 @@ text:     Restore 2 Health to your General for each friendly minion.
 
 name:     Dauntless Advance
 text:     Your General and nearby friendly minions gain, "Takes no damage this turn."
-**Echo**
+          **Echo**
 
 name:     Divine Bond
 text:     At the start of your next turn give a minion +Attack equal to its Health.
-**Echo**
+          **Echo**
 
 name:     Fiz
 text:     **Deploy**: Restore 2 Health to anything.
@@ -135,7 +135,7 @@ text:     Whenever this attacks or counterattacks, it dispels that enemy
 
 name:     Suntouched Spirit
 text:     This minion remembers all friendly spells that targeted it.
-**Dying Wish**: Put a copy of each remembered spell into your hand.
+          **Dying Wish**: Put a copy of each remembered spell into your hand.
 
 name:     Tempest
 text:     Deal 2 damage all minions and Generals.
@@ -220,18 +220,18 @@ text:     Whenever you summon a minion nearby this minion, give them both +1/+1.
 
 name:     Vanguard Puresun
 text:     **Zeal**: Gains +1 Attack.
-Whenever an enemy moves to or is summoned on any of the three spaces in front of this, teleport that enemy back 1 space.
+          Whenever an enemy moves to or is summoned on any of the three spaces in front of this, teleport that enemy back 1 space.
 
 name:     Vigilator
 text:     When this minion is built, give nearby friendly minions +3 Health.
-**Build**:1
+          **Build**:1
 
 name:     Arclyte Regalia
 text:     Your General gains +2 Attack. The first time your General takes damage each turn, prevent 2 of it.
 
 name:     Divine Liturgy
 text:     At the start of your next turn give all friendly minions +Attack equal to their Health.
-**Echo**
+          **Echo**
 
 name:     Invincible
 text:     Give a friendly minion with full Health +4/+4.
@@ -241,7 +241,7 @@ text:     Transform a friendly minion into an Ironcliffe Guardian.
 
 name:     Ironcliffe Monument
 text:     Whenever you summon a minion nearby this, transform that minion into an Ironcliffe Guardian.
-**Build**:2
+          **Build**:2
 
 name:     Lionize
 text:     Give **Celerity** to a friendly minion, it cannot attack this turn.
@@ -257,7 +257,7 @@ text:     Whenever anything is healed, put a **True Strike** into your hand.
 
 name:     Sunbreaker
 text:     **Forcefield**
-Your **Bloodbound Spell** is **Tempest**.
+          Your **Bloodbound Spell** is **Tempest**.
 
 name:     Sunriser
 text:     Whenever you heal anything, deal 2 damage to all nearby enemies.
@@ -291,11 +291,11 @@ text:     Restore 4 Health to a friendly minion. Deal 4 damage to enemies around
 
 name:     Ironcliffe Guardian
 text:     **Airdrop**
-**Provoke**
+          **Provoke**
 
 name:     Oakenheart
 text:     **Deploy**: Progresses MECHAZ0R build by +20%.
-Your other Mech minions have +1/+1.
+          Your other Mech minions have +1/+1.
 
 name:     Second Sun
 text:     **Zeal**: Gains +8 Attack.
@@ -305,18 +305,18 @@ text:     **Zeal**: Draw 2 additional cards at the end of your turn.
 
 name:     War Exorcist
 text:     **Provoke**
-At the start of your turn, Holy Immolation your damaged minions.
+          At the start of your turn, Holy Immolation your damaged minions.
 
 name:     Windcliffe Protector
 text:     **Provoke**
-When a friendly **Windcliffe Alarmist** dies, transform this minion into a **Windcliffe Alarmist**.
+          When a friendly **Windcliffe Alarmist** dies, transform this minion into a **Windcliffe Alarmist**.
 
 name:     Circle of Life
 text:     Deal 5 damage to an enemy minion. Restore 5 Health to your General.
 
 name:     Elyx Stormblade
 text:     **Provoke**
-Your minions and General may move an additional space.
+          Your minions and General may move an additional space.
 
 name:     Prominence
 text:     **Blood Surge**: Summon a Silverguard Knight nearby your General.
@@ -335,17 +335,17 @@ text:     Your General is **Invulnerable** BUT cannot move or attack.
 
 name:     Peacekeeper
 text:     **Frenzy**
-**Airdrop**
-**Provoke**
-**Celerity**
-**Forcefield**
+          **Airdrop**
+          **Provoke**
+          **Celerity**
+          **Forcefield**
 
 name:     Alabaster Titan
 text:     **Deploy**: If you have no spells in your deck, equip Skywind Glaives, Arclyte Regalia and Halo Bulwark.
 
 name:     Excelsious
 text:     **Celerity**, **Provoke**
-This minion gains +1/+1 for each time you healed anything this game.
+          This minion gains +1/+1 for each time you healed anything this game.
 
 name:     Sky Phalanx
 text:     Summon three Silverguard Knights nearby your General.
@@ -385,7 +385,7 @@ text:     Reactivate an exhausted friendly minion. It cannot damage or attack Ge
 
 name:     Binky
 text:     **Flying**
-Whenever this damages a minion, restore 2 health to your General.
+          Whenever this damages a minion, restore 2 health to your General.
 
 name:     Blink
 text:     Teleport a friendly minion up to 2 spaces.
@@ -413,7 +413,7 @@ text:     Each player steals a random card from their opponent's deck.
 
 name:     Katara
 text:     **Backstab**: (1)
-**Ability** 1: Give a nearby friendly minion **backstab**(1) until the start of your next turn.
+          **Ability** 1: Give a nearby friendly minion **backstab**(1) until the start of your next turn.
 
 name:     Kiyomori
 text:     Your General may move 2 additional spaces this turn. Your **Bloodbound Spell** is **Kotetsu**.
@@ -495,7 +495,7 @@ text:     Give a minion or General +3 Attack this turn.
 
 name:     Scroll Bandit
 text:     **Backstab**: (0)
-Whenever this backstabs an enemy, steal a spell from your opponent's deck.
+          Whenever this backstabs an enemy, steal a spell from your opponent's deck.
 
 name:     Second Self
 text:     Put an EXACT copy of a friendly minion into your hand.
@@ -505,7 +505,7 @@ text:     Whenever you cast a spell, this minion gains backstab(1) and +1 moveme
 
 name:     Tusk Boar
 text:     **Rush**
-Return this minion to your hand at the beginning of your turn.
+          Return this minion to your hand at the beginning of your turn.
 
 name:     Xho
 text:     **Dying Wish**: Put a random Songhai spell into your hand. It costs 1 less.
@@ -524,29 +524,29 @@ text:     Your General gains **Ranged** (3).
 
 name:     Dusk Rigger
 text:     **Backstab**: (2)
-Whenever this backstabs, put a MECHAZ0R Progression into your hand.
+          Whenever this backstabs, put a MECHAZ0R Progression into your hand.
 
 name:     Flicker
 text:     Teleport your General to a space behind an enemy.
 
 name:     Gore Horn
 text:     **Backstab**: (2)
-After this minion attacks, it gains +1/+1.
+          After this minion attacks, it gains +1/+1.
 
 name:     Hundred-handed Rakushi
 text:     **Sentinel**: Minion summoned.
-Deal 2 damage to the minion that transformed this.
+          Deal 2 damage to the minion that transformed this.
 
 name:     Jade Monk
 text:     Whenever this minion takes damage, deal 2 damage to a random enemy minion.
 
 name:     Kaido Expert
 text:     **Backstab**: (1)
-Whenever this minion backstabs, summon a minion with **Backstab** that costs 2 or less from your deck nearby.
+          Whenever this minion backstabs, summon a minion with **Backstab** that costs 2 or less from your deck nearby.
 
 name:     Ki Beholder
 text:     **Ranged** (2)
-**Deploy**: An enemy minion cannot move normally next turn.
+          **Deploy**: An enemy minion cannot move normally next turn.
 
 name:     Killing Edge
 text:     Give a friendly minion +4/+2. If that minion has **Backstab**, draw a card at end of turn.
@@ -556,12 +556,12 @@ text:     Whenever this minion takes damage, put a Phoenix Fire into your hand.
 
 name:     Mind-cage Oni
 text:     **Sentinel**: Spell cast.
-Whenever your opponent casts a spell, put a copy of that spell into your hand.
+          Whenever your opponent casts a spell, put a copy of that spell into your hand.
 
 name:     Mizuchi
 text:     **Flying**
-**Backstab**: (2)
-**Sentinel**: General attacks.
+          **Backstab**: (2)
+          **Sentinel**: General attacks.
 
 name:     Orizuru
 text:     **Flying**
@@ -571,8 +571,8 @@ text:     Surround the enemy General with friendly **Panddo** that disappear at 
 
 name:     Penumbraxx
 text:     **Backstab**: (2)
-Whenever this backstabs, transform it into a building with Build: (1).
-**Build**:2
+          Whenever this backstabs, transform it into a building with Build: (1).
+          **Build**:2
 
 name:     Sparrowhawk
 text:     **Bond**: Put a Mist Dragon Seal into your hand.
@@ -585,7 +585,7 @@ text:     Deal 3 damage to an enemy and 1 damage to all enemies around it.
 
 name:     Twilight Fox
 text:     **Blood Surge**: Teleport in the same row to the opponent's back column and gain +2 movement until the end of turn.
-**Backstab**: (2)
+          **Backstab**: (2)
 
 name:     Twin Strike
 text:     Deal 2 damage to exactly two random enemy minions. Draw a card at end of turn.
@@ -628,11 +628,11 @@ text:     Whenever you cast a spell, your nearby Arcanyst minions gain +1 Attack
 
 name:     Manakite Drifter
 text:     When this minion is built, gain +2 mana this turn.
-**Build**:2
+          **Build**:2
 
 name:     Massacre Artist
 text:     **Backstab**: (2)
-After this minion attacks and backstabs, all attacks are backstabs this turn.
+          After this minion attacks and backstabs, all attacks are backstabs this turn.
 
 name:     Onyx Bear Seal
 text:     Transform an enemy minion into a 0/2 Panddo that cannot be attacked.
@@ -666,7 +666,7 @@ text:     Deal 3 damage to anything. Put a **Phoenix Fire** into your hand.
 
 name:     Scarlet Viper
 text:     **Backstab**: (4)
-**Flying**
+          **Flying**
 
 name:     Seeker Squad
 text:     Summon a Heartseeker in each nearby space diagonal from your General.
