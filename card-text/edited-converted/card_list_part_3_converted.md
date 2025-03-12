@@ -344,13 +344,13 @@ name:     Nature's Confluence
 text:     Summon four copies of a random **Battle Pet** in a 2x2 area.
 
 name:     Plasma Storm
-text:     Give all minions **Shrink** -2⚔️/-2❤️.
+text:     Give all minions **Dwindle** -2⚔️/-2❤️.
 
 name:     Spirit Harvester
 text:     At the end of your turn, deal 1 damage to all other minions.
 
 name:     Unstable Leviathan
-text:     **Shrink** -3⚔️/-3❤️. This effect cannot be dispelled.
+text:     **Dwindle** -3⚔️/-3❤️. This effect cannot be dispelled.
 
 name:     Visionar
 text:     Whenever any player draws a card, this minion gains +1⚔️/+1❤️.

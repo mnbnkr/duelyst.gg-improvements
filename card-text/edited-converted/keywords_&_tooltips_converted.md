@@ -99,7 +99,7 @@ keyword:  **Sentinel**
 keyword:  **Shadow Creep**
           Deals 4 damage to enemy units on it at the end of opponent's turn.
 
-keyword:  **Shrink** -1⚔️/-1❤️
+keyword:  **Dwindle** -1⚔️/-1❤️
           Unit lose -1⚔️/-1❤️ at the begining of its owner's turn.
 
 keyword:  **Spell Shield**

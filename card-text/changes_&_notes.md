@@ -1,7 +1,7 @@
 ### Changes:
 
 
-Grow -1/-1 ➜ Shrink -1/-1
+Grow -1/-1 ➜ Dwindle -1/-1
 
 Opening Gambit ➜ Deploy
 
