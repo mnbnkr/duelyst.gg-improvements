@@ -5,7 +5,7 @@ keyword:  **Ability** 2
           This minion can use the effect by paying 2 mana. Using an ability exhausts the minion.
 
 keyword:  **Airdrop**
-          This minion can be summoned anywhere on the board.
+          This minion can be summoned anywhere.
 
 keyword:  **Armour**
           Takes 1 less damage from all sources (not stackable with itself).
@@ -20,10 +20,10 @@ keyword:  **Battle Pet**
           At the beginning of its owner's turn this minion will move and attack by itself, It cannot be directly controlled.
 
 keyword:  **Blast**
-          ⚔️ damages all enemies in a straight line.
+          Attacks damage all enemies in a straight line.
 
 keyword:  **Blood Surge**
-          Effect triggers when your general casts its Bloodbound Spell.
+          Effect triggers when your General casts their Bloodbound Spell.
 
 keyword:  **Bond**
           Effect triggers when minion comes into play and you control another minion of the same tribe.
@@ -58,7 +58,7 @@ keyword:  **Echo**
           When played from hand create a copy of it in your hand.
 
 keyword:  **Equipped**
-          When the minion is dispelled or dies, its equipment drops and can be picked up by another friendly minion.
+          When the minion is dispelled or dies, its equipment drops and can be picked up by another allied minion.
 
 keyword:  **Flying**
           Can move to any open tile.
@@ -81,11 +81,14 @@ keyword:  **Intensify**
 keyword:  **Invulnerable**
           Cannot be destroyed, damaged, dispelled or targeted by anything.
 
-keyword:  **Provoke**
-          Enemies around this unit cannot move and can only attack this unit.
+keyword:  **Primal Flourish**
+          Allied minions standing on Primal Flourish get Grow +2⚔️/+2❤️.
 
-keyword:  **Ranged**
-          Can attack enemies from far away.
+keyword:  **Provoke**
+          Enemies around this unit cannot move or activate Abilities, and can only attack this unit.
+
+keyword:  **Ranged (X)**
+          Can attack enemies X spaces beyond the usual attack range.
 
 keyword:  **Rebirth**
           When killed will leave behind an egg that will hatch into a copy of itself.
@@ -118,12 +121,12 @@ keyword:  **Wall**
           Walls cannot move. If a Wall is dispelled it will dissapear.
 
 keyword:  **Zeal**
-          Extra effect active while this minion is close to it's General.
+          Extra effect active while this minion is close to its General.
 
 
 
 tooltip:  **Awesome Abyssal Scar**
-          Summon 4⚔️/4❤️ Fiends on every friendly Shadow Creep.
+          Summon 4⚔️/4❤️ Fiends on every allied Shadow Creep.
 
 tooltip:  **Awesome Malice**
           Summon as many 4⚔️/4❤️ Husks as the attack of your sacrifice.

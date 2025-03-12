@@ -1,5 +1,5 @@
 name:     Day Watcher
-text:     Whenever a friendly minion attacks, restore 1❤️ to your General.
+text:     Whenever an allied minion attacks, restore 1❤️ to your General.
 
 name:     Elkowl
 text:     **Deploy**: Gain two random keywords.
@@ -18,10 +18,10 @@ text:     **Deploy**: Put a random Battle Pet into your hand.
 
 name:     Golem Vanquisher
 text:     **Provoke**
-          Your other Golem minions have Provoke.
+          Your other Golem minions have **Provoke**.
 
 name:     Hydrax
-text:     Whenever a friendly Battle Pet dies, draw a card.
+text:     Whenever an allied Battle Pet dies, draw a card.
 
 name:     Ion
 text:     **Ranged** (10)
@@ -35,7 +35,7 @@ text:     **Provoke**
           **Deploy**: Other minions you summon this turn gain +1⚔️/+1❤️ and gain **Provoke**.
 
 name:     Mirkblood Devourer
-text:     Friendly minions summoned nearby this minion gain +1⚔️/+1❤️.
+text:     Allied minions summoned nearby this minion gain +1⚔️/+1❤️.
 
 name:     Mogwai
 text:     After this moves, draw a card.
@@ -68,11 +68,11 @@ name:     Sarlac the Eternal
 text:     **Dying Wish**: Re-summon this minion on a random space.
 
 name:     Scarzig
-text:     If this minion destroys an enemy and survives, friendly Scarzig anyWHERE transform into Feather Knights.
+text:     If this minion destroys an enemy and survives, allied Scarzig anywhere transform into Feather Knights.
 
 name:     Scarzig, Feather Knight
 text:     **Celerity**
-          Whenever this minion attacks, give other friendly minions +1⚔️/+1❤️.
+          Whenever this minion attacks, give other allied minions +1⚔️/+1❤️.
 
 name:     Sellsoul
 text:     **Dying Wish**: Deal 4 damage to YOUR General.
@@ -85,13 +85,13 @@ text:     **Equipped** with Skyshield.
 
 name:     Skywing
 text:     **Flying**
-          Your other minions with Flying cost 1 less.
+          Your other minions with **Flying** cost 1 less.
 
 name:     Sojourner
 text:     Whenever this minion deals damage, draw a card.
 
 name:     Songweaver
-text:     **Deploy**: Give a friendly minion +1⚔️/+1❤️.
+text:     **Deploy**: Give an allied minion +1⚔️/+1❤️.
 
 name:     Sun Seer
 text:     Whenever this minion deals damage, restore 2❤️ to your General.
@@ -125,7 +125,7 @@ text:     **Frenzy**
           Whenever an enemy attacks during the opponent's turn, this minion gains +3⚔️ until the end of your turn.
 
 name:     Wind Runner
-text:     After this minion moves, give all friendly minions around it +1⚔️/+1❤️.
+text:     After this minion moves, give all allied minions around it +1⚔️/+1❤️.
 
 name:     Wings of Paradise
 text:     **Flying**
@@ -142,7 +142,7 @@ text:     **Ranged** (2)
           Your other minions with **Ranged** get +1⚔️.
 
 name:     Artifact Hunter
-text:     **Deploy**: Draw a random artifact from your deck.
+text:     **Deploy**: Draw a random artifact.
 
 name:     Black Locust
 text:     **Flying**
@@ -173,14 +173,14 @@ name:     Emerald Rejuvenator
 text:     **Deploy**: Restore 4❤️ to your General.
 
 name:     Feralu
-text:     Friendly minions from any tribe have +1⚔️/+1❤️.
+text:     Allied minions from any tribe have +1⚔️/+1❤️.
           **Ability** 2: Put 2 copies of a nearby tribal minion into your hand.
 
 name:     Fire Spitter
 text:     **Ranged** (2)
 
 name:     Fizzling Mystic
-text:     **Deploy**: Deal 2 damage to an enemy OR restore 2❤️ to a friendly minion or General.
+text:     **Deploy**: Deal 2 damage to an enemy OR restore 2❤️ to an ally.
 
 name:     Frostbone Naga
 text:     **Deploy**: Deal 2 damage to everything around it.
@@ -251,7 +251,7 @@ name:     Sphynx
 text:     **Deploy**: Put a Riddle in your opponent's hand.
 
 name:     Sun Elemental
-text:     **Ability** 2: Give up to two friendly units +3⚔️ and Ephemeral.
+text:     **Ability** 2: Give up to two allied units +3⚔️ and Ephemeral.
 
 name:     Sunsteel Defender
 text:     **Forcefield**
@@ -307,7 +307,7 @@ name:     Brightmoss Golem
 text:
 
 name:     Capricious Marauder
-text:     Whenever a friendly minion is destroyed, your opponent takes control of this minion.
+text:     Whenever an allied minion is destroyed, your opponent takes control of this minion.
 
 name:     Chakkram
 text:     This minion costs 2 less if your General took damage on opponent's last turn.
@@ -350,7 +350,7 @@ name:     Ironclad
 text:     **Dying Wish**: Dispel all enemy minions.
 
 name:     Keeper of the Vale
-text:     **Deploy**: Summon a random non-token friendly minion destroyed this game.
+text:     **Deploy**: Summon a random non-token allied minion destroyed this game.
 
 name:     Letigress
 text:     **Ranged** (2)
@@ -361,7 +361,7 @@ text:     **Deploy**: Dispel all spaces around it.
 
 name:     Lux Ignis
 text:     **Ranged** (2)
-          At the end of your turn, restore 2❤️ to all nearby friendly units.
+          At the end of your turn, restore 2❤️ to all nearby allied units.
 
 name:     Necroseer
 text:     **Dying Wish**: Draw a card.
@@ -446,7 +446,7 @@ name:     Ruby Rifter
 text:     Whenever your General takes damage, draw a card and give this minion +2⚔️.
 
 name:     S.I.L.V.E.R.
-text:     Whenever you summon this or another Mech, friendly Mechs gain all keywords of other friendly Mechs.
+text:     Whenever you summon this or another Mech, allied Mechs gain all keywords of other allied Mechs.
 
 name:     Serpenti
 text:     **Frenzy**
@@ -468,7 +468,7 @@ name:     Sunset Paragon
 text:     **Deploy**: All nearby minions deal damage to themselves equal to their ⚔️.
 
 name:     The Scientist
-text:     Whenever you play a spell that targets a friendly minion, draw a card.
+text:     Whenever you play a spell that targets an allied minion, draw a card.
 
 name:     Zen'rui, the Blightspawned
 text:     **Deploy**: Take control of a nearby enemy minion with 2 or less ⚔️.
@@ -510,7 +510,7 @@ name:     Red Synja
 text:     Whenever your General takes damage, deal 7 damage to a random nearby enemy minion.
 
 name:     Reliquarian
-text:     **Deploy**: Forge a friendly minion into a Faction artifact with equal ⚔️.
+text:     **Deploy**: Forge an allied minion into a Faction artifact with equal ⚔️.
 
 name:     Rook
 text:     **Deploy** and at the end of your turn: this minion gains a random Faction ability.
@@ -523,7 +523,7 @@ name:     Whistling Blade
 text:     **Provoke**
 
 name:     Zurael, the Lifegiver
-text:     **Deploy**: Summon all non-token friendly minions destroyed on your opponent's last turn on a random space.
+text:     **Deploy**: Summon all non-token allied minions destroyed on your opponent's last turn to random spaces.
 
 name:     Khymera
 text:     Whenever this minion takes damage, summon a random token minion nearby.

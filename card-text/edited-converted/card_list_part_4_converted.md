@@ -35,7 +35,7 @@ name:     Aspect of Shim'zar
 text:     Transform any minion into a random Battle Pet.
 
 name:     Aspect of the Wyrm
-text:     Transform any minion into a 4⚔️/4❤️ Whyte Drake with Flying. Nearby friendly minions gain Flying.
+text:     Transform any minion into a 4⚔️/4❤️ Whyte Drake with **Flying**. Nearby allied minions gain **Flying**.
 
 name:     Avalanche
 text:     Deal 4 damage to everything on your starting side of the battlefield and **Stun** them.
@@ -44,7 +44,7 @@ name:     Blinding Snowstorm
 text:     Deal 1 damage to all enemies in a 3x3 area. Those enemies can only move 1 space next turn. Repeat this effect at the start of your next turn.
 
 name:     Cryogenesis
-text:     Deal 4 damage to an enemy minion. Draw a Vespyr minion from your deck.
+text:     Deal 4 damage to an enemy minion. Draw a Vespyr minion.
 
 name:     Denadoro
 text:     **Infiltrate**: Your General has **Infiltrate**: +1⚔️ and **Force Field**.
@@ -63,13 +63,13 @@ text:     Enemies in this row have their movement reduced by 1.
 
 name:     Malicious Wisp
 text:     **Deploy**: Take a mana crystal from your opponent.
-          **Dying Wish**: Give back the mana crystal.
+          **Dying Wish**: Give the mana crystal back.
 
 name:     Meltwater Moose
 text:     When this minion is summoned, **Stun** it.
 
 name:     Razorback
-text:     **Deploy**: Give all friendly minions +2⚔️ this turn.
+text:     **Deploy**: Give all allied minions +2⚔️ this turn.
 
 name:     Seismic Elemental
 text:
@@ -81,7 +81,7 @@ name:     Voice of the Wind
 text:     Whenever you summon a minion from your hand, summon a 2⚔️/2❤️ Vespyr Winter Maerid nearby.
 
 name:     Wailing Overdrive
-text:     Give a friendly minion on your opponent's starting side of the battlefield +5⚔️/+5❤️.
+text:     Give an allied minion on your opponent's starting side of the battlefield +5⚔️/+5❤️.
 
 name:     White Asp
 text:     Your General gains +3⚔️. Whenever your General destroys a minion, summon a 3⚔️/3❤️ **Blazing Spine Wall** on that space.
@@ -99,14 +99,14 @@ name:     Wintertide
 text:     Summon three 2⚔️/2❤️ Vespyr Winter Maerids on any column.
 
 name:     Animus Plate
-text:     Your General gains +2⚔️. Whenever your General attacks or counterattacks, give all friendly Vespyr minions +2⚔️/+2❤️.
+text:     Your General gains +2⚔️. Whenever your General attacks or counterattacks, give all allied Vespyr minions +2⚔️/+2❤️.
 
 name:     Arctic Displacer
 text:     **Airdrop**
 
 name:     Auroraboros
 text:     **Echo**
-          Give friendly minions "Dying Wish: Re-summon this minion on this space."
+          Give allied minions "Dying Wish: Re-summon this minion on this space".
 
 name:     Cloudcaller
 text:     **Deploy**: Your Bloodbound Spell refreshes and is Lesser Waterball this turn.
@@ -128,10 +128,10 @@ name:     Luminous Charge
 text:     Summon five joined 0⚔️/1❤️ Walls that deal 2 damage to nearby enemies when destroyed.
 
 name:     Matron Elveiti
-text:     **Infiltrate**: All friendly minions on your opponent's starting side gain +1⚔️/+1❤️ at the end of each turn.
+text:     **Infiltrate**: All allied minions on your opponent's starting side gain +1⚔️/+1❤️ at the end of each turn.
 
 name:     Spirit of the Wild
-text:     Reactivate friendly minions on your opponent's starting side of the battlefield.
+text:     Reactivate allied minions on your opponent's starting side of the battlefield.
 
 name:     Aspect of the Mountains
 text:     Transform any minion into a 5⚔️/5❤️ Seismic Elemental. Deal 5 damage to enemy minions around it.
@@ -153,11 +153,11 @@ name:     Icebreak Ambush
 text:     Summon an ambush of Infiltrate minions on your opponent's starting side of the battlefield.
 
 name:     Vespyrian Might
-text:     Give a Vespyr minion +2⚔️/+2❤️ for each friendly Vespyr.
+text:     Give a Vespyr minion +2⚔️/+2❤️ for each allied Vespyr.
 
 name:     Ancient Grove
 text:     **Provoke**
-          **Deploy**: Your minions gain "Dying Wish: Summon a 1⚔️/1❤️ **Treant**."
+          **Deploy**: Your minions gain "Dying Wish: Summon a 1⚔️/1❤️ **Treant**".
 
 name:     Flawless Reflection
 text:     Choose a minion. Transform all nearby minions into copies of it.
@@ -186,7 +186,7 @@ name:     Exhuming Sand
 text:     Summons a 2⚔️/1❤️ Sand Dervish when its owner summons a minion from their hand.
 
 name:     Hallowed Ground
-text:     Restores 1❤️ to friendly minions and Generals standing on it at the end of the owner's turn
+text:     Restores 1❤️ to allied minions and Generals standing on it at the end of the owner's turn
 
 name:     Mana Etch
 text:     Reduce the manacost of all cards in your hand by 1.
@@ -202,9 +202,6 @@ text:     Whenever a firendly minion is summoned on this space, it gains +1⚔�
 
 name:     Mythron Wanderer
 text:     **Aspect**: The first minion you summon during your turn gets +0⚔️/+1❤️. You many only have 1 copy of each card in your deck.
-
-name:     Primal Flourish
-text:     Friendly minion standing on Primal Flourish get Grow +2⚔️/+2❤️.
 
 name:     Blizzard
 text:     Deal 1 damage to all enemies. They move 1 space less next turn.
@@ -252,7 +249,7 @@ name:     Mini-jax
 text:     **Ranged** (4)
 
 name:     Mirrorrim
-text:     **Deploy**: Shuffle three copies of a friendly minion into your deck.
+text:     **Deploy**: Choose an allied minion. Shuffle three copies of it into your deck.
 
 name:     Moro
 text:     As long as there is a Spriggin this minion has +3⚔️.
@@ -310,7 +307,7 @@ name:     Azure Herald
 text:     **Deploy**: Restore 3❤️ to your General.
 
 name:     Azure Horn Shaman
-text:     **Dying Wish**: Give +3❤️ to friendly minions around it.
+text:     **Dying Wish**: Give +3❤️ to allied minions around it.
 
 name:     Bluetip Scorpion
 text:     Deals double damage to minions.
@@ -361,7 +358,7 @@ text:     **Deploy**: Restore 2❤️ to anything.
 
 name:     Healing Sage
 text:     **Deploy**: Restore 1❤️ to anything.
-          **Ability** 3: Summon a friendly non-token minion that was destroyed since your opponents last turn nearby.
+          **Ability** 3: Summon an allied non-token minion that was destroyed since your opponent's last turn nearby.
 
 name:     Jaxi
 text:     **Dying Wish**: Summon a 1⚔️/1❤️ Ranged Mini-Jax in a random corner.
@@ -382,7 +379,7 @@ name:     Piercing Mantis
 text:     **Frenzy**
 
 name:     Primus Fist
-text:     **Deploy**: Give a friendly minion +2⚔️ this turn.
+text:     **Deploy**: Give an allied minion +2⚔️ this turn.
 
 name:     Rage
 text:     **Frenzy**
@@ -391,7 +388,7 @@ name:     Recombobulus
 text:     **Deploy**:  Teleport any minion one space randomly.
 
 name:     Replicant
-text:     **Deploy**: Draw another Replicant from your deck.
+text:     **Deploy**: Draw another Replicant.
 
 name:     Rescue-RX
 text:     **Build** (2)
@@ -416,7 +413,7 @@ name:     Serenity
 text:     **Flying**
 
 name:     Shiro Puppydragon
-text:     At the end of your turn, give each nearby friendly minion +1⚔️.
+text:     At the end of your turn, give each nearby allied minion +1⚔️.
 
 name:     Sinister Silhouette
 text:     Cannot be attacked.
@@ -429,7 +426,7 @@ text:     **Echo**
           **Deploy**: Lose one mana crystal.
 
 name:     Sol
-text:     **Deploy**: Activate a friendly Battle Pet.
+text:     **Deploy**: Activate an allied Battle Pet.
 
 name:     Toiling Vassal
 text:     **Ranged** (2)
@@ -443,7 +440,7 @@ text:     **Airdrop**
 
 name:     Wood-Wen
 text:     **Provoke**
-          **Deploy**: Give a friendly minion **Provoke.**
+          **Deploy**: Give an allied minion **Provoke.**
 
 name:     Wrath
 text:     **Celerity**
@@ -468,10 +465,10 @@ text:     **Deploy**: Put a copy of the most recently cast spell into your hand.
 
 name:     Architect-T2K5
 text:     **Build** (1)
-          Whenever this or another friendly minion is built, draw a card.
+          Whenever this or another allied minion is built, draw a card.
 
 name:     Bastion
-text:     At the end of your turn, give all friendly minions +1❤️.
+text:     At the end of your turn, give all allied minions +1❤️.
 
 name:     Blaze Hound
 text:     **Deploy:**Both players draw a card.

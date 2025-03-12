@@ -61,7 +61,7 @@ name:     Siphon Energy
 text:     Dispel an enemy minion nearby your General.
 
 name:     Arid Unmaking
-text:     Destroy a friendly minion to turn its space into Exhuming Sand.
+text:     Destroy an allied minion to turn its space into Exhuming Sand.
 
 name:     Auroras Tears
 text:     This turn, your General gains +2⚔️ for every equipped artifact.
@@ -89,7 +89,7 @@ name:     Kinematic Projection
 text:     Give a minion Blast. It can no longer move or damage Generals.
 
 name:     Planar Foundry
-text:     Draw an artifact from your deck.
+text:     Draw an artifact.
 
 name:     Psionic Strike
 text:     Your General deals double damage to and receives 2 damage less from minions this turn.
@@ -102,14 +102,14 @@ text:     **Flying**
           **Rush**
 
 name:     Scion's First Wish
-text:     Give a friendly minion +1⚔️/+1❤️. Draw a card.
+text:     Give an allied minion +1⚔️/+1❤️. Draw a card.
 
 name:     Stone to Spears
-text:     A friendly Structure gains +3⚔️ and may move and attack this turn if able.
+text:     An allied Structure gains +3⚔️ and may move and attack this turn if able.
 
 name:     Whisper of the Sands
 text:     **Echo**
-          Transform up to two friendly Wind Dervishes into Sand Howlers.
+          Transform up to two allied Wind Dervishes into Sand Howlers.
 
 name:     Atom Klinger
 text:     Whenever you equip an artifact, this minion gains +⚔️ equal to the artifact's cost.
@@ -125,13 +125,13 @@ name:     Bone Swarm
 text:     Deal 2 damage to all enemies around your General.
 
 name:     Cosmic Flesh
-text:     Give a friendly minion +1⚔️/+3❤️ and **Provoke**.
+text:     Give an allied minion +1⚔️/+3❤️ and **Provoke**.
 
 name:     Desert Scout
 text:     **Ability** 2: Charges and deals 4 damage to an unobstructed enemy in this row that is at least 2 tiles away.
 
 name:     Dunecaster
-text:     **Deploy**: Give +2⚔️/+2❤️ to a friendly Dervish. If it is a Wind Dervish, it no longer disappears.
+text:     **Deploy**: Give +2⚔️/+2❤️ to an allied Dervish. If it is a Wind Dervish, it no longer disappears.
 
 name:     Duskweaver
 text:     **Dying Wish**: Put a random Scion's Wish spell into your hand.
@@ -143,7 +143,7 @@ name:     Ethereal Obelysk
 text:     **Summon Dervish**
 
 name:     Fountain of Youth
-text:     Fully heal all friendly minions.
+text:     Fully heal all allied minions.
 
 name:     Iris Barrier
 text:     Your General takes no damage during your turn.
@@ -157,16 +157,16 @@ text:     **Ability** 2: Summon a Wind Dervish adjacent.
           At the start of your turn, deal 6 damage to all enemy minions in this column.
 
 name:     Metalmeld
-text:     Equip a friendly artifact that was destroyed this game.
+text:     Equip a random allied artifact that was destroyed this game.
 
 name:     Neurolink
-text:     Your General gains all keywords of friendly minions this turn.
+text:     Your General gains all keywords of allied minions this turn.
 
 name:     Obdurator
 text:     Your General gains +1⚔️. At the start of your turn, repair all of your artifacts by 1 durability.
 
 name:     Orbrider
-text:     **Deploy:** Return a friendly minion to your hand.
+text:     **Deploy:** Return an allied minion to your hand.
 
 name:     Pax
 text:     **Dying Wish**: Summon two 2⚔️/1❤️ Sand Dervishes nearby.
@@ -178,19 +178,19 @@ name:     Rashas Curse
 text:     Destroy a random artifact on the enemy General. Summon a Wind Dervish with Rush near them.
 
 name:     Reassemble
-text:     Return a friendly Obelysk to your hand and reduce its cost to 0. Draw a card.
+text:     Return an allied Obelysk to your hand and reduce its cost to 0. Draw a card.
 
 name:     Sand Trap
-text:     Choose an enemy minion. It can no longer move. At the end of your opponents next turn a Exhuming Sand will be created underneath.
+text:     Choose an enemy minion. It can no longer move. At the end of your opponent's next turn a Exhuming Sand will be created underneath.
 
 name:     Scion's Second Wish
-text:     Give a friendly minion +2⚔️/+2❤️. It takes no damage from Generals.
+text:     Give an allied minion +2⚔️/+2❤️. It takes no damage from Generals.
 
 name:     Staff of Y'Kir
 text:     Your General gains +2⚔️.
 
 name:     Whitestone Pendant
-text:     Friendly obelysks adjacent to your General are **Invulnerable**.
+text:     Allied Obelysks adjacent to your General are **Invulnerable**.
 
 name:     Wind Dervish
 text:     **Rush**
@@ -206,7 +206,7 @@ name:     Astral Flood
 text:     Put 3 random Battle Pets into your hand.
 
 name:     Astral Phasing
-text:     Give a friendly minion +5❤️ and Flying. It can no longer damage Generals.
+text:     Give an allied minion +5❤️ and **Flying**. It can no longer damage Generals.
 
 name:     Divine Spark
 text:     Draw two cards.
@@ -225,7 +225,7 @@ name:     Imperial Mechanyst
 text:     **Deploy**: Repair all of your artifacts to full durability.
 
 name:     Inner Oasis
-text:     Give all friendly minions +3❤️. Draw a card.
+text:     Give all allied minions +3❤️. Draw a card.
 
 name:     Orb Weaver
 text:     **Deploy**: Summon a copy of this minion.
@@ -241,7 +241,7 @@ name:     Sand Howler
 text:     **Cannot be targeted by enemy spells or Ability keyword effects.**
 
 name:     Scion's Third Wish
-text:     Give a friendly Dervish minion +3⚔️/+3❤️ and **Flying**.
+text:     Give an allied Dervish minion +3⚔️/+3❤️ and **Flying**.
 
 name:     Simulacra Obelysk
 text:     **Build** (2)*
@@ -311,7 +311,7 @@ name:     Accumulonimbus
 text:     **Intensify**: Summon 2 **Wind Dervishes** nearby your General.
 
 name:     Corpse Combustion
-text:     Summon all friendly minions with Dying Wish destroyed since your last turn on random spaces.
+text:     Summon all allied minions with Dying Wish destroyed since your last turn on random spaces.
 
 name:     Entropic Decay
 text:     Destroy an enemy minion nearby your General.
@@ -329,7 +329,7 @@ name:     Lost in the Desert
 text:     Deal 5 damage to enemies that are not nearby another enemy.
 
 name:     Sandswirl Reader
-text:     **Deploy:** Return a minion to its hand. Turn that space into Exhuming Sand.
+text:     **Deploy:** Return a minion to its owner's hand. Turn that space into Exhuming Sand.
 
 name:     Silica Weaver
 text:     **Deploy**: Progresses MECHAZ0R build by +40%.
@@ -354,7 +354,7 @@ text:     **Provoke**
           **Dying Wish**: Restore 5❤️ to your General.
 
 name:     Blood of Air
-text:     Transform an enemy minion into a friendly Wind Dervish.
+text:     Transform an enemy minion into an allied Wind Dervish.
 
 name:     Cataclysmic Fault
 text:     Turn the entire center column into Exhuming Sand.
@@ -395,20 +395,20 @@ name:     Lilithe Blightchaser
 text:     **Bloodbound Spell**: Summon 2 Wraithlings nearby.
 
 name:     Maehv Skinsolder
-text:     **Bloodbound Spell**: Destroy a friendly minion to summon a 4⚔️/4❤️ Husk nearby.
+text:     **Bloodbound Spell**: Destroy an allied minion to summon a 4⚔️/4❤️ Husk nearby.
 
 name:     Arcane Spirit
 text:
 
 name:     Darkfire Sacrifice
-text:     Destroy a friendly minion. Your next minion costs 2 less.
+text:     Destroy an allied minion. Your next minion costs 2 less.
 
 name:     Underlord Xor'xuul
-text:     **Aspect**: During your opponents turn any friendly non-token minions killed will resurect at the cost of 2 mana. You can only summon minions nearby your General.
+text:     **Aspect**: During your opponents turn any allied non-token minions killed this game will resurrect at the cost of 2 mana. You can only summon minions nearby your General.
 
 name:     AWESOME Awesomeness
 text:     Summon 2 AWESOME Wraithlings nearby your General. All your other Wraithlings become AWESOME as well.
-          And Summon a 4⚔️/4❤️ Fiend on every unoccupied friendly Shadow Creep tile.
+          And Summon a 4⚔️/4❤️ Fiend on every unoccupied allied Shadow Creep tile.
 
 name:     Abomination
 text:
@@ -420,13 +420,13 @@ name:     Abyssal Scar
 text:     Turn 1 space into Shadow Creep at the end of your turn.
 
 name:     Aphotic Drain
-text:     Destroy a friendly minion to restore 5❤️ to your General.
+text:     Destroy an allied minion to restore 5❤️ to your General.
 
 name:     Demonic Conversion
 text:     Draw a minion from your opponent's deck. It gains +1⚔️/+1❤️.
 
 name:     Furiosa
-text:     **Blood Surge**: Friendly Wraithlings gain +1⚔️/+1❤️.
+text:     **Blood Surge**: Allied Wraithlings gain +1⚔️/+1❤️.
 
 name:     Grasp Of Agony
 text:     Choose an enemy minion. When it dies, it deals 3 damage to enemies around it.
@@ -441,10 +441,10 @@ name:     Inkling Surge
 text:     Summon a 1⚔️/1❤️ Wraithling. If you have another Wraithling, draw a card.
 
 name:     Malice
-text:     Destroy a friendly minion to summon a 4⚔️/4❤️ Husk nearby.
+text:     Destroy an allied minion to summon a 4⚔️/4❤️ Husk nearby.
 
 name:     Nethermeld
-text:     Teleport any minion to friendly Shadow Creep.
+text:     Teleport any minion to an allied Shadow Creep.
 
 name:     Painful Pluck
 text:     **Intensify**: Turn 1 space into Shadow Creep. Cannot target spaces that has tiles.
@@ -477,20 +477,20 @@ name:     Blood Siren
 text:     **Deploy**: Give a enemy -2⚔️/-1❤️ this turn.
 
 name:     Consuming Rebirth
-text:     Destroy a friendly minion. At the end of your turn, re-summon it on the same space and give it +1⚔️/+1❤️.
+text:     Destroy an allied minion. At the end of your turn, re-summon it on the same space and give it +1⚔️/+1❤️.
 
 name:     Darkspine Elemental
 text:     **Deploy** and **Ability** 0: Relocate up to 2 shadow creep.
 
 name:     Deathfire Crescendo
-text:     Give a friendly minion "**Deathwatch**: Gains +1⚔️/+1❤️."
+text:     Give an allied minion "**Deathwatch**: Gains +1⚔️/+1❤️".
 
 name:     Deathmark
 text:     Deal 1 damage to an enemy minion. After it is attacked this turn, destroy it.
 
 name:     Echoing Shriek
 text:     **Echo**
-          Create a minor summoning circle under each friendly minion that dies this turn.
+          Create a minor summoning circle under each allied minion that dies this turn.
 
 name:     Fiend
 text:
@@ -526,28 +526,28 @@ name:     Shadowstalk
 text:     Summon a Wraithling behind each enemy.
 
 name:     Soulshatter Pact
-text:     Give all friendly minions +2⚔️ this turn.
+text:     Give all allied minions +2⚔️ this turn.
 
 name:     Spectral Blade
 text:     Your General gains +2⚔️. Whenever your General destroys an enemy, restore 2❤️ to your General.
 
 name:     The Releaser
-text:     When this artifact breaks, summon a random friendly non-token minion destroyed this game nearby.
+text:     When this artifact breaks, summon a random allied non-token minion destroyed this game nearby.
 
 name:     Yielding Depths
 text:     If you have three or more Shadow Creep, draw 2 cards.
 
 name:     AWESOME Abyssal Scar
-text:     Summon a 4⚔️/4❤️ Fiend on every unoccupied friendly Shadow Creep tile.
+text:     Summon a 4⚔️/4❤️ Fiend on every unoccupied allied Shadow Creep tile.
 
 name:     AWESOME Malice
-text:     Destroy a friendly minion. Summon Husks equal to the attack of that minion, nearby first.
+text:     Destroy an allied minion. Summon Husks equal to the attack of that minion, nearby first.
 
 name:     AWESOME Shadow Spawn
 text:     Summon 2 AWESOME Wraithlings nearby your General. All your other Wraithlings become AWESOME as well.
 
 name:     Abhorrent Unbirth
-text:     Destroy all friendly minions to summon a 1⚔️/1❤️ Abomination that gains their ⚔️, ❤️, and keywords.
+text:     Destroy all allied minions to summon a 1⚔️/1❤️ Abomination that gains their ⚔️, ❤️, and keywords.
 
 name:     Abyssal Juggernaut
 text:     This minion has +2⚔️/+2❤️ for each allied **Shadow Creep** nearby or underneath it at the start of the turn.
@@ -556,7 +556,7 @@ name:     Blood Baronette
 text:     **Deploy**: Double a Wraithling's ⚔️ and ❤️.
 
 name:     Blood Echoes
-text:     Destroy all friendly minions and resummon them on random spaces at end of turn.
+text:     Destroy all allied minions and resummon them on random spaces at end of turn.
 
 name:     Bonecrusher
 text:     **Intensify**: This minion gains +5⚔️.
@@ -570,7 +570,7 @@ text:     **Frenzy**
           **Deploy** and **Ability** 1: Teleport the enemy General one space.
 
 name:     Choking Tendrils
-text:     Destroy an enemy minion on friendly Shadow Creep.
+text:     Destroy an enemy minion on allied Shadow Creep.
 
 name:     Daemonic Lure
 text:     Deal 1 damage to an enemy minion and teleport it anywhere.
@@ -579,23 +579,23 @@ name:     Horrific Visage
 text:     Give all enemy minions -4⚔️ until your next turn.
 
 name:     Horror Burster
-text:     **Dying Wish**:  Transform a random friendly minion into a 6⚔️/6❤️ Horror.
+text:     **Dying Wish**:  Transform a random allied minion into a 6⚔️/6❤️ Horror.
 
 name:     Master of Shadows
-text:     Friendly Arcanyst minions have "**Deploy**: Deal 2 damage to an enemy."
+text:     Allied Arcanyst minions have "**Deploy**: Deal 2 damage to an enemy".
 
 name:     Punish
 text:     Destroy a damaged minion.
 
 name:     Putrid Dreadflayer
 text:     **Flying**
-          This minion will die if it is ever not on friendly **Shadow Creep**.
+          This minion will die if it is ever not on an allied **Shadow Creep**.
 
 name:     Ritual Banishing
-text:     Destroy a friendly minion to destroy an enemy minion.
+text:     Destroy an allied minion to destroy an enemy minion.
 
 name:     Shadow Reflection
-text:     Give a friendly minion +5⚔️.
+text:     Give an allied minion +5⚔️.
 
 name:     Shadow Watcher
 text:     **Deathwatch**: +1⚔️/+1❤️.
@@ -605,19 +605,19 @@ text:     **Sentinel**: General attacks.
           The enemy General has -1⚔️ and your General gains +1⚔️.
 
 name:     Soul Grimwar
-text:     Your General gains 'Deathwatch: Gains +2⚔️.'
+text:     Your General gains "Deathwatch: Gains +2⚔️".
 
 name:     Spirit Conduit
-text:     Whenever a friendly Arcanyst dies, put a 2⚔️/1❤️ Arcane Spirit into your hand.
+text:     Whenever an allied Arcanyst dies, put a 2⚔️/1❤️ Arcane Spirit into your hand.
 
 name:     Void Steal
-text:     Give an enemy minion -3⚔️. Nearby friendly minions gain +3⚔️.
+text:     Give an enemy minion -3⚔️. Nearby allied minions gain +3⚔️.
 
 name:     Void Talon
 text:     **Build** (1)
 
 name:     Wraithling Fury
-text:     Give a friendly **Wraithling** minion +4⚔️/+4❤️.
+text:     Give an allied **Wraithling** minion +4⚔️/+4❤️.
 
 name:     Wraithling Swarm
 text:     Summon three 1⚔️/1❤️ Wraithlings nearby each other.
@@ -627,13 +627,13 @@ text:     **Sentinel**: Spell cast.
           Whenever your opponent casts a spell, put a 4⚔️/4❤️ Fiend into your hand.
 
 name:     Abyssal Noble
-text:     **Ability** 4: Summon a random Demon on friendly **Shadow Creep**.
+text:     **Ability** 4: Summon a random Demon on an allied **Shadow Creep**.
 
 name:     Bloodtide Priestess
 text:     **Deathwatch**: Summon a Wraithling on a random adjacent space.
 
 name:     Breath of the Unborn
-text:     Deal 2 damage to all enemy minions. Fully heal all friendly minions.
+text:     Deal 2 damage to all enemy minions. Fully heal all allied minions.
 
 name:     Cacophynos
 text:     **Dying Wish**: Destroy a random nearby enemy minion.
@@ -643,7 +643,7 @@ text:     Deal 1 damage to the enemy General for each card in the opponent's han
 
 name:     Deepfire Devourer
 text:     **Frenzy**
-          **Deploy**: Destroy friendly minions around it and gain +2⚔️/+2❤️ for each minion.
+          **Deploy**: Destroy allied minions around it, gaining +2⚔️/+2❤️ for each.
 
 name:     Desolator
 text:     **Deploy**: Steal 2❤️ from the enemy General.
@@ -657,13 +657,13 @@ name:     Mindlathe
 text:     After your General damages a minion, reactivate and take control of it until the end of your turn.
 
 name:     Munch
-text:     Steal ❤️ from an enemy minion for each friendly Shadow Creep (but not more than its ❤️).
+text:     Steal ❤️ from an enemy minion for each allied Shadow Creep (but not more than its ❤️).
 
 name:     Nekomata
-text:     **Dying Wish**: Draw two minions with **Dying Wish** from your deck.
+text:     **Dying Wish**: Draw two minions with **Dying Wish**.
 
 name:     Nightshroud
-text:     **Bond**: Your General steals 1❤️ from the enemy General for each other friendly Arcanyst.
+text:     **Bond**: Your General steals 1❤️ from the enemy General for each other allied Arcanyst.
 
 name:     Shadow Nova
 text:     Turn a 2x2 area into Shadow Creep.
@@ -675,25 +675,25 @@ name:     Shadowdancer
 text:     **Deathwatch**: Restore 1❤️ to your General.
 
 name:     Vellumscry
-text:     Destroy a friendly minion to draw three cards.
+text:     Destroy an allied minion to draw three cards.
 
 name:     Wraithcrown
-text:     Friendly **Wraithlings** have +2⚔️/+2❤️.
+text:     Allied **Wraithlings** have +2⚔️/+2❤️.
 
 name:     Black Solus
 text:     When you summon a **Wraithling**, this minion gains +2⚔️.
 
 name:     Corporeal Cadence
-text:     Destroy a friendly minion to deal its ⚔️ to the enemy General.
+text:     Destroy an allied minion to deal its ⚔️ to the enemy General.
 
 name:     Furor Chakram
-text:     Friendly minions gain +2⚔️ and Frenzy.
+text:     Allied minions gain +2⚔️ and Frenzy.
 
 name:     Hexclaw
-text:     **Dying Wish**: The enemy General gains, "At the start of your turn, take 1 damage."
+text:     **Dying Wish**: The enemy General gains, "At the start of your turn, take 1 damage".
 
 name:     Nether Summoning
 text:     Summon 2 non-token minions destroyed since the end of your last turn nearby.
 
 name:     Night Fiend
-text:     **Deploy**: Deal 2 damage to each enemy on or near friendly Shadow Creep.
+text:     **Deploy**: Deal 2 damage to each enemy on or near allied Shadow Creep.
