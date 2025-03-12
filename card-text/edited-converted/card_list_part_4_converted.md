@@ -9,8 +9,8 @@ name:     Myriad
 text:     **Blood Surge**: Summon a random Wall nearby.
 
 name:     Permafrost
-text:     Stun an enemy minion.
-          Stunned enemy minions Stun a nearby enemy.
+text:     **Stun** an enemy minion.
+          **Stunned** enemy minions **Stun** a random nearby enemy.
 
 name:     Snow Rippler
 text:     **Infiltrate**: Whenever this minion damages a General, put a random Battle Pet into your hand.
@@ -19,7 +19,7 @@ name:     Snowpiercer
 text:     Your General gains +3⚔️.
 
 name:     Volatile Crystal
-text:     During your opponent's turn, whenever an enemy moves to or is summoned nearby, detonate dealing 8 damage to itself and all nearby enemies.
+text:     During your opponent's turn, whenever an enemy appears nearby, Detonate dealing 8 damage.
 
 name:     Whispering Horn
 text:     Whenever your General attacks or counterattacks, summon a Flurry nearby that can repair your artifacts.
@@ -93,7 +93,7 @@ name:     Wind Sister Maia
 text:     Whenever you summon a minion (including this one) on the opponent's side of the field, it gains +1⚔️/+1❤️.
 
 name:     Winterblade
-text:     Your General gains +2⚔️. Enemy minions damaged by your General are Stunned.
+text:     Your General gains +2⚔️. Enemy minions damaged by your General are **Stunned**.
 
 name:     Wintertide
 text:     Summon three 2⚔️/2❤️ Vespyr Winter Maerids on any column.
@@ -177,11 +177,6 @@ text:     Deal 1 damage to an enemy.
 name:     Brilliant Plume
 text:     Restore 1❤️ to your General. Draw a card.
 
-name:     Eruptive Egg
-text:      If this minion dies during your opponents turn it deals 3 damage to all enemies around it.
-          This minion takes 1 damage at the end of your opponents turn.
-          **Docile**, cannot move.
-
 name:     Exhuming Sand
 text:     Summons a 2⚔️/1❤️ Sand Dervish when its owner summons a minion from their hand.
 
@@ -210,7 +205,7 @@ name:     Bloodtear Alchemist
 text:     **Deploy**: Deal 1 damage to an enemy.
 
 name:     Devour
-text:     Devour any minion with the highest attack or tied for the highest ⚔️, gain it's stats and keywords.
+text:     Devour any minion with the highest attack or tied for the highest ⚔️, gain its stats and keywords.
 
 name:     Dex
 text:     **Celerity**
@@ -316,13 +311,13 @@ name:     Broken Captive
 text:     **Rush**
 
 name:     Carcynus
-text:     **Ability** 1: Gain +1❤️. Also Gain Provoke until the start of your next turn.
+text:     **Ability** 1: Gain +1❤️. Also gain **Provoke** until the start of your next turn.
 
 name:     Celebrant
 text:     **Deploy**:  Create a mana spring tile.
 
 name:     Crimson Guide
-text:     At the end of its owner's turn this minion creates a minor summoning circle on it's location.
+text:     At the end of its owner's turn this minion creates a minor summoning circle on its location.
 
 name:     Cryptographer
 text:     **Deploy**: Refresh your Bloodbound Spell.
@@ -331,9 +326,8 @@ name:     Dispirited Prisoner
 text:     **Frenzy**
 
 name:     Dragonlark
-text:     When this minion moves create a Eruptive Egg on it's previous location.
-          **Celerity**
-          **Docile**
+text:     **Docile**, **Celerity**
+          When this minion moves, create an Eruptive Egg on its previous location.
 
 name:     Drudging Servant
 text:     **Flying**

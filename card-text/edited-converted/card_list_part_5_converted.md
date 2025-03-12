@@ -5,7 +5,7 @@ name:     Elkowl
 text:     **Deploy**: Gain two random keywords.
 
 name:     Ephemeral Shroud
-text:     **Deploy**: Dispel 1 space.
+text:     **Deploy**: **Dispel** 1 space.
 
 name:     Gatekeeper
 text:     Can only move vertically. This effect cannot be dispelled.
@@ -59,7 +59,7 @@ name:     Rokadoptera
 text:     **Deploy**: Put a Boulder Hurl into your hand.
 
 name:     Sand Burrower
-text:     At the end of its owner's turn this minion deals 1 damage to and stuns the enemy minion in front of it.
+text:     At the end of its owner's turn this minion deals 1 damage to and **Stuns** the enemy minion in front of it.
 
 name:     Sapphire Seer
 text:     **Forcefield**
@@ -167,7 +167,7 @@ text:     **Forcefield**
           **Deploy**: Progresses MECHAZ0R build by +20%.
 
 name:     Dioltas
-text:     **Dying Wish**: Summon a 0⚔️/8❤️ Tombstone minion with Provoke near your General.
+text:     **Dying Wish**: Summon a 0⚔️/8❤️ Tombstone minion with **Provoke** near your General.
 
 name:     Emerald Rejuvenator
 text:     **Deploy**: Restore 4❤️ to your General.
@@ -340,14 +340,14 @@ name:     Grincher
 text:     **Deploy**: Add a random artifact to your hand. It costs 3 less.
 
 name:     Hollow Grovekeeper
-text:     **Deploy**: Destroy any minion with Provoke or Frenzy. If you do, this minion gains Provoke and Frenzy.
+text:     **Deploy**: Destroy any minion with **Provoke** or **Frenzy**. If you do, this minion gains **Provoke** and **Frenzy**.
 
 name:     Impervious Giago
 text:     **Provoke**
           Whenever this minion is attacked, it gains +2⚔️.
 
 name:     Ironclad
-text:     **Dying Wish**: Dispel all enemy minions.
+text:     **Dying Wish**: **Dispel** all enemy minions.
 
 name:     Keeper of the Vale
 text:     **Deploy**: Summon a random non-token allied minion destroyed this game.
@@ -357,7 +357,7 @@ text:     **Ranged** (2)
           Whenever your General attacks, a cub joins the pack.
 
 name:     Lightbender
-text:     **Deploy**: Dispel all spaces around it.
+text:     **Deploy**: **Dispel** all spaces around it.
 
 name:     Lux Ignis
 text:     **Ranged** (2)
@@ -491,7 +491,7 @@ text:     **Forcefield**
           Whenever this minion attacks or is attacked, draw a card.
 
 name:     EMP
-text:     **Ability** 0: Dispel all minions and Generals, and destroy all artifacts.
+text:     **Ability** 0: **Dispel** all minions and Generals, and destroy all artifacts.
 
 name:     Emberwyrm
 text:     **Flying**
@@ -516,8 +516,7 @@ name:     Rook
 text:     **Deploy** and at the end of your turn: this minion gains a random Faction ability.
 
 name:     War Talon
-text:     **Frenzy**
-          **Provoke**
+text:     **Frenzy**, **Provoke**
 
 name:     Whistling Blade
 text:     **Provoke**

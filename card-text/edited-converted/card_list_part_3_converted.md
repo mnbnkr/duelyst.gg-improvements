@@ -64,7 +64,7 @@ name:     Ragnora the Relentless
 text:     **Bloodbound Spell**: Summon a Ripper Egg.
 
 name:     Starhorn the Seeker
-text:     **Bloodbound Spell**: Both players draw a card. The card you draw has it's mana cost reduced by 1.
+text:     **Bloodbound Spell**: Both players draw a card. The card you draw has its mana cost reduced by 1.
 
 name:     Vaath the Immortal
 text:     **Bloodbound Spell**: Give your General +1⚔️ and heal your General for 1❤️.
@@ -122,7 +122,7 @@ text:     May move two additional spaces.
           **Rebirth**
 
 name:     Seeking Eye
-text:     Both players draw a card. The card you draw has it's mana cost reduced by 1.
+text:     Both players draw a card. The card you draw has its mana cost reduced by 1.
 
 name:     Tremor
 text:     **Stun** enemy minions in a 2x2 area.
@@ -143,7 +143,7 @@ name:     Deep Impact
 text:     Deal damage to a minion to reduce its ❤️ to 1.
 
 name:     Diretide Frenzy
-text:     Give an allied minion +1⚔️ and Frenzy.
+text:     Give an allied minion +1⚔️ and **Frenzy**.
 
 name:     Embryotic Insight
 text:     If you have an Egg, draw 2 cards.
@@ -158,7 +158,7 @@ name:     Invigoration
 text:     **Intensify:** Restore 3❤️ to your General.
 
 name:     Iridium Scale
-text:     Your General gains Frenzy.
+text:     Your General gains **Frenzy**.
 
 name:     Kujata
 text:     Your minions cost 1 less to summon and take 1 damage when summoned from your hand.
@@ -170,7 +170,7 @@ name:     Phalanxar
 text:
 
 name:     Primal Ballast
-text:     Dispel a space. If there is a minion on that space, give it +2⚔️/+2❤️.
+text:     **Dispel** a space. If there is a minion on that space, give it +2⚔️/+2❤️.
 
 name:     Rancour
 text:     Whenever your General takes damage, this minion gains that much attack.
@@ -185,7 +185,7 @@ name:     Tectonic Spikes
 text:     Both players draw 3 cards.
 
 name:     Vaath's Brutality
-text:     Stun an enemy minion. Give your General +1⚔️.
+text:     **Stun** an enemy minion. Give your General +1⚔️.
 
 name:     Warpup
 text:     **Frenzy**
@@ -408,7 +408,7 @@ name:     Faie Bloodwing
 text:     **Bloodbound Spell**: Deal 2 damage to all enemies in the enemy General's column.
 
 name:     Ilena Cryobyte
-text:     **Bloodbound Spell**: Reduce the movement of an enemy minion by 1. If the target is nearby Stun it instead.
+text:     **Bloodbound Spell**: Reduce the movement of an enemy minion by 1. If the target is nearby **Stun** it instead.
 
 name:     Kara Winterblade
 text:     **Bloodbound Spell**: Any minion you summon this turn gains +1⚔️/+1❤️.
@@ -417,7 +417,7 @@ name:     Blazing Spines
 text:     **Wall**
 
 name:     Bonechill Barrier
-text:     Units next to this minion that attack it are Stunned.
+text:     Units next to this minion that attack it are **Stunned**.
           **Wall**
 
 name:     Essence Sculpt
@@ -444,13 +444,13 @@ name:     Aspect of Ego
 text:     Transform any minion into a random minion of the same cost.
 
 name:     Crystallize
-text:     Reduce the movement of an enemy minion by 1. If the target is nearby Stun it instead.
+text:     Reduce the movement of an enemy minion by 1. If the target is nearby **Stun** it instead.
 
 name:     Flurry
 text:     When this minion attacks, repair all of your artifacts by 1 durability.
 
 name:     Iceshatter Gauntlet
-text:     Whenever your General attacks a Stunned minion, destroy it instantly.
+text:     Whenever your General attacks a **Stunned** minion, destroy it instantly.
 
 name:     Kinetic Surge
 text:     Any minion you summon this turn gains +1⚔️/+1❤️.
@@ -459,7 +459,7 @@ name:     Lesser Waterball
 text:     Deal 4 damage to an enemy minion.
 
 name:     Mesmerize
-text:     Teleport an enemy one space. It's movement is reduced by one until the end of its owner's turn.
+text:     Teleport an enemy one space. Its movement is reduced by one until the end of its owner's turn.
 
 name:     Shivers
 text:     **Flying**
@@ -467,7 +467,7 @@ text:     **Flying**
 
 name:     Silent Intensity
 text:     **Echo**
-          Give an allied minion +4⚔️ during your opponents turn.
+          Give an allied minion +4⚔️ during your opponent's turn.
 
 name:     Snow Chaser
 text:     **Infiltrate**: When this minion dies, return it to your hand.
@@ -527,7 +527,7 @@ name:     Fox Ravager
 text:
 
 name:     Frigid Corona
-text:     Stun an enemy minion. Draw a card.
+text:     **Stun** an enemy minion. Draw a card.
 
 name:     Frostfire
 text:     Give an allied minion +3⚔️. If it is Vespyr, also give it +3❤️.
@@ -542,7 +542,7 @@ name:     Hearth-sister
 text:     **Deploy**: Switch positions with any other minion.
 
 name:     Icy
-text:     **Deploy**: Stun an enemy.
+text:     **Deploy**: **Stun** an enemy.
 
 name:     Lightning Blitz
 text:     **Echo**
@@ -561,16 +561,16 @@ name:     Protosensor
 text:     **Airdrop**, **Build** (1)
 
 name:     Resonance Scythe
-text:     Your General has +1⚔️. Reactivate your General whenever they destroy a Stunned enemy.
+text:     Your General has +1⚔️. Reactivate your General whenever they destroy a **Stunned** enemy.
 
 name:     Rolling Snowstorm
-text:     At the start of your next 9 turns deal 6 damage to all enemies in a column starting with the far column on your opponents starting side.
+text:     At the start of your next 9 turns deal 6 damage to all enemies in a column starting with the far column on your opponent's starting side.
 
 name:     Shatter
 text:     Destroy a **Stunned** enemy minion.
 
 name:     Thicket Augur
-text:     **Intensify**: Summon 1 Treant with Provoke nearby.
+text:     **Intensify**: Summon 1 Treant with **Provoke** nearby.
 
 name:     Wild Warbird
 text:     **Ability** 1: Deal 2 damage to all enemies in this column.
@@ -585,7 +585,7 @@ name:     Blazing Spines
 text:     Summon two joined 3⚔️/3❤️ Walls that can attack.
 
 name:     Chromatic Cold
-text:     Dispel a space. If there is an enemy on that space, deal it 1 damage.
+text:     **Dispel** a space. If there is an enemy on that space, deal it 1 damage.
 
 name:     Cryonic Potential
 text:     Give an exhausted allied minion +6⚔️/+6❤️.
@@ -618,7 +618,7 @@ name:     Hailstone Prison
 text:     Return any minion to its owner's hand.
 
 name:     Hydrogarm
-text:     **Blood Surge**: Deal 1 damage to enemy minions in this row and Stun them.
+text:     **Blood Surge**: Deal 1 damage to enemy minions in this row and **Stun** them.
 
 name:     Iceblade Dryad
 text:     **Deploy**: Give an allied Vespyr minion +1⚔️/+1❤️ and **Flying**.

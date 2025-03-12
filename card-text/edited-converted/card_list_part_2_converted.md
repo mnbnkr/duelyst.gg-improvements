@@ -55,10 +55,10 @@ name:     Oblivion Sickle
 text:     Whenever your General destroys an enemy, turn that space into **Exhuming Sand**.
 
 name:     Rae
-text:     **Dying Wish**: Dispel the nearest enemy minion.
+text:     **Dying Wish**: **Dispel** the nearest enemy minion.
 
 name:     Siphon Energy
-text:     Dispel an enemy minion nearby your General.
+text:     **Dispel** an enemy minion nearby your General.
 
 name:     Arid Unmaking
 text:     Destroy an allied minion to turn its space into Exhuming Sand.
@@ -404,7 +404,7 @@ name:     Darkfire Sacrifice
 text:     Destroy an allied minion. Your next minion costs 2 less.
 
 name:     Underlord Xor'xuul
-text:     **Aspect**: During your opponents turn any allied non-token minions killed this game will resurrect at the cost of 2 mana. You can only summon minions nearby your General.
+text:     **Aspect**: During your opponent's turn any allied non-token minions killed this game will resurrect at the cost of 2 mana. You can only summon minions nearby your General.
 
 name:     AWESOME Awesomeness
 text:     Summon 2 AWESOME Wraithlings nearby your General. All your other Wraithlings become AWESOME as well.
@@ -505,7 +505,7 @@ name:     Gor
 text:     **Dying Wish**: Re-summon this minion in a random corner.
 
 name:     Infest
-text:     Choose an enemy minion. When it dies, creates a wraithling on it's location, deal 2 damage to the enemy general and give this effect to all nearby enemy minions.
+text:     Choose an enemy minion. When it dies, creates a wraithling on its location, deal 2 damage to the enemy general and give this effect to all nearby enemy minions.
 
 name:     Inkhorn Gaze
 text:     Deal 2 damage to a minion. If it dies this turn, put a random Battle Pet into your hand.
@@ -687,7 +687,7 @@ name:     Corporeal Cadence
 text:     Destroy an allied minion to deal its ⚔️ to the enemy General.
 
 name:     Furor Chakram
-text:     Allied minions gain +2⚔️ and Frenzy.
+text:     Allied minions gain +2⚔️ and **Frenzy**.
 
 name:     Hexclaw
 text:     **Dying Wish**: The enemy General gains, "At the start of your turn, take 1 damage".

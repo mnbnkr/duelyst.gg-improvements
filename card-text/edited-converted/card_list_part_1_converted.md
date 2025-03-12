@@ -36,7 +36,7 @@ name:     Conscript
 text:
 
 name:     Crestfallen
-text:     **Zeal**: Provoke.
+text:     **Zeal**: **Provoke**.
 
 name:     Draining Wave
 text:     Deal 4 damage to a minion and your General.
@@ -157,7 +157,7 @@ name:     Afterblaze
 text:     Give an allied minion +2⚔️/+4❤️. If that minion has **Zeal**, draw a card.
 
 name:     Aperion's Claim
-text:     Create **Hallowed Ground** in a 3x3 area. At the end of your opponents next turn, destroy all enemy minions standing on them.
+text:     Create **Hallowed Ground** in a 3x3 area. At the end of your opponent's next turn, destroy all enemy minions standing on them.
 
 name:     Arclyte Sentinel
 text:     **Deploy**: Give any nearby minion +2⚔️/-2❤️.

@@ -32,7 +32,7 @@ keyword:  **Build** (1)
           Spawns as a 0⚔️/10❤️ structure. After 1 turn the structure will transform into this minion.
           The structure cannot move, attack or be dispelled.
 
-keyword:  **Build** (2)
+keyword:  **Build** ()
           Spawns as a 0⚔️/10❤️ structure. After 2 turns the structure will transform into this minion.
           The structure cannot move, attack or be dispelled.
 
@@ -44,6 +44,12 @@ keyword:  **Deathwatch**
 
 keyword:  **Deploy**
           Effect triggers when minion is summoned from the hand.
+
+keyword:  **Detonate**
+          Damage yourself and all nearby units.
+
+keyword:  **Detonate (2)**
+          Damage yourself and all exposed units within a range of 2.
 
 keyword:  **Dispel**
           Removes all effects from the target minion or space.
@@ -73,7 +79,7 @@ keyword:  **Grow** +1⚔️/+1❤️
           Unit gains +1⚔️/+1❤️ at the begining of its owner's turn.
 
 keyword:  **Infiltrate**
-          Extra effect is active while this minion is on your opponents starting side of the board.
+          Extra effect is active while this minion is on your opponent's starting side of the board.
 
 keyword:  **Intensify**
           Effect triggers when card comes into play. Effect gets more potent each time the card is played by the same player.
@@ -115,7 +121,7 @@ keyword:  **Stun**
           The target minion cannot move or act for 1 turn.
 
 keyword:  **Summon Dervish**
-          At the beginning of it's owners turn this minion will summon a Wind Dervish on a nearby open tile.
+          At the beginning of its owners turn this minion will summon a Wind Dervish on a nearby open tile.
 
 keyword:  **Wall**
           Walls cannot move. If a Wall is dispelled it will dissapear.
@@ -136,6 +142,11 @@ tooltip: **Awesome Shadow Spawn**
 
 tooltip:  **Blacksteel Glave**
           +Ranged (2)
+
+tooltip:  **Eruptive Egg**
+          If this minion dies during your opponent's turn it deals 3 damage to all enemies around it.
+          This minion takes 1 damage at the end of your opponent's turn.
+          **Docile**, cannot move.
 
 tooltip:  **Justicar's Bastion**
           **Provoke**, +3❤️ and may move an aditional space.
