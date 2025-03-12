@@ -32,10 +32,10 @@ text:     **Deploy**: Your opponent summons two Komodo Chargers nearby their Gen
 
 name:     Lady Locke
 text:     **Provoke**
-          **Deploy**: Other minions you summon this turn gain +1/+1 and gain **Provoke**.
+          **Deploy**: Other minions you summon this turn gain +1⚔️/+1❤️ and gain **Provoke**.
 
 name:     Mirkblood Devourer
-text:     Friendly minions summoned nearby this minion gain +1/+1.
+text:     Friendly minions summoned nearby this minion gain +1⚔️/+1❤️.
 
 name:     Mogwai
 text:     After this moves, draw a card.
@@ -44,13 +44,13 @@ name:     Orbo the Ostentatious
 text:     **Deploy**: Transform the cards in your hand into random gold legendary cards.
 
 name:     Prismatic Illusionist
-text:     Whenever you cast a spell, summon a 2/1 Illusion on a random nearby space.
+text:     Whenever you cast a spell, summon a 2⚔️/1❤️ Illusion on a random nearby space.
 
 name:     Prongbok
 text:     May move an additional space.
 
 name:     Redsteel Minos
-text:     **Blood Surge**: Gains +2/+2.
+text:     **Blood Surge**: Gains +2⚔️/+2❤️.
 
 name:     Repulsor Beast
 text:     **Deploy**: Push a nearby enemy minion to any space.
@@ -72,7 +72,7 @@ text:     If this minion destroys an enemy and survives, friendly Scarzig anyWHE
 
 name:     Scarzig, Feather Knight
 text:     **Celerity**
-          Whenever this minion attacks, give other friendly minions +1/+1.
+          Whenever this minion attacks, give other friendly minions +1⚔️/+1❤️.
 
 name:     Sellsoul
 text:     **Dying Wish**: Deal 4 damage to YOUR General.
@@ -91,7 +91,7 @@ name:     Sojourner
 text:     Whenever this minion deals damage, draw a card.
 
 name:     Songweaver
-text:     **Deploy**: Give a friendly minion +1/+1.
+text:     **Deploy**: Give a friendly minion +1⚔️/+1❤️.
 
 name:     Sun Seer
 text:     Whenever this minion deals damage, restore 2❤️ to your General.
@@ -125,7 +125,7 @@ text:     **Frenzy**
           Whenever an enemy attacks during the opponent's turn, this minion gains +3⚔️ until the end of your turn.
 
 name:     Wind Runner
-text:     After this minion moves, give all friendly minions around it +1/+1.
+text:     After this minion moves, give all friendly minions around it +1⚔️/+1❤️.
 
 name:     Wings of Paradise
 text:     **Flying**
@@ -167,13 +167,13 @@ text:     **Forcefield**
           **Deploy**: Progresses MECHAZ0R build by +20%.
 
 name:     Dioltas
-text:     **Dying Wish**: Summon a 0/8 Tombstone minion with Provoke near your General.
+text:     **Dying Wish**: Summon a 0⚔️/8❤️ Tombstone minion with Provoke near your General.
 
 name:     Emerald Rejuvenator
 text:     **Deploy**: Restore 4❤️ to your General.
 
 name:     Feralu
-text:     Friendly minions from any tribe have +1/+1.
+text:     Friendly minions from any tribe have +1⚔️/+1❤️.
           **Ability** 2: Put 2 copies of a nearby tribal minion into your hand.
 
 name:     Fire Spitter
@@ -313,7 +313,7 @@ name:     Chakkram
 text:     This minion costs 2 less if your General took damage on opponent's last turn.
 
 name:     Chirpuka
-text:     Whenever your opponent summons a minion, summon a 2/1 Puka with **Provoke** in front of it.
+text:     Whenever your opponent summons a minion, summon a 2⚔️/1❤️ Puka with **Provoke** in front of it.
 
 name:     DECEPTIB0T
 text:     Whenever this minion destroys an enemy, summon a different Mech minion from your deck nearby.
@@ -331,7 +331,7 @@ name:     Fireblazer
 text:     **Provoke**
 
 name:     Firestarter
-text:     Whenever you cast a spell, summon a 1/1 Spellspark with Rush on a random nearby space.
+text:     Whenever you cast a spell, summon a 1⚔️/1❤️ Spellspark with Rush on a random nearby space.
 
 name:     Golden Justicar
 text:     **Equipped** with Justicar's Bastion.
@@ -379,7 +379,7 @@ name:     Sworn Defender
 text:     Whenever your General takes damage, fully heal this minion.
 
 name:     The High Hand
-text:     **Deploy**: Gains +1/+1 for each card in your opponent's hand.
+text:     **Deploy**: Gains +1⚔️/+1❤️ for each card in your opponent's hand.
 
 name:     Theobule
 text:     **Deploy**: Replace each card in your hand.
@@ -419,11 +419,11 @@ text:     While this minion is on the battlefield, your General has Forcefield.
 
 name:     Inquisitor Kron
 text:     **Provoke**
-          Whenever you replace a card, summon a 2/2 Prisoner with a random ability nearby.
+          Whenever you replace a card, summon a 2⚔️/2❤️ Prisoner with a random ability nearby.
 
 name:     Jax Truesight
 text:     **Ranged** (2)
-          **Deploy**: Summon a 1/1 **Ranged** Mini-Jax in each corner.
+          **Deploy**: Summon a 1⚔️/1❤️ **Ranged** Mini-Jax in each corner.
 
 name:     Lodestar
 text:     **Forcefield**
@@ -434,7 +434,7 @@ name:     Magesworn
 text:     Both players cannot cast spells that cost 2 or less.
 
 name:     Project &Omega;
-text:     This minion gains +2/+2 for each other Mech minion you summoned this game.
+text:     This minion gains +2⚔️/+2❤️ for each other Mech minion you summoned this game.
 
 name:     Q'orrhlma'a
 text:     **Deploy**: Remove all minions that cost 2 or less from your deck.
@@ -474,7 +474,7 @@ name:     Zen'rui, the Blightspawned
 text:     **Deploy**: Take control of a nearby enemy minion with 2 or less ⚔️.
 
 name:     Astral Crusader
-text:     Whenever you replace this card, it and any other Astral Crusader in your deck cost 3 less and gains +2/+2.
+text:     Whenever you replace this card, it and any other Astral Crusader in your deck cost 3 less and gains +2⚔️/+2❤️.
 
 name:     Dagona
 text:     **Deploy**: Devour any minion, anywhere.
@@ -504,7 +504,7 @@ text:     **Airdrop**
           **Deploy**: Push all nearby minions and Generals to random spaces.
 
 name:     Pandora
-text:     At the end of your turn, summon a 3/3 Spirit Wolf with a random ability into a nearby space.
+text:     At the end of your turn, summon a 3⚔️/3❤️ Spirit Wolf with a random ability into a nearby space.
 
 name:     Red Synja
 text:     Whenever your General takes damage, deal 7 damage to a random nearby enemy minion.

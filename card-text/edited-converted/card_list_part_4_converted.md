@@ -1,9 +1,9 @@
 name:     Kindred Hunter
-text:     **Bond**: Summon a 3/3 Night Howler on a random nearby space.
+text:     **Bond**: Summon a 3⚔️/3❤️ Night Howler on a random nearby space.
 
 name:     Moonlit Basilysk
 text:     **Sentinel**: Spell cast.
-          Whenever your opponent casts a spell, this minion gains +3/+3.
+          Whenever your opponent casts a spell, this minion gains +3⚔️/+3❤️.
 
 name:     Myriad
 text:     **Blood Surge**: Summon a random Wall nearby.
@@ -35,7 +35,7 @@ name:     Aspect of Shim'zar
 text:     Transform any minion into a random Battle Pet.
 
 name:     Aspect of the Wyrm
-text:     Transform any minion into a 4/4 Whyte Drake with Flying. Nearby friendly minions gain Flying.
+text:     Transform any minion into a 4⚔️/4❤️ Whyte Drake with Flying. Nearby friendly minions gain Flying.
 
 name:     Avalanche
 text:     Deal 4 damage to everything on your starting side of the battlefield and **Stun** them.
@@ -50,7 +50,7 @@ name:     Denadoro
 text:     **Infiltrate**: Your General has **Infiltrate**: +1⚔️ and **Force Field**.
 
 name:     Endless Hunt
-text:     Summon a 3/3 Vespyr **Night Howler**. Put an Endless Hunt into your hand.
+text:     Summon a 3⚔️/3❤️ Vespyr **Night Howler**. Put an Endless Hunt into your hand.
 
 name:     Huldra
 text:     **Ability 2**: Return a minion to its owner's hand. It gains **Echo**.
@@ -78,41 +78,41 @@ name:     Sleet Dasher
 text:     Whenever this minion destroys an enemy, reactivate it.
 
 name:     Voice of the Wind
-text:     Whenever you summon a minion from your hand, summon a 2/2 Vespyr Winter Maerid nearby.
+text:     Whenever you summon a minion from your hand, summon a 2⚔️/2❤️ Vespyr Winter Maerid nearby.
 
 name:     Wailing Overdrive
-text:     Give a friendly minion on your opponent's starting side of the battlefield +5/+5.
+text:     Give a friendly minion on your opponent's starting side of the battlefield +5⚔️/+5❤️.
 
 name:     White Asp
-text:     Your General gains +3⚔️. Whenever your General destroys a minion, summon a 3/3 **Blazing Spine Wall** on that space.
+text:     Your General gains +3⚔️. Whenever your General destroys a minion, summon a 3⚔️/3❤️ **Blazing Spine Wall** on that space.
 
 name:     Whyte Drake
 text:     **Flying**
 
 name:     Wind Sister Maia
-text:     Whenever you summon a minion (including this one) on the opponent's side of the field, it gains +1/+1.
+text:     Whenever you summon a minion (including this one) on the opponent's side of the field, it gains +1⚔️/+1❤️.
 
 name:     Winterblade
 text:     Your General gains +2⚔️. Enemy minions damaged by your General are Stunned.
 
 name:     Wintertide
-text:     Summon three 2/2 Vespyr Winter Maerids on any column.
+text:     Summon three 2⚔️/2❤️ Vespyr Winter Maerids on any column.
 
 name:     Animus Plate
-text:     Your General gains +2⚔️. Whenever your General attacks or counterattacks, give all friendly Vespyr minions +2/+2.
+text:     Your General gains +2⚔️. Whenever your General attacks or counterattacks, give all friendly Vespyr minions +2⚔️/+2❤️.
 
 name:     Arctic Displacer
 text:     **Airdrop**
 
 name:     Auroraboros
-text:     Give friendly minions "Dying Wish: Re-summon this minion on this space.".
-          **Echo**
+text:     **Echo**
+          Give friendly minions "Dying Wish: Re-summon this minion on this space."
 
 name:     Cloudcaller
 text:     **Deploy**: Your Bloodbound Spell refreshes and is Lesser Waterball this turn.
 
 name:     Enfeeble
-text:     All minions become 1/1.
+text:     All minions become 1⚔️/1❤️.
 
 name:     Fenrir Berserker
 text:     **Dying Wish**: Summon a Fenrir Warmaster on this space.
@@ -122,26 +122,26 @@ text:     **Infiltrate**: Gain +1⚔️ and **Celerity**
 
 name:     Frostiva
 text:     **Forcefield**
-          Whenever this minion attacks or is attacked, summon a 3/3 Vespyr Night Howler nearby.
+          Whenever this minion attacks or is attacked, summon a 3⚔️/3❤️ Vespyr Night Howler nearby.
 
 name:     Luminous Charge
-text:     Summon five joined 0/1 Walls that deal 2 damage to nearby enemies when destroyed.
+text:     Summon five joined 0⚔️/1❤️ Walls that deal 2 damage to nearby enemies when destroyed.
 
 name:     Matron Elveiti
-text:     **Infiltrate**: All friendly minions on your opponent's starting side gain +1/+1 at the end of each turn.
+text:     **Infiltrate**: All friendly minions on your opponent's starting side gain +1⚔️/+1❤️ at the end of each turn.
 
 name:     Spirit of the Wild
 text:     Reactivate friendly minions on your opponent's starting side of the battlefield.
 
 name:     Aspect of the Mountains
-text:     Transform any minion into a 5/5 Seismic Elemental. Deal 5 damage to enemy minions around it.
+text:     Transform any minion into a 5⚔️/5❤️ Seismic Elemental. Deal 5 damage to enemy minions around it.
 
 name:     Draugar Eyolith
-text:     While this is building or on the battlefield, enemy minions and Generals can only move 1 space.
-          **Build**:2
+text:     **Build** (2)
+          While this is building or on the battlefield, enemy minions and Generals can only move 1 space.
 
 name:     Draugar Lord
-text:     **Dying Wish**: Summon a 4/8 Ice Drake on this space.
+text:     **Dying Wish**: Summon a 4⚔️/8 Ice Drake on this space.
 
 name:     Echo Deliverant
 text:     Whenever you summon another Mech, summon a copy of it nearby.
@@ -153,11 +153,11 @@ name:     Icebreak Ambush
 text:     Summon an ambush of Infiltrate minions on your opponent's starting side of the battlefield.
 
 name:     Vespyrian Might
-text:     Give a Vespyr minion +2/+2 for each friendly Vespyr.
+text:     Give a Vespyr minion +2⚔️/+2❤️ for each friendly Vespyr.
 
 name:     Ancient Grove
 text:     **Provoke**
-          **Deploy**: Your minions gain "Dying Wish: Summon a 1/1 Treant with Provoke".
+          **Deploy**: Your minions gain "Dying Wish: Summon a 1⚔️/1❤️ **Treant**."
 
 name:     Flawless Reflection
 text:     Choose a minion. Transform all nearby minions into copies of it.
@@ -171,10 +171,6 @@ text:     **Deploy**: Surround the enemy General with random Walls.
 name:     Ice Age
 text:     Summon Blazing Spines along the outside of the battlefield.
 
-name:     Blacksteel Glave
-text:     Equipment is **Invulnerable**
-          Ranged (2)
-
 name:     Boulder Hurl
 text:     Deal 1 damage to an enemy.
 
@@ -187,14 +183,10 @@ text:      If this minion dies during your opponents turn it deals 3 damage to a
           **Docile**, cannot move.
 
 name:     Exhuming Sand
-text:     Summons a 2/1 Sand Dervish when its owner summons a minion from their hand.
+text:     Summons a 2⚔️/1❤️ Sand Dervish when its owner summons a minion from their hand.
 
 name:     Hallowed Ground
 text:     Restores 1❤️ to friendly minions and Generals standing on it at the end of the owner's turn
-
-name:     Justicar's Bastion
-text:     Equipment is **Invulnerable**
-          Provoke, +3❤️ and may move an aditional space.
 
 name:     Mana Etch
 text:     Reduce the manacost of all cards in your hand by 1.
@@ -206,24 +198,13 @@ name:     Mana Spring
 text:     +1 mana
 
 name:     Minor Summoning Circle
-text:     Whenever a firendly minion is summoned on this space, it gains +1/+1.
+text:     Whenever a firendly minion is summoned on this space, it gains +1⚔️/+1❤️.
 
 name:     Mythron Wanderer
-text:     **Aspect**: The first minion you summon during your turn gets +0/+1. You many only have 1 copy of each card in your deck.
-
-name:     Paleclaw Gauntlet
-text:     Equipment is **Invulnerable**
-          +3⚔️
+text:     **Aspect**: The first minion you summon during your turn gets +0⚔️/+1❤️. You many only have 1 copy of each card in your deck.
 
 name:     Primal Flourish
-text:     Friendly minion standing on Primal Flourish get Grow +2/+2.
-
-name:     Shadow Creep
-text:     Deals 4 damage to enemy units on it at the end of opponent's turn.
-
-name:     Skyshield
-text:     Equipment is **Invulnerable**
-          Wielder becomes a Mech and has **Armour**.
+text:     Friendly minion standing on Primal Flourish get Grow +2⚔️/+2❤️.
 
 name:     Blizzard
 text:     Deal 1 damage to all enemies. They move 1 space less next turn.
@@ -244,7 +225,7 @@ name:     Fog
 text:     **Dying Wish**: Put a random Battle Pet into your hand.
 
 name:     Glub
-text:     Whenever a Spriggin is destroyed, this minion gains +3/+3.
+text:     Whenever a Spriggin is destroyed, this minion gains +3⚔️/+3❤️.
 
 name:     Helm of MECHAZ0R
 text:     **Deploy**: Progresses MECHAZ0R build by +20%.
@@ -383,7 +364,7 @@ text:     **Deploy**: Restore 1❤️ to anything.
           **Ability** 3: Summon a friendly non-token minion that was destroyed since your opponents last turn nearby.
 
 name:     Jaxi
-text:     **Dying Wish**: Summon a 1/1 Ranged Mini-Jax in a random corner.
+text:     **Dying Wish**: Summon a 1⚔️/1❤️ Ranged Mini-Jax in a random corner.
 
 name:     Lost Artificer
 text:     The first artifact you equip each turn costs 1 less.
@@ -413,8 +394,8 @@ name:     Replicant
 text:     **Deploy**: Draw another Replicant from your deck.
 
 name:     Rescue-RX
-text:     When this minion is built, restore 5❤️ to your General.
-          **Build**:2
+text:     **Build** (2)
+          When this minion is built, restore 5❤️ to your General.
 
 name:     Riddle
 text:     While you have the Riddle, you cannot replace. Cast to give your opponent a Riddle.
@@ -486,8 +467,8 @@ name:     Alcuin Loremaster
 text:     **Deploy**: Put a copy of the most recently cast spell into your hand.
 
 name:     Architect-T2K5
-text:     Whenever this or another friendly minion is built, draw a card.
-          **Build**:1
+text:     **Build** (1)
+          Whenever this or another friendly minion is built, draw a card.
 
 name:     Bastion
 text:     At the end of your turn, give all friendly minions +1❤️.
@@ -512,7 +493,7 @@ name:     Chaos Elemental
 text:     Whenever this minion takes damage, it randomly teleports.
 
 name:     Crimson Oculus
-text:     Whenever opponent summons a minion, this minion gains +1/+1.
+text:     Whenever opponent summons a minion, this minion gains +1⚔️/+1❤️.
 
 name:     Crossbones
 text:     **Deploy**: Destroy an enemy minion with Ranged.

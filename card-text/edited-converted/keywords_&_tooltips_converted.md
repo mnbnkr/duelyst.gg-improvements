@@ -13,15 +13,6 @@ keyword:  **Armour**
 keyword:  **Aspect**
           A permanent advantage and disadvantage. Start with this card in hand.
 
-keyword:  **Awesome Abyssal Scar**
-          Summon 4/4 Fiends on every friendly Shadow Creep.
-
-keyword:  **Awesome Malice**
-          Summon as many 4/4 Husks as the attack of your sacrifice.
-
-keyword: **Awesome Shadow Spawn**
-          Your Wraithlings are 5/5.
-
 keyword:  **Backstab**
           If this minion attacks from behind it will do bonus damage and the enemy will not be able to counterattack.
 
@@ -37,12 +28,12 @@ keyword:  **Blood Surge**
 keyword:  **Bond**
           Effect triggers when minion comes into play and you control another minion of the same tribe.
 
-keyword:  **Build**:1
-          Spawns as a 0/10 structure. After 1 turn the structure will transform into this minion.
+keyword:  **Build** (1)
+          Spawns as a 0⚔️/10❤️ structure. After 1 turn the structure will transform into this minion.
           The structure cannot move, attack or be dispelled.
 
-keyword:  **Build**:2
-          Spawns as a 0/10 structure. After 2 turns the structure will transform into this minion.
+keyword:  **Build** (2)
+          Spawns as a 0⚔️/10❤️ structure. After 2 turns the structure will transform into this minion.
           The structure cannot move, attack or be dispelled.
 
 keyword:  **Celerity**
@@ -78,13 +69,8 @@ keyword:  **Forcefield**
 keyword:  **Frenzy**
           When this minion attacks a unit next to it, it will also deal its attack damage to all enemies around it.
 
-keyword:  **Gate to the Undervault**
-          Deathwatch: Summon a random Demon nearby.
-          Build:3
-          Invulnerable
-
-keyword:  **Grow** +1/+1
-          Unit gains +1/+1 at the begining of its owner's turn.
+keyword:  **Grow** +1⚔️/+1❤️
+          Unit gains +1⚔️/+1❤️ at the begining of its owner's turn.
 
 keyword:  **Infiltrate**
           Extra effect is active while this minion is on your opponents starting side of the board.
@@ -94,16 +80,6 @@ keyword:  **Intensify**
 
 keyword:  **Invulnerable**
           Cannot be destroyed, damaged, dispelled or targeted by anything.
-
-keyword:  **Katastrophosaurus**: A massive 6/26 minion.
-
-keyword:  **Lesser Waterball**: 1 mana, deal 4 damage to an enemy Minion.
-
-keyword:  **MECHAZ0R Progress**
-          When assembly progress reaches 100% MECHAZOR can be called into battle.
-
-keyword:  **Paleclaw Gauntlet**
-          +3⚔️.
 
 keyword:  **Provoke**
           Enemies around this unit cannot move and can only attack this unit.
@@ -118,16 +94,16 @@ keyword:  **Rush**
           Can move and attack the same turn it came into play.
 
 keyword:  **Sentinel**
-          Comes into play as an anonymous 3/3 Sentinel. When the condition is met, that Sentinel transforms into this minion.
+          Comes into play as an anonymous 3⚔️/3❤️ Sentinel. When the condition is met, that Sentinel transforms into this minion.
 
-keyword:  **Skyshield**
-          Wielder becomes a Mech and gains **Armour** (takes 1 less damage from all sources).
+keyword:  **Shadow Creep**
+          Deals 4 damage to enemy units on it at the end of opponent's turn.
+
+keyword:  **Shrink** -1⚔️/-1❤️
+          Unit lose -1⚔️/-1❤️ at the begining of its owner's turn.
 
 keyword:  **Spell Shield**
-          This unit cannot be the target of enemy spells or Ability keyword effects but can still be targeted by other minion effects.
-
-keyword:  **Spriggin Kin**
-          Cute tiny minion, 4 different kinds.
+          This unit cannot be the target of enemy spells or **Ability** keyword effects, but can still be targeted by other minion effects.
 
 keyword:  **Structure**
           Cannot move. Will always have 0⚔️.
@@ -144,5 +120,37 @@ keyword:  **Wall**
 keyword:  **Zeal**
           Extra effect active while this minion is close to it's General.
 
-keyword:  **Zoetic Charm**
-          Your General has +1⚔️. Your Eggs have Forcefield.
+
+
+tooltip:  **Awesome Abyssal Scar**
+          Summon 4⚔️/4❤️ Fiends on every friendly Shadow Creep.
+
+tooltip:  **Awesome Malice**
+          Summon as many 4⚔️/4❤️ Husks as the attack of your sacrifice.
+
+tooltip: **Awesome Shadow Spawn**
+          Your Wraithlings are 5⚔️/5❤️.
+
+tooltip:  **Blacksteel Glave**
+          +Ranged (2)
+
+tooltip:  **Justicar's Bastion**
+          **Provoke**, +3❤️ and may move an aditional space.
+
+tooltip:  **Katastrophosaurus**
+          A massive 6⚔️/26❤️ minion.
+
+tooltip:  **Lesser Waterball**
+          1 mana, deal 4 damage to an enemy Minion.
+
+tooltip:  **MECHAZ0R Progress**
+          When assembly progress reaches 100% MECHAZOR can be called into battle.
+
+tooltip:  **Paleclaw Gauntlet**
+          +3⚔️.
+
+tooltip:  **Skyshield**
+          Wielder becomes a Mech and gains **Armour** (takes 1 less damage from all sources).
+
+tooltip:  **Spriggin Kin**
+          Cute tiny minion, 4 different kinds.
