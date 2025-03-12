@@ -1,673 +1,673 @@
-name:     Argeon Highmayne
+name:     Argeon Highmayne<br>
 text:     **Bloodbound Spell**: Give an allied minion +2⚔️.
 
-name:     Brome Warcrest
+name:     Brome Warcrest<br>
 text:     **Bloodbound Spell**: Summon a Conscript. If summoned in front summon a Crestfallen instead.
 
-name:     Zir'an Sunforge
+name:     Zir'an Sunforge<br>
 text:     **Bloodbound Spell**: Restore 3❤️ to any Minion.
 
-name:     Beam Shock
+name:     Beam Shock<br>
 text:     **Stun** an enemy.
 
-name:     Grand Strategos
+name:     Grand Strategos<br>
 text:     **Aspect**: Your BBS now also promotes up to 2 allied minions but costs 2 mana. Your deck may not contain any minion that costs more than 2 mana.
 
-name:     Steadfast Formation
+name:     Steadfast Formation<br>
 text:     Give allied minions in a 2x2 area **Provoke** and +1❤️.
 
-name:     Sunstone Bracers
+name:     Sunstone Bracers<br>
 text:     Your General gains +1⚔️.
 
-name:     Aegis Barrier
+name:     Aegis Barrier<br>
 text:     Choose an allied minion. It can't be targeted by enemy spells. Draw a card.
 
-name:     Aerial Rift
+name:     Aerial Rift<br>
 text:     Give your minions **Airdrop** this turn. Draw a card.
 
-name:     Afterglow
+name:     Afterglow<br>
 text:     Restore 3❤️ to any Minion.
 
-name:     Auryn Nexus
-text:     **Echo**
+name:     Auryn Nexus<br>
+text:     **Echo**<br>
           Give an allied minion +3❤️.
 
-name:     Conscript
+name:     Conscript<br>
 text:
 
-name:     Crestfallen
+name:     Crestfallen<br>
 text:     **Zeal**: **Provoke**.
 
-name:     Draining Wave
+name:     Draining Wave<br>
 text:     Deal 4 damage to a minion and your General.
 
-name:     Fighting Spirit
+name:     Fighting Spirit<br>
 text:     Give all allied minions +1❤️. Put a random Battle Pet into your hand.
 
-name:     Fortified Assault
+name:     Fortified Assault<br>
 text:     Turn an enemy minion's space into Hallowed Ground. Deal it 1 damage for each allied Hallowed Ground.
 
-name:     Kingsguard
+name:     Kingsguard<br>
 text:     Summon a Conscript. If summoned in front summon a Crestfallen instead.
 
-name:     Lifestream
+name:     Lifestream<br>
 text:     Fully heal an allied minion, then draw a copy of it.
 
-name:     Lightspawn
+name:     Lightspawn<br>
 text:     Summon 2 Slo nearby your General.
 
-name:     Lionheart Blessing
+name:     Lionheart Blessing<br>
 text:     Give an allied minion, "**Zeal**: Whenever this minion deals damage, draw a card".
 
-name:     Magnetize
+name:     Magnetize<br>
 text:     Pull any minion to the space in front of your General.
 
-name:     Roar
+name:     Roar<br>
 text:     Give an allied minion +2⚔️.
 
-name:     Sanctify
+name:     Sanctify<br>
 text:     Give an allied minion +1⚔️/+1❤️ and turn its space into **Hallowed Ground**.
 
-name:     Silverguard Squire
+name:     Silverguard Squire<br>
 text:
 
-name:     Slo
+name:     Slo<br>
 text:     **Provoke**
 
-name:     Sundrop Elixir
+name:     Sundrop Elixir<br>
 text:     Restore 5❤️ to anything.
 
-name:     Sunrise Cleric
+name:     Sunrise Cleric<br>
 text:     **Deploy**: Turn a space into **Hallowed Ground**.
 
-name:     True Strike
+name:     True Strike<br>
 text:     Deal 2 damage to a minion and give it -1⚔️ until the start of your next turn.
 
-name:     Azurite Lion
+name:     Azurite Lion<br>
 text:     **Celerity**
 
-name:     Bolster
+name:     Bolster<br>
 text:     **Intensify**: Give allied minions +2❤️.
 
-name:     Channeled Breath
+name:     Channeled Breath<br>
 text:     Restore 2❤️ to your General for each allied minion.
 
-name:     Dauntless Advance
-text:     **Echo**
+name:     Dauntless Advance<br>
+text:     **Echo**<br>
           Your General and nearby allies gain "Takes no damage this turn".
 
-name:     Divine Bond
-text:     **Echo**
+name:     Divine Bond<br>
+text:     **Echo**<br>
           At the start of your next turn give a minion +⚔️ equal to its ❤️.
 
-name:     Fiz
+name:     Fiz<br>
 text:     **Deploy**: Restore 2❤️ to anything.
 
-name:     Gold Vitriol
+name:     Gold Vitriol<br>
 text:     Whenever you heal anything, deal 2 damage to a random enemy.
 
-name:     Lasting Judgement
+name:     Lasting Judgement<br>
 text:     Give any minion +3⚔️, but -3❤️.
 
-name:     Lightchaser
+name:     Lightchaser<br>
 text:     Whenever anything is healed, this minion gains +1⚔️/+1❤️.
 
-name:     Lucent Beam
-text:     If a unit was healed this turn, deal 4 damage to a unit. Otherwise deal 2 damage.
+name:     Lucent Beam<br>
+text:     If a unit was healed this turn, deal 4 damage to a unit. Otherwise deal 2 damage.<br>
 behavior: Changed
 
-name:     Marching Orders
+name:     Marching Orders<br>
 text:     Give allies directly in front of and behind your General +2⚔️/+2❤️. If they have **Zeal**, they cannot be targeted by enemy spells.
 
-name:     Prism Barrier
+name:     Prism Barrier<br>
 text:     Give an allied minion **Forcefield**.
 
-name:     Pureblade Enforcer
+name:     Pureblade Enforcer<br>
 text:     Whenever your opponent casts a spell, this minion gains +1⚔️/+1❤️.
 
-name:     Sun Wisp
+name:     Sun Wisp<br>
 text:     **Deploy**: Draw a card.
 
-name:     Sunbond Pavise
+name:     Sunbond Pavise<br>
 text:     Allies directly above and below your General gain +2⚔️ and **Provoke**.
 
-name:     Sunstone Templar
+name:     Sunstone Templar<br>
 text:     Whenever this attacks or counterattacks, it dispels that enemy
 
-name:     Suntouched Spirit
-text:     This minion remembers all allied spells that targeted it.
+name:     Suntouched Spirit<br>
+text:     This minion remembers all allied spells that targeted it.<br>
           **Dying Wish**: Put a copy of each remembered spell into your hand.
 
-name:     Tempest
+name:     Tempest<br>
 text:     Deal 2 damage all minions and Generals.
 
-name:     Vale Ascension
+name:     Vale Ascension<br>
 text:     Summon a random allied non-token minion destroyed this game onto allied Hallowed Ground.
 
-name:     War Surge
+name:     War Surge<br>
 text:     Give all allied minions +1⚔️/+1❤️.
 
-name:     Warblade
+name:     Warblade<br>
 text:     **Bond**: Other allied minions gain +1⚔️/+1❤️.
 
-name:     Windblade Adept
+name:     Windblade Adept<br>
 text:     **Zeal**: Gains +1⚔️.
 
-name:     Afterblaze
+name:     Afterblaze<br>
 text:     Give an allied minion +2⚔️/+4❤️. If that minion has **Zeal**, draw a card.
 
-name:     Aperion's Claim
+name:     Aperion's Claim<br>
 text:     Create **Hallowed Ground** in a 3x3 area. At the end of your opponent's next turn, destroy all enemy minions standing on them.
 
-name:     Arclyte Sentinel
+name:     Arclyte Sentinel<br>
 text:     **Deploy**: Give any nearby minion +2⚔️/-2❤️.
 
-name:     Argeon's Authority
+name:     Argeon's Authority<br>
 text:     Your General gains **Provoke** and **Armour**.
 
-name:     Auroara
+name:     Auroara<br>
 text:     Whenever you summon a minion with 2 or less ⚔️, this minion gains +2⚔️.
 
-name:     Decorated Enlistee
+name:     Decorated Enlistee<br>
 text:     This minion has +2⚔️ for each allied minion nearby.
 
-name:     Empyreal Congregation
+name:     Empyreal Congregation<br>
 text:     Give allied minions in a 2x2 area +2⚔️/+2❤️.
 
-name:     Fealty
+name:     Fealty<br>
 text:     Draw a card for each allied minion nearby your General.
 
-name:     Gryphon Fledgling
+name:     Gryphon Fledgling<br>
 text:     **Zeal**: **Flying**
 
-name:     Heavy Sentry
+name:     Heavy Sentry<br>
 text:     This minion has +2⚔️ and has all damage it takes reduced by 1 as long as it did not move since the start of its owner's turn.
 
-name:     Legion
+name:     Legion<br>
 text:     **Intensify**: Put 1 Crestfallen into your hand. Shuffle a copy of this minion into your deck.
 
-name:     Life Coil
+name:     Life Coil<br>
 text:     Double a minion's ❤️. Draw a card.
 
-name:     Martyrdom
+name:     Martyrdom<br>
 text:     Destroy any minion. Restore that minion's ❤️ to its General.
 
-name:     Radiant Dragoon
+name:     Radiant Dragoon<br>
 text:     At the end of your turn, give an allied minion +2❤️. Prioritize a minion infront of this minion.
 
-name:     Scintilla
+name:     Scintilla<br>
 text:     **Blood Surge**: Restore 3❤️ to your General.
 
-name:     Silverguard Knight
+name:     Silverguard Knight<br>
 text:     **Zeal**: Gains +2⚔️ and **Provoke**.
 
-name:     Sky Burial
+name:     Sky Burial<br>
 text:     Destroy a minion that is not nearby any General.
 
-name:     Skywind Glaives
+name:     Skywind Glaives<br>
 text:     Allies nearby your General gain +2⚔️.
 
-name:     Sol Pontiff
+name:     Sol Pontiff<br>
 text:     **Zeal**: Your Golems have +2⚔️.
 
-name:     Sunbloom
+name:     Sunbloom<br>
 text:     **Dispel** a 2x2 area.
 
-name:     Sunforge Lancer
+name:     Sunforge Lancer<br>
 text:     Your General has +1⚔️ for each time you heal a unit.
 
-name:     Surgeforger
+name:     Surgeforger<br>
 text:     Whenever you summon a minion nearby this minion, give them both +1⚔️/+1❤️.
 
-name:     Vanguard Puresun
-text:     **Zeal**: Gains +1⚔️.
+name:     Vanguard Puresun<br>
+text:     **Zeal**: Gains +1⚔️.<br>
           Whenever an enemy moves to or is summoned on any of the three spaces in front of this, teleport that enemy back 1 space.
 
-name:     Vigilator
-text:     **Build** (1)
+name:     Vigilator<br>
+text:     **Build** (1)<br>
           When this minion is built, give allied minions nearby +3❤️.
 
-name:     Arclyte Regalia
+name:     Arclyte Regalia<br>
 text:     Your General gains +2⚔️. The first time your General takes damage each turn, prevent 2 of it.
 
-name:     Divine Liturgy
-text:     **Echo**
+name:     Divine Liturgy<br>
+text:     **Echo**<br>
           At the start of your next turn give all allied minions +⚔️ equal to their ❤️.
 
-name:     Invincible
+name:     Invincible<br>
 text:     Give an allied minion with full ❤️ +4⚔️/+4❤️.
 
-name:     Ironcliffe Heart
+name:     Ironcliffe Heart<br>
 text:     Transform an allied minion into an Ironcliffe Guardian.
 
-name:     Ironcliffe Monument
-text:     **Build** (2)
+name:     Ironcliffe Monument<br>
+text:     **Build** (2)<br>
           Whenever you summon a minion nearby this, transform that minion into an Ironcliffe Guardian.
 
-name:     Lionize
+name:     Lionize<br>
 text:     Give **Celerity** to an allied minion, it cannot attack this turn.
 
-name:     Lysian Brawler
+name:     Lysian Brawler<br>
 text:     **Celerity**
 
-name:     Solpiercer
+name:     Solpiercer<br>
 text:     **Zeal**: Ranged (2)
 
-name:     Sun Sister Sterope
+name:     Sun Sister Sterope<br>
 text:     Whenever anything is healed, put a **True Strike** into your hand.
 
-name:     Sunbreaker
-text:     **Forcefield**
+name:     Sunbreaker<br>
+text:     **Forcefield**<br>
           Your **Bloodbound Spell** is **Tempest**.
 
-name:     Sunriser
+name:     Sunriser<br>
 text:     Whenever you heal anything, deal 2 damage to all nearby enemies.
 
-name:     Sunstrike
+name:     Sunstrike<br>
 text:     Deal 3 damage to enemies and restore 3❤️ to allies in a row.
 
-name:     Suntide Maiden
+name:     Suntide Maiden<br>
 text:     **Zeal**: At the end of your turn, fully heal this minion.
 
-name:     Trinity Oath
+name:     Trinity Oath<br>
 text:     Draw 3 cards and restore 3❤️ to your General.
 
-name:     War Judicator
+name:     War Judicator<br>
 text:     Nearby allied minions cannot be targeted by enemy spells.
 
-name:     Windcliffe Alarmist
+name:     Windcliffe Alarmist<br>
 text:     **Deploy**: Summon a 5⚔️/5❤️ **Windcliffe Protector** from your deck.
 
-name:     Dawn's Eye
+name:     Dawn's Eye<br>
 text:     Your General gains +4⚔️. At the end of your turn, repair all of your artifacts to full durability.
 
-name:     Decimate
-text:     Destroy all minions without any of their own allies nearby.
-behavior: Changed
+name:     Decimate<br>
+text:     Destroy all minions without any of their own allies nearby.<br>
+behavior: Changed<br>
 mana:     Changed (4)
 
-name:     Halo Bulwark
+name:     Halo Bulwark<br>
 text:     Allies nearby your General have **Forcefield.**
 
-name:     Holy Immolation
+name:     Holy Immolation<br>
 text:     Restore 4❤️ to an allied minion. Deal 4 damage to enemies around it.
 
-name:     Ironcliffe Guardian
-text:     **Airdrop**
+name:     Ironcliffe Guardian<br>
+text:     **Airdrop**<br>
           **Provoke**
 
-name:     Oakenheart
-text:     **Deploy**: Progresses MECHAZ0R build by +20%.
+name:     Oakenheart<br>
+text:     **Deploy**: Progresses MECHAZ0R build by +20%.<br>
           Your other Mech minions have +1⚔️/+1❤️.
 
-name:     Second Sun
+name:     Second Sun<br>
 text:     **Zeal**: Gains +8⚔️.
 
-name:     Solarius
+name:     Solarius<br>
 text:     **Zeal**: Draw 2 additional cards at the end of your turn.
 
-name:     War Exorcist
-text:     **Provoke**
+name:     War Exorcist<br>
+text:     **Provoke**<br>
           At the start of your turn, Holy Immolation your damaged minions.
 
-name:     Windcliffe Protector
-text:     **Provoke**
+name:     Windcliffe Protector<br>
+text:     **Provoke**<br>
           When an allied **Windcliffe Alarmist** dies, transform this minion into a **Windcliffe Alarmist**.
 
-name:     Circle of Life
+name:     Circle of Life<br>
 text:     Deal 5 damage to an enemy minion. Restore 5❤️ to your General.
 
-name:     Elyx Stormblade
-text:     **Provoke**
+name:     Elyx Stormblade<br>
+text:     **Provoke**<br>
           Your minions and General may move an additional space.
 
-name:     Prominence
+name:     Prominence<br>
 text:     **Blood Surge**: Summon a Silverguard Knight nearby your General.
 
-name:     Radiant Standard
+name:     Radiant Standard<br>
 text:     Your General has +3⚔️. When your General attacks, summon a minion that costs 3 from your deck nearby.
 
-name:     Call to Arms
+name:     Call to Arms<br>
 text:     Your General gains "Minions you summon nearby gain +3⚔️/+3❤️".
 
-name:     Grandmaster Z'ir
+name:     Grandmaster Z'ir<br>
 text:     When your General dies, Grandmaster Z'ir becomes your General.
 
-name:     Indominus
+name:     Indominus<br>
 text:     Your General is **Invulnerable** BUT cannot move or attack.
 
-name:     Peacekeeper
+name:     Peacekeeper<br>
 text:     **Frenzy**, **Airdrop**, **Provoke**, **Celerity**, **Forcefield**
 
-name:     Alabaster Titan
+name:     Alabaster Titan<br>
 text:     **Deploy**: If you have no spells in your deck, equip Skywind Glaives, Arclyte Regalia and Halo Bulwark.
 
-name:     Excelsious
-text:     **Celerity**, **Provoke**
+name:     Excelsious<br>
+text:     **Celerity**, **Provoke**<br>
           This minion gains +1⚔️/+1❤️ for each time you healed anything this game.
 
-name:     Sky Phalanx
+name:     Sky Phalanx<br>
 text:     Summon three Silverguard Knights nearby your General.
 
-name:     Amaranthine Vow
+name:     Amaranthine Vow<br>
 text:     Summon around your General all allies with **Provoke** that died this game.
 
-name:     Kaleos Xaan
+name:     Kaleos Xaan<br>
 text:     **Bloodbound Spell**: Teleport an allied minion up to 2 spaces.
 
-name:     Reva Eventide
+name:     Reva Eventide<br>
 text:     **Bloodbound Spell**: Summon a Heartseeker.
 
-name:     Shidai Stormblossom
+name:     Shidai Stormblossom<br>
 text:     **Bloodbound Spell**: Draw a card at end of turn. Your **Bloodbound Spell** is **Kiyomori**.
 
-name:     Juxtaposition
+name:     Juxtaposition<br>
 text:     Switch positions between any two minions.
 
-name:     Mana Vortex
+name:     Mana Vortex<br>
 text:     The next spell you cast this turn costs 1 less.
 
-name:     Mechaz0r Progression
+name:     Mechaz0r Progression<br>
 text:     Progresses MECHAZ0R build by +20%.
 
-name:     Meditate
+name:     Meditate<br>
 text:     Shuffle five copies of the spell you cast most recently into your deck (excluding Meditate).
 
-name:     Ace
+name:     Ace<br>
 text:     **Ranged** (10)
 
-name:     Arcane Heart
+name:     Arcane Heart<br>
 text:     Summon a Heartseeker.
 
-name:     Assassination Protocol
+name:     Assassination Protocol<br>
 text:     Reactivate an exhausted allied minion. It cannot damage or attack Generals this turn.
 
-name:     Binky
-text:     **Flying**
+name:     Binky<br>
+text:     **Flying**<br>
           Whenever this damages a minion, restore 2❤️ to your General.
 
-name:     Blink
+name:     Blink<br>
 text:     Teleport an allied minion up to 2 spaces.
 
-name:     Crescent Spear
+name:     Crescent Spear<br>
 text:     Spells you cast that deal damage deal +1 damage.
 
-name:     Ghost Lightning
+name:     Ghost Lightning<br>
 text:     Deal 1 damage to all enemy minions.
 
-name:     Gotatsu
+name:     Gotatsu<br>
 text:     Deal 1 damage to a minion. Draw a card at end of turn.
 
-name:     Heartseeker
+name:     Heartseeker<br>
 text:     **Ranged** (1)
 
-name:     Horned Mask
+name:     Horned Mask<br>
 text:     Your General gains +1⚔️. After an allied minion with **Backstab** attacks, it gains +1⚔️/+1❤️.
 
-name:     Inner Focus
+name:     Inner Focus<br>
 text:     Reactivate an exhausted allied minion with 3 or less ⚔️.
 
-name:     Joseki
+name:     Joseki<br>
 text:     Each player steals a random card from their opponent's deck.
 
-name:     Katara
-text:     **Backstab** (1)
+name:     Katara<br>
+text:     **Backstab** (1)<br>
           **Ability** 1: Give a nearby allied minion **Backstab** (1) until the start of your next turn.
 
-name:     Kiyomori
+name:     Kiyomori<br>
 text:     Your General may move 2 additional spaces this turn. Your **Bloodbound Spell** is **Kotetsu**.
 
-name:     Knucklestorm
+name:     Knucklestorm<br>
 text:     **Intensify**: Deal 1 damage to an enemy.
 
-name:     Kotetsu
+name:     Kotetsu<br>
 text:     Give an ally **Backstab** (4) this turn. Your **Bloodbound Spell** is **Tanahashi**.
 
-name:     Mist Dragon Seal
+name:     Mist Dragon Seal<br>
 text:     Give an allied minion +1⚔️ and teleport it anywhere.
 
-name:     Mist Walking
+name:     Mist Walking<br>
 text:     Teleport your General up to 2 spaces.
 
-name:     Murasame
+name:     Murasame<br>
 text:     Draw a card at end of turn. Your **Bloodbound Spell** is **Kiyomori**.
 
-name:     Obscuring Blow
+name:     Obscuring Blow<br>
 text:     Give an ally **Backstab** (2).
 
-name:     Panddo
+name:     Panddo<br>
 text:     Cannot be attacked.
 
-name:     Shadow Waltz
+name:     Shadow Waltz<br>
 text:     Lower the cost of all minions with **Backstab** in your hand by 1 and give them +1⚔️/+1❤️.
 
-name:     Spiral Counter
+name:     Spiral Counter<br>
 text:     Deal 8 damage to an enemy minion that is exhausted.
 
-name:     Tanahashi
+name:     Tanahashi<br>
 text:     Teleport an enemy 3 spaces. Your **Bloodbound Spell** is **Murasame**.
 
-name:     Artifact Defiler
+name:     Artifact Defiler<br>
 text:     Destroy all artifacts on the enemy General.
 
-name:     Bloodrage Mask
+name:     Bloodrage Mask<br>
 text:     Whenever you cast a spell, deal 1 damage to the enemy General.
 
-name:     Chakri Avatar
+name:     Chakri Avatar<br>
 text:     Whenever you cast a spell, this minion gains +1⚔️/+1❤️.
 
-name:     Crimson Coil
+name:     Crimson Coil<br>
 text:     Deal 2 damage to a minion. Activate your Battle Pets.
 
-name:     Deathstrike Seal
+name:     Deathstrike Seal<br>
 text:     Give an allied minion, "Destroy any minion damaged by this minion".
 
-name:     Eight Gates
+name:     Eight Gates<br>
 text:     Spells you cast this turn that deal damage deal +2 damage.
 
-name:     Ethereal Blades
+name:     Ethereal Blades<br>
 text:     Give an ally +2⚔️ this turn.
 
-name:     Geoforce Charm
+name:     Geoforce Charm<br>
 text:     At the beginning of your turn, put a Boulder Hurl into your hand.
 
-name:     Kage Lightning
+name:     Kage Lightning<br>
 text:     Deal 5 damage to an enemy minion.
 
-name:     Kaido Assassin
+name:     Kaido Assassin<br>
 text:     **Backstab** (1)
 
-name:     Mask of Shadows
+name:     Mask of Shadows<br>
 text:     Your General gains +1⚔️. Your General gains Backstab (4).
 
-name:     Mass Flight
+name:     Mass Flight<br>
 text:     Give all allied minions **Flying** this turn.
 
-name:     Mirror Meld
+name:     Mirror Meld<br>
 text:     Summon a copy of an allied minion nearby that costs 2 or less.
 
-name:     Phoenix Fire
+name:     Phoenix Fire<br>
 text:     Deal 3 damage to anything.
 
-name:     Saberspine Seal
+name:     Saberspine Seal<br>
 text:     Give a minion or General +3⚔️ this turn.
 
-name:     Scroll Bandit
+name:     Scroll Bandit<br>
 text:     **Backstab**: Steal a spell from your opponent's deck.
 
-name:     Second Self
+name:     Second Self<br>
 text:     Put an EXACT copy of an allied minion into your hand.
 
-name:     Suzumebachi
+name:     Suzumebachi<br>
 text:     Whenever you cast a spell, this minion gains **Backstab** (1) and +1 movement until your next turn.
 
-name:     Tusk Boar
-text:     **Rush**
+name:     Tusk Boar<br>
+text:     **Rush**<br>
           Return this minion to your hand at the beginning of your turn.
 
-name:     Xho
+name:     Xho<br>
 text:     **Dying Wish**: Put a random Songhai spell into your hand. It costs 1 less.
 
-name:     Bangle of Blinding Strike
+name:     Bangle of Blinding Strike<br>
 text:     Your General gains **Celerity**.
 
-name:     Battle Panddo
+name:     Battle Panddo<br>
 text:     Whenever this minion takes damage, deal 1 damage to all enemies.
 
-name:     Celestial Phantom
+name:     Celestial Phantom<br>
 text:     Whenever this damages an enemy minion, destroy that minion.
 
-name:     Cyclone Mask
+name:     Cyclone Mask<br>
 text:     Your General gains **Ranged** (3).
 
-name:     Dusk Rigger
-text:     **Backstab** (2)
+name:     Dusk Rigger<br>
+text:     **Backstab** (2)<br>
           Whenever this backstabs, put a MECHAZ0R Progression into your hand.
 
-name:     Flicker
+name:     Flicker<br>
 text:     Teleport your General to a space behind an enemy.
 
-name:     Gore Horn
-text:     **Backstab** (2)
+name:     Gore Horn<br>
+text:     **Backstab** (2)<br>
           After this minion attacks, it gains +1⚔️/+1❤️.
 
-name:     Hundred-handed Rakushi
-text:     **Sentinel**: Minion summoned.
+name:     Hundred-handed Rakushi<br>
+text:     **Sentinel**: Minion summoned.<br>
           Deal 2 damage to the minion that transformed this.
 
-name:     Jade Monk
+name:     Jade Monk<br>
 text:     Whenever this minion takes damage, deal 2 damage to a random enemy minion.
 
-name:     Kaido Expert
-text:     **Backstab** (1)
+name:     Kaido Expert<br>
+text:     **Backstab** (1)<br>
           Whenever this minion backstabs, summon a minion with **Backstab** that costs 2 or less from your deck nearby.
 
-name:     Ki Beholder
-text:     **Ranged** (2)
+name:     Ki Beholder<br>
+text:     **Ranged** (2)<br>
           **Deploy**: An enemy minion cannot move normally next turn.
 
-name:     Killing Edge
+name:     Killing Edge<br>
 text:     Give an allied minion +4⚔️/+2❤️. If that minion has **Backstab**, draw a card at end of turn.
 
-name:     Lantern Fox
+name:     Lantern Fox<br>
 text:     Whenever this minion takes damage, put a Phoenix Fire into your hand.
 
-name:     Mind-cage Oni
-text:     **Sentinel**: Spell cast.
+name:     Mind-cage Oni<br>
+text:     **Sentinel**: Spell cast.<br>
           Whenever your opponent casts a spell, put a copy of that spell into your hand.
 
-name:     Mizuchi
-text:     **Flying**
-          **Backstab** (2)
+name:     Mizuchi<br>
+text:     **Flying**<br>
+          **Backstab** (2)<br>
           **Sentinel**: General attacks.
 
-name:     Orizuru
+name:     Orizuru<br>
 text:     **Flying**
 
-name:     Pandatentiary
+name:     Pandatentiary<br>
 text:     Surround the enemy General with allied **Panddo** that disappear at the start of your next turn.
 
-name:     Penumbraxx
-text:     **Build** (2)
-          **Backstab** (2)
+name:     Penumbraxx<br>
+text:     **Build** (2)<br>
+          **Backstab** (2)<br>
           Whenever this backstabs, transform it into a building with Build (1).
 
-name:     Sparrowhawk
+name:     Sparrowhawk<br>
 text:     **Bond**: Put a Mist Dragon Seal into your hand.
 
-name:     Substitution
+name:     Substitution<br>
 text:     Switch positions between an allied minion and your General.
 
-name:     Thunderbomb
+name:     Thunderbomb<br>
 text:     Deal 3 damage to an enemy and 1 damage to all enemies around it.
 
-name:     Twilight Fox
-text:     **Backstab** (2)
+name:     Twilight Fox<br>
+text:     **Backstab** (2)<br>
           **Blood Surge**: Teleport in the same row to the opponent's back column and gain +2 movement until the end of turn.
 
-name:     Twin Strike
+name:     Twin Strike<br>
 text:     Deal 2 damage to exactly two random enemy minions. Draw a card at end of turn.
 
-name:     Unbounded Energy Amulet
+name:     Unbounded Energy Amulet<br>
 text:     Your General gains +1⚔️. Your General may move an additional space.
 
-name:     Whiplash
+name:     Whiplash<br>
 text:     **Deploy** and **Ability** 1: Deal 2 damage to anything.
 
-name:     Widowmaker
+name:     Widowmaker<br>
 text:     **Equipped** with Blacksteel Glave.
 
-name:     Ancestral Divination
+name:     Ancestral Divination<br>
 text:     Draw a card for each allied minion.
 
-name:     Bakezori
+name:     Bakezori<br>
 text:     Whenever this minion is moved for any reason, draw a card.
 
-name:     Bamboozle
+name:     Bamboozle<br>
 text:     Transform a nearby enemy minion into a 0⚔️/2❤️ Panddo. If it is already a Panddo, instead destroy it and draw to fill your hand.
 
-name:     Coalfist
+name:     Coalfist<br>
 text:     **Ability** 1: Allied minions in a 2x2 area gain +3⚔️ until the start of your next turn.
 
-name:     Cobra Strike
+name:     Cobra Strike<br>
 text:     Deal 3 damage to an enemy minion and the enemy General.
 
-name:     Flamewreath
+name:     Flamewreath<br>
 text:     Whenever this minion is moved for any reason, it deals 2 damage to all enemies around it.
 
-name:     Four Winds Magi
+name:     Four Winds Magi<br>
 text:     Whenever you cast a spell, deal 1 damage to enemy General and restore 1❤️ to your General.
 
-name:     Keshrai Fanblade
+name:     Keshrai Fanblade<br>
 text:     Deploy: Next turn, opponent's spells cost 2 more to cast.
 
-name:     Kindling
+name:     Kindling<br>
 text:     Whenever you cast a spell, your nearby Arcanyst minions gain +1⚔️.
 
-name:     Manakite Drifter
-text:     **Build** (2)
+name:     Manakite Drifter<br>
+text:     **Build** (2)<br>
           When this minion is built, gain +2 mana this turn.
 
-name:     Massacre Artist
-text:     **Backstab** (2)
+name:     Massacre Artist<br>
+text:     **Backstab** (2)<br>
           After this minion attacks and backstabs, all attacks are backstabs this turn.
 
-name:     Onyx Bear Seal
+name:     Onyx Bear Seal<br>
 text:     Transform an enemy minion into a 0⚔️/2❤️ Panddo that cannot be attacked.
 
-name:     Pandamonium
+name:     Pandamonium<br>
 text:     Transform all minions into 0⚔️/2❤️ Panddo that cannot be attacked until end of turn.
 
-name:     Storm Sister Alkyone
+name:     Storm Sister Alkyone<br>
 text:     Spells you cast that deal damage deal +1 damage.
 
-name:     Wildfire Tenketsu
+name:     Wildfire Tenketsu<br>
 text:     **Blood Surge**: Put an **Eight Gates** into your hand.
 
-name:     Bombard
+name:     Bombard<br>
 text:     Reactivate your minions with Ranged.
 
-name:     Geomancer
+name:     Geomancer<br>
 text:     **Deploy**: Your **Bloodbound Spell** is **Phoenix Fire**.
 
-name:     Hamon Bladeseeker
+name:     Hamon Bladeseeker<br>
 text:     At the start of your turn, deal 2 damage to your General.
 
-name:     Heaven's Eclipse
+name:     Heaven's Eclipse<br>
 text:     Draw 3 spell cards.
 
-name:     Onyx Jaguar
+name:     Onyx Jaguar<br>
 text:     Whenever an allied minion is moved for any reason, it gains +1⚔️/+1❤️.
 
-name:     Phoenix Barrage
+name:     Phoenix Barrage<br>
 text:     Deal 3 damage to anything. Put a **Phoenix Fire** into your hand.
 
-name:     Scarlet Viper
-text:     **Flying**
+name:     Scarlet Viper<br>
+text:     **Flying**<br>
           **Backstab** (4)
 
-name:     Seeker Squad
+name:     Seeker Squad<br>
 text:     Summon a Heartseeker in each nearby space diagonal from your General.
 
-name:     Twilight Reiki
+name:     Twilight Reiki<br>
 text:     Put 3 random Songhai minions into your hand. They cost 1 less.
