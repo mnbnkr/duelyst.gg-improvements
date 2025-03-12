@@ -41,7 +41,8 @@ name:     Avalanche<br>
 text:     Deal 4 damage to everything on your starting side of the battlefield and **Stun** them.
 
 name:     Blinding Snowstorm<br>
-text:     Deal 1 damage to all enemies in a 3x3 area. Those enemies can only move 1 space next turn. Repeat this effect at the start of your next turn.
+text:     Deal 1 damage to all enemies in a 3x3 area. Enemies damaged by this can only move 1 space next turn. Repeat this effect at the start of your next turn.<br>
+behavior: Changed
 
 name:     Cryogenesis<br>
 text:     Deal 4 damage to an enemy minion. Draw a Vespyr minion.

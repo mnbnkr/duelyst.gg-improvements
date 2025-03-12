@@ -129,7 +129,8 @@ keyword:  **Wall**<br>
 keyword:  **Zeal**<br>
           Extra effect active while this minion is close to its General.
 
-
+<br>
+<br>
 
 tooltip:  **Awesome Abyssal Scar**<br>
           Summon 4⚔️/4❤️ Fiends on every allied Shadow Creep.
