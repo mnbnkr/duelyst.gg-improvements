@@ -39,7 +39,7 @@ name:     Crestfallen
 text:     **Zeal**: Provoke.
 
 name:     Draining Wave
-text:     Deal 4 damage to a minion AND your General.
+text:     Deal 4 damage to a minion and your General.
 
 name:     Fighting Spirit
 text:     Give all friendly minions +1❤️. Put a random Battle Pet into your hand.
@@ -463,7 +463,7 @@ name:     Eight Gates
 text:     Spells you cast this turn that deal damage deal +2 damage.
 
 name:     Ethereal Blades
-text:     Give a friendly minion AND your General +2⚔️ this turn.
+text:     Give a friendly minion and your General +2⚔️ this turn.
 
 name:     Geoforce Charm
 text:     At the beginning of your turn, put a Boulder Hurl into your hand.
@@ -607,7 +607,7 @@ name:     Coalfist
 text:     **Ability** 1: Friendly minions in a 2x2 area gain +3⚔️ until the start of your next turn.
 
 name:     Cobra Strike
-text:     Deal 3 damage to an enemy minion AND the enemy General.
+text:     Deal 3 damage to an enemy minion and the enemy General.
 
 name:     Flamewreath
 text:     Whenever this minion is moved for any reason, it deals 2 damage to all enemies around it.

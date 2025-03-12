@@ -408,7 +408,7 @@ text:     **Aspect**: During your opponents turn any friendly non-token minions 
 
 name:     AWESOME Awesomeness
 text:     Summon 2 AWESOME Wraithlings nearby your General. All your other Wraithlings become AWESOME as well.
-          AND Summon a 4⚔️/4❤️ Fiend on every unoccupied friendly Shadow Creep tile.
+          And Summon a 4⚔️/4❤️ Fiend on every unoccupied friendly Shadow Creep tile.
 
 name:     Abomination
 text:
