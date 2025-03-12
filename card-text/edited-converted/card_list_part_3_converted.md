@@ -67,7 +67,7 @@ name:     Starhorn the Seeker
 text:     **Bloodbound Spell**: Both players draw a card. The card you draw has it's mana cost reduced by 1.
 
 name:     Vaath the Immortal
-text:     **Bloodbound Spell**: Give your General +1 Attack and heal your General for 1.
+text:     **Bloodbound Spell**: Give your General +1⚔️ and heal your General for 1.
 
 name:     Chrysalis Egg
 text:     Will hatch at the start of its owner's turn
@@ -82,7 +82,7 @@ name:     Hatefurnace
 text:     **Aspect**: Your General has 40 HP but moves 1 less tile.
 
 name:     Amplification
-text:     Give a friendly damaged minion +2 Attack and +4 Health.
+text:     Give a friendly damaged minion +2⚔️ and +4❤️.
 
 name:     Dance of Dreams
 text:     Whenever a friendly minion dies this turn, draw a card.
@@ -103,16 +103,16 @@ name:     Magma
 text:
 
 name:     Overload
-text:     Give your General +1 Attack and heal your General for 1.
+text:     Give your General +1⚔️ and heal your General for 1.
 
 name:     Propagate Rage
 text:     Summon a Ripper Egg.
 
 name:     Rage Reactor
-text:     Your General gains +1 Attack. Whenever your General destroys an enemy, summon a Ripper Egg on that space.
+text:     Your General gains +1⚔️. Whenever your General destroys an enemy, summon a Ripper Egg on that space.
 
 name:     Razor Skin
-text:     Give all friendly minions +1 Attack. Put a random Battle Pet into your hand.
+text:     Give all friendly minions +1⚔️. Put a random Battle Pet into your hand.
 
 name:     Rex
 text:     **Rebirth**
@@ -128,7 +128,7 @@ name:     Tremor
 text:     **Stun** enemy minions in a 2x2 area.
 
 name:     Vyling
-text:     Whenever a minion is summoned that has more attack or maximum health than this minion, this minion gains +1/+1.
+text:     Whenever a minion is summoned that has more attack or maximum ❤️ than this minion, this minion gains +1/+1.
 
 name:     Angered Okkadok
 text:     **Intensify**: This minion gains +2/+2.
@@ -140,10 +140,10 @@ name:     Cascading Rebirth
 text:     Destroy a friendly minion to summon a random Magmar minion that costs 1 more nearby.
 
 name:     Deep Impact
-text:     Deal damage to a minion to reduce its Health to 1.
+text:     Deal damage to a minion to reduce its ❤️ to 1.
 
 name:     Diretide Frenzy
-text:     Give a friendly minion +1 Attack and Frenzy.
+text:     Give a friendly minion +1⚔️ and Frenzy.
 
 name:     Embryotic Insight
 text:     If you have an Egg, draw 2 cards.
@@ -155,7 +155,7 @@ name:     Gro
 text:     **Grow** +1/+1
 
 name:     Invigoration
-text:     **Intensify:** Restore 3 Health to your General.
+text:     **Intensify:** Restore 3❤️ to your General.
 
 name:     Iridium Scale
 text:     Your General gains Frenzy.
@@ -185,7 +185,7 @@ name:     Tectonic Spikes
 text:     Both players draw 3 cards.
 
 name:     Vaath's Brutality
-text:     Stun an enemy minion. Give your General +1 Attack.
+text:     Stun an enemy minion. Give your General +1⚔️.
 
 name:     Warpup
 text:     **Frenzy**
@@ -195,10 +195,10 @@ name:     Young Silithar
 text:     **Rebirth**
 
 name:     Zoetic Charm
-text:     Your General has +1 Attack. Your Eggs have Forcefield.
+text:     Your General has +1⚔️. Your Eggs have Forcefield.
 
 name:     Bellow
-text:     Give a friendly minion +3 Attack. **Stun** enemy minions around it.
+text:     Give a friendly minion +3⚔️. **Stun** enemy minions around it.
 
 name:     Catalyst Quillbeast
 text:     Whenever you cast a spell, deal 1 damage to all minions.
@@ -207,7 +207,7 @@ name:     Earth Walker
 text:     **Grow** +1/+1
 
 name:     Effulgent Infusion
-text:     Give a friendly minion +Attack equal to your General's Attack.
+text:     Give a friendly minion + ⚔️ equal to your General's ⚔️.
 
 name:     Endure the Beastlands
 text:     Turn a 2x2 area into **Primal Flourish**.
@@ -220,7 +220,7 @@ name:     Kin
 text:
 
 name:     Kinetic Equilibrium
-text:     Deal 2 damage to all minions in a 3x3 area. Friendly minions in the area also gain +2 Attack.
+text:     Deal 2 damage to all minions in a 3x3 area. Friendly minions in the area also gain +2⚔️.
 
 name:     Krater
 text:     **Deploy:** Deal 1 damage to everything (including itself).
@@ -230,7 +230,7 @@ text:     Nearby friendly minions grow at the start of both player's turns.
           **Grow** +1/+1
 
 name:     Natural Selection
-text:     Destroy any minion with the lowest Attack or tied for the lowest Attack.
+text:     Destroy any minion with the lowest ⚔️ or tied for the lowest ⚔️.
 
 name:     Oropsisaur
 text:     Whenever another nearby friendly minion with Grow survives damage, that minion grows.
@@ -243,14 +243,14 @@ name:     Pupabomb
 text:     Return all eggs to your hand. They gain echo.
 
 name:     Ragebinder
-text:     **Bond**: Restore 3 Health to your General.
+text:     **Bond**: Restore 3❤️ to your General.
           **Rebirth**
 
 name:     Terradon
 text:
 
 name:     Thraex
-text:     **Blood Surge**: All friendly minions gain +1 Attack (including itself).
+text:     **Blood Surge**: All friendly minions gain +1⚔️ (including itself).
 
 name:     Upper Hand
 text:     Deal 1 damage to an enemy minion for each card in your opponent's hand.
@@ -262,10 +262,10 @@ name:     Vindicator
 text:     Whenever your opponent draws a card, this minion gains +2/+2.
 
 name:     Adamantite Claws
-text:     Your General gains +4 Attack.
+text:     Your General gains +4⚔️.
 
 name:     Beastclad Hunter
-text:     Takes no damage from minions with less Attack.
+text:     Takes no damage from minions with less ⚔️.
 
 name:     Blood Rage
 text:     Give a friendly minion +1/+1 for each time damage was dealt this turn.
@@ -275,13 +275,13 @@ text:     **Ability** 1: move this minion 1 space. This ability does not exhaust
           This minion cannot move. This effect cannot be dispelled.
 
 name:     Drogon
-text:     **Blood Surge**: Double your General's Attack this turn.
+text:     **Blood Surge**: Double your General's ⚔️ this turn.
 
 name:     Earth Sister Taygete
 text:     Whenever this minion takes damage, deal that much damage to all nearby enemies.
 
 name:     Earth Sphere
-text:     Restore 8 Health to your General.
+text:     Restore 8❤️ to your General.
 
 name:     Egg Morph
 text:     Turn a non-Egg minion into an Egg, or hatch an Egg.
@@ -313,10 +313,10 @@ name:     Progenitor
 text:     **Deploy**: Up to 2 of your other non-Egg minions summon an Egg of itself behind itself.
 
 name:     Thumping Wave
-text:     Give a minion +5 Attack. At end of turn, transform it into a 3/3 **Kin**.
+text:     Give a minion +5⚔️. At end of turn, transform it into a 3/3 **Kin**.
 
 name:     Twin Fang
-text:     Whenever a friendly minion or your General takes damage, your General gains +2 Attack.
+text:     Whenever a friendly minion or your General takes damage, your General gains +2⚔️.
 
 name:     Valknu's Seal
 text:     Summon an Egg that hatches into a copy of your General.
@@ -375,7 +375,7 @@ name:     Metamorphosis
 text:     Transform all enemy minions into 1/1 Magma with no abilities until the end of your opponent's turn.
 
 name:     Morin-Khur
-text:     Your General gains +3 Attack. Whenever your General deals damage, hatch all friendly Eggs.
+text:     Your General gains +3⚔️. Whenever your General deals damage, hatch all friendly Eggs.
 
 name:     Bounded Lifeforce
 text:     Your General becomes 10/10.
@@ -393,9 +393,9 @@ text:     Whenever this minion takes damage, summon that many random Golem Eggs 
 
 name:     Saurian Finality
 text:     **Stun** the enemy General.
-          Your General gains +3 Attack.
+          Your General gains +3⚔️.
           Both players lose 3 mana.
-          Restore 10 Health to your General.
+          Restore 10❤️ to your General.
 
 name:     Grandmaster Kraigon
 text:     **Grow**: +2/+2, **Frenzy**, **Forcefield**.
@@ -435,10 +435,10 @@ text:     **Dying Wish**: Deal 2 damage to nearby enemies.
           **Wall**
 
 name:     Oak in the Nemeton
-text:     **Aspect**: Friendly minions nearby your General have +1 Attack. Your General cannot attack.
+text:     **Aspect**: Friendly minions nearby your General have +1⚔️. Your General cannot attack.
 
 name:     Polarity
-text:     Switch any minion's Attack and Health.
+text:     Switch any minion's ⚔️ and ❤️.
 
 name:     Aspect of Ego
 text:     Transform any minion into a random minion of the same cost.
@@ -466,7 +466,7 @@ text:     **Flying**
           **Infiltrate**: When this minion attacks, permanently gain 1 mana crystal.
 
 name:     Silent Intensity
-text:     Give a friendly minion +4 Attack during your opponents turn.
+text:     Give a friendly minion +4⚔️ during your opponents turn.
           **Echo**
 
 name:     Snow Chaser
@@ -494,10 +494,10 @@ name:     Bonechill Barrier
 text:     Summon three joined 0/2 Vespyr Walls. Units that attack these walls are **Stunned**.
 
 name:     Borean Bear
-text:     Whenever you summon a Vespyr minion, this minion gains +1 Attack.
+text:     Whenever you summon a Vespyr minion, this minion gains +1⚔️.
 
 name:     Boundless Courage
-text:     Give a friendly minion +2 Attack. It takes no damage this turn.
+text:     Give a friendly minion +2⚔️. It takes no damage this turn.
 
 name:     Bur
 text:     When this minion survives damage, transform it into a different Battle Pet.
@@ -515,10 +515,10 @@ name:     Cryoblade
 text:     Deals double damage to and cannot be counter attacked by **Stunned** enemies.
 
 name:     Crystal Arbiter
-text:     This minion has +3 Attack on your opponent's turn.
+text:     This minion has +3⚔️ on your opponent's turn.
 
 name:     Crystal Cloaker
-text:     **Infiltrate**: Gain +2 Attack.
+text:     **Infiltrate**: Gain +2⚔️.
 
 name:     Crystal Wisp
 text:     **Dying Wish**: Permanently gain 1 mana crystal.
@@ -530,7 +530,7 @@ name:     Frigid Corona
 text:     Stun an enemy minion. Draw a card.
 
 name:     Frostfire
-text:     Give a friendly minion +3 Attack. If it is Vespyr, also give it +3 Health.
+text:     Give a friendly minion +3⚔️. If it is Vespyr, also give it +3❤️.
 
 name:     Ghost Wolf
 text:
@@ -562,7 +562,7 @@ text:     **Airdrop**
           **Build**:1
 
 name:     Resonance Scythe
-text:     Your General has +1 Attack. Reactivate your General whenever they destroy a Stunned enemy.
+text:     Your General has +1⚔️. Reactivate your General whenever they destroy a Stunned enemy.
 
 name:     Rolling Snowstorm
 text:     At the start of your next 9 turns deal 6 damage to all enemies in a column starting with the far column on your opponents starting side.
@@ -592,7 +592,7 @@ name:     Cryonic Potential
 text:     Give an exhausted friendly minion +6/+6.
 
 name:     Crystalline Reinforcement
-text:     Double the Attack and Health buffs of friendly minions.
+text:     Double the ⚔️ and ❤️ buffs of friendly minions.
 
 name:     Disciple of Yggdra
 text:     When an enemy is **Stunned**, transform this minion into Yggdra's Voracity and draw a card.

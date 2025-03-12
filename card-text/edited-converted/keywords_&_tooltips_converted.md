@@ -29,7 +29,7 @@ keyword:  **Battle Pet**
           At the beginning of its owner's turn this minion will move and attack by itself, It cannot be directly controlled.
 
 keyword:  **Blast**
-          Attack damages all enemies in a straight line.
+          ⚔️ damages all enemies in a straight line.
 
 keyword:  **Blood Surge**
           Effect triggers when your general casts its Bloodbound Spell.
@@ -103,7 +103,7 @@ keyword:  **MECHAZ0R Progress**
           When assembly progress reaches 100% MECHAZOR can be called into battle.
 
 keyword:  **Paleclaw Gauntlet**
-          +3 Attack.
+          +3⚔️.
 
 keyword:  **Provoke**
           Enemies around this unit cannot move and can only attack this unit.
@@ -130,7 +130,7 @@ keyword:  **Spriggin Kin**
           Cute tiny minion, 4 different kinds.
 
 keyword:  **Structure**
-          Cannot move. Will always have 0 Attack.
+          Cannot move. Will always have 0⚔️.
 
 keyword:  **Stun**
           The target minion cannot move or act for 1 turn.
@@ -145,4 +145,4 @@ keyword:  **Zeal**
           Extra effect active while this minion is close to it's General.
 
 keyword:  **Zoetic Charm**
-          Your General has +1 Attack. Your Eggs have Forcefield.
+          Your General has +1⚔️. Your Eggs have Forcefield.

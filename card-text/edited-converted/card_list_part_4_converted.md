@@ -16,7 +16,7 @@ name:     Snow Rippler
 text:     **Infiltrate**: Whenever this minion damages a General, put a random Battle Pet into your hand.
 
 name:     Snowpiercer
-text:     Your General gains +3 Attack.
+text:     Your General gains +3⚔️.
 
 name:     Volatile Crystal
 text:     During your opponent's turn, whenever an enemy moves to or is summoned nearby, detonate dealing 8 damage to itself and all nearby enemies.
@@ -26,7 +26,7 @@ text:     Whenever your General attacks or counterattacks, summon a Flurry nearb
 
 name:     Wolfraven
 text:     **Flying**
-          **Infiltrate**: Gain +3 Attack.
+          **Infiltrate**: Gain +3⚔️.
 
 name:     Yggdra's Voracity
 text:     Whenever an enemy is **Stunned**, fully heal this minion.
@@ -47,7 +47,7 @@ name:     Cryogenesis
 text:     Deal 4 damage to an enemy minion. Draw a Vespyr minion from your deck.
 
 name:     Denadoro
-text:     **Infiltrate**: Your General has **Infiltrate**: +1 Attack and **Force Field**.
+text:     **Infiltrate**: Your General has **Infiltrate**: +1⚔️ and **Force Field**.
 
 name:     Endless Hunt
 text:     Summon a 3/3 Vespyr **Night Howler**. Put an Endless Hunt into your hand.
@@ -69,7 +69,7 @@ name:     Meltwater Moose
 text:     When this minion is summoned, **Stun** it.
 
 name:     Razorback
-text:     **Deploy**: Give all friendly minions +2 Attack this turn.
+text:     **Deploy**: Give all friendly minions +2⚔️ this turn.
 
 name:     Seismic Elemental
 text:
@@ -84,7 +84,7 @@ name:     Wailing Overdrive
 text:     Give a friendly minion on your opponent's starting side of the battlefield +5/+5.
 
 name:     White Asp
-text:     Your General gains +3 Attack. Whenever your General destroys a minion, summon a 3/3 **Blazing Spine Wall** on that space.
+text:     Your General gains +3⚔️. Whenever your General destroys a minion, summon a 3/3 **Blazing Spine Wall** on that space.
 
 name:     Whyte Drake
 text:     **Flying**
@@ -93,13 +93,13 @@ name:     Wind Sister Maia
 text:     Whenever you summon a minion (including this one) on the opponent's side of the field, it gains +1/+1.
 
 name:     Winterblade
-text:     Your General gains +2 Attack. Enemy minions damaged by your General are Stunned.
+text:     Your General gains +2⚔️. Enemy minions damaged by your General are Stunned.
 
 name:     Wintertide
 text:     Summon three 2/2 Vespyr Winter Maerids on any column.
 
 name:     Animus Plate
-text:     Your General gains +2 Attack. Whenever your General attacks or counterattacks, give all friendly Vespyr minions +2/+2.
+text:     Your General gains +2⚔️. Whenever your General attacks or counterattacks, give all friendly Vespyr minions +2/+2.
 
 name:     Arctic Displacer
 text:     **Airdrop**
@@ -118,7 +118,7 @@ name:     Fenrir Berserker
 text:     **Dying Wish**: Summon a Fenrir Warmaster on this space.
 
 name:     Frosthorn Rhyno
-text:     **Infiltrate**: Gain +1 Attack and **Celerity**
+text:     **Infiltrate**: Gain +1⚔️ and **Celerity**
 
 name:     Frostiva
 text:     **Forcefield**
@@ -179,7 +179,7 @@ name:     Boulder Hurl
 text:     Deal 1 damage to an enemy.
 
 name:     Brilliant Plume
-text:     Restore 1 Health to your General. Draw a card.
+text:     Restore 1❤️ to your General. Draw a card.
 
 name:     Eruptive Egg
 text:      If this minion dies during your opponents turn it deals 3 damage to all enemies around it.
@@ -190,11 +190,11 @@ name:     Exhuming Sand
 text:     Summons a 2/1 Sand Dervish when its owner summons a minion from their hand.
 
 name:     Hallowed Ground
-text:     Restores 1 Health to friendly minions and Generals standing on it at the end of the owner's turn
+text:     Restores 1❤️ to friendly minions and Generals standing on it at the end of the owner's turn
 
 name:     Justicar's Bastion
 text:     Equipment is **Invulnerable**
-          Provoke, +3 Health and may move an aditional space.
+          Provoke, +3❤️ and may move an aditional space.
 
 name:     Mana Etch
 text:     Reduce the manacost of all cards in your hand by 1.
@@ -213,7 +213,7 @@ text:     **Aspect**: The first minion you summon during your turn gets +0/+1. Y
 
 name:     Paleclaw Gauntlet
 text:     Equipment is **Invulnerable**
-          +3 Attack
+          +3⚔️
 
 name:     Primal Flourish
 text:     Friendly minion standing on Primal Flourish get Grow +2/+2.
@@ -232,7 +232,7 @@ name:     Bloodtear Alchemist
 text:     **Deploy**: Deal 1 damage to an enemy.
 
 name:     Devour
-text:     Devour any minion with the highest attack or tied for the highest Attack, gain it's stats and keywords.
+text:     Devour any minion with the highest attack or tied for the highest ⚔️, gain it's stats and keywords.
 
 name:     Dex
 text:     **Celerity**
@@ -259,13 +259,13 @@ name:     Komodo Charger
 text:
 
 name:     Lesson of Courage
-text:     Give your General +1 Attack.
+text:     Give your General +1⚔️.
 
 name:     Lesson of Power
 text:     Deal 2 damage to anything.
 
 name:     Lesson of Wisdom
-text:     Restore 3 Health to anything.
+text:     Restore 3❤️ to anything.
 
 name:     Mini-jax
 text:     **Ranged** (4)
@@ -274,7 +274,7 @@ name:     Mirrorrim
 text:     **Deploy**: Shuffle three copies of a friendly minion into your deck.
 
 name:     Moro
-text:     As long as there is a Spriggin this minion has +3 Attack.
+text:     As long as there is a Spriggin this minion has +3⚔️.
 
 name:     Oni
 text:     **Forcefield**
@@ -320,16 +320,16 @@ name:     Amu
 text:
 
 name:     Araki Headhunter
-text:     Whenever you summon a minion with **Deploy** from your hand, gain +2 Attack.
+text:     Whenever you summon a minion with **Deploy** from your hand, gain +2⚔️.
 
 name:     Araras Prophet
 text:     Whenever you replace a card, shuffle a Brilliant Plume into your deck.
 
 name:     Azure Herald
-text:     **Deploy**: Restore 3 Health to your General.
+text:     **Deploy**: Restore 3❤️ to your General.
 
 name:     Azure Horn Shaman
-text:     **Dying Wish**: Give +3 Health to friendly minions around it.
+text:     **Dying Wish**: Give +3❤️ to friendly minions around it.
 
 name:     Bluetip Scorpion
 text:     Deals double damage to minions.
@@ -338,7 +338,7 @@ name:     Broken Captive
 text:     **Rush**
 
 name:     Carcynus
-text:     **Ability** 1: Gain +1 Health. Also Gain Provoke until the start of your next turn.
+text:     **Ability** 1: Gain +1❤️. Also Gain Provoke until the start of your next turn.
 
 name:     Celebrant
 text:     **Deploy**:  Create a mana spring tile.
@@ -376,10 +376,10 @@ name:     Golem Metallurgist
 text:     The first Golem you summon each turn costs 1 less.
 
 name:     Healing Mystic
-text:     **Deploy**: Restore 2 Health to anything.
+text:     **Deploy**: Restore 2❤️ to anything.
 
 name:     Healing Sage
-text:     **Deploy**: Restore 1 Health to anything.
+text:     **Deploy**: Restore 1❤️ to anything.
           **Ability** 3: Summon a friendly non-token minion that was destroyed since your opponents last turn nearby.
 
 name:     Jaxi
@@ -401,7 +401,7 @@ name:     Piercing Mantis
 text:     **Frenzy**
 
 name:     Primus Fist
-text:     **Deploy**: Give a friendly minion +2 Attack this turn.
+text:     **Deploy**: Give a friendly minion +2⚔️ this turn.
 
 name:     Rage
 text:     **Frenzy**
@@ -413,7 +413,7 @@ name:     Replicant
 text:     **Deploy**: Draw another Replicant from your deck.
 
 name:     Rescue-RX
-text:     When this minion is built, restore 5 Health to your General.
+text:     When this minion is built, restore 5❤️ to your General.
           **Build**:2
 
 name:     Riddle
@@ -435,7 +435,7 @@ name:     Serenity
 text:     **Flying**
 
 name:     Shiro Puppydragon
-text:     At the end of your turn, give each nearby friendly minion +1 Attack.
+text:     At the end of your turn, give each nearby friendly minion +1⚔️.
 
 name:     Sinister Silhouette
 text:     Cannot be attacked.
@@ -480,7 +480,7 @@ name:     Aegis Golem
 text:     Can only be attacked or counter attacked by units that are adjacent to it.
 
 name:     Aer Pridebeak
-text:     Whenever your opponent casts a spell, restore 1 Health to your General.
+text:     Whenever your opponent casts a spell, restore 1❤️ to your General.
 
 name:     Alcuin Loremaster
 text:     **Deploy**: Put a copy of the most recently cast spell into your hand.
@@ -490,7 +490,7 @@ text:     Whenever this or another friendly minion is built, draw a card.
           **Build**:1
 
 name:     Bastion
-text:     At the end of your turn, give all friendly minions +1 health.
+text:     At the end of your turn, give all friendly minions +1❤️.
 
 name:     Blaze Hound
 text:     **Deploy:**Both players draw a card.
@@ -502,7 +502,7 @@ name:     Bloodshard Golem
 text:
 
 name:     Bloodsun Hellion
-text:     Enemies in the 3 spaces in front of this minion have -2 Attack.
+text:     Enemies in the 3 spaces in front of this minion have -2⚔️.
 
 name:     Cannon of MECHAZ0R
 text:     **Ranged** (2)

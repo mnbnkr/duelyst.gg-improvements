@@ -1,5 +1,5 @@
 name:     Day Watcher
-text:     Whenever a friendly minion attacks, restore 1 Health to your General.
+text:     Whenever a friendly minion attacks, restore 1❤️ to your General.
 
 name:     Elkowl
 text:     **Deploy**: Gain two random keywords.
@@ -94,7 +94,7 @@ name:     Songweaver
 text:     **Deploy**: Give a friendly minion +1/+1.
 
 name:     Sun Seer
-text:     Whenever this minion deals damage, restore 2 Health to your General.
+text:     Whenever this minion deals damage, restore 2❤️ to your General.
 
 name:     Sword of MECHAZ0R
 text:     **Frenzy**
@@ -102,7 +102,7 @@ text:     **Frenzy**
 
 name:     Sworn Avenger
 text:     **Ranged** (2)
-          Whenever your General takes damage, this minion gains +1 Attack.
+          Whenever your General takes damage, this minion gains +1⚔️.
 
 name:     Syvrel the Exile
 text:     **Ranged** (4)
@@ -112,7 +112,7 @@ name:     Tombstone
 text:     **Provoke**
 
 name:     Unbound Berserker
-text:     **Ability** 3: Take damage until 1 health remains and gain double the amount lost as attack. This ability does not exhaust.
+text:     **Ability** 3: Take damage until 1❤️ remains and gain double the amount lost as attack. This ability does not exhaust.
 
 name:     Venom Toth
 text:     Whenever your opponent summons a minion, deal 1 damage to the enemy General.
@@ -122,14 +122,14 @@ text:     **Dying Wish**: Draw a card.
 
 name:     Wild Tahr
 text:     **Frenzy**
-          Whenever an enemy attacks during the opponent's turn, this minion gains +3 Attack until the end of your turn.
+          Whenever an enemy attacks during the opponent's turn, this minion gains +3⚔️ until the end of your turn.
 
 name:     Wind Runner
 text:     After this minion moves, give all friendly minions around it +1/+1.
 
 name:     Wings of Paradise
 text:     **Flying**
-          Whenever you replace a card, this minion gains +2 Attack this turn.
+          Whenever you replace a card, this minion gains +2⚔️ this turn.
 
 name:     Yun
 text:
@@ -139,7 +139,7 @@ text:     You control your Battle Pets.
 
 name:     Arrow Whistler
 text:     **Ranged** (2)
-          Your other minions with **Ranged** get +1 Attack.
+          Your other minions with **Ranged** get +1⚔️.
 
 name:     Artifact Hunter
 text:     **Deploy**: Draw a random artifact from your deck.
@@ -156,11 +156,11 @@ text:     **Ranged** (2)
           Each time this minion attacks, it has a 50% chance to attack again, attacking a random enemy.
 
 name:     Calculator
-text:     **Deploy**: Gain the combined Attack and Health of all Battle Pets in your hand.
+text:     **Deploy**: Gain the combined ⚔️ and ❤️ of all Battle Pets in your hand.
 
 name:     Captain Hank Hart
 text:     **Ranged** (2)
-          Whenever this minion deals damage, restore that much Health to it.
+          Whenever this minion deals damage, restore that much ❤️ to it.
 
 name:     Chassis of MECHAZ0R
 text:     **Forcefield**
@@ -170,7 +170,7 @@ name:     Dioltas
 text:     **Dying Wish**: Summon a 0/8 Tombstone minion with Provoke near your General.
 
 name:     Emerald Rejuvenator
-text:     **Deploy**: Restore 4 Health to your General.
+text:     **Deploy**: Restore 4❤️ to your General.
 
 name:     Feralu
 text:     Friendly minions from any tribe have +1/+1.
@@ -180,7 +180,7 @@ name:     Fire Spitter
 text:     **Ranged** (2)
 
 name:     Fizzling Mystic
-text:     **Deploy**: Deal 2 damage to an enemy OR restore 2 Health to a friendly minion or General.
+text:     **Deploy**: Deal 2 damage to an enemy OR restore 2❤️ to a friendly minion or General.
 
 name:     Frostbone Naga
 text:     **Deploy**: Deal 2 damage to everything around it.
@@ -210,14 +210,14 @@ name:     Mindwarper
 text:     **Deploy** and **Ability** 1: Gain a copy of a random spell from your opponent's hand.
 
 name:     Moebius
-text:     At the start of your turn, fully heal this minion and switch its Attack and Health.
+text:     At the start of your turn, fully heal this minion and switch its ⚔️ and ❤️.
 
 name:     Night Watcher
 text:     **Forcefield**
           Whenever any player summons a minion with Rush, exhaust it.
 
 name:     Owlbeast Sage
-text:     Whenever you cast a spell, your nearby Arcanyst minions gain +2 Health.
+text:     Whenever you cast a spell, your nearby Arcanyst minions gain +2❤️.
 
 name:     Paleclaw Brawler
 text:     **Equipped** with Paleclaw Gauntlet.
@@ -226,7 +226,7 @@ name:     Primus Shieldmaster
 text:     **Provoke**
 
 name:     Purgatos, the Realmkeeper
-text:     Whenever this minion deals damage, either deal 3 damage to the enemy General OR restore 3 Health to your General.
+text:     Whenever this minion deals damage, either deal 3 damage to the enemy General OR restore 3❤️ to your General.
 
 name:     Razorcrag Golem
 text:
@@ -251,7 +251,7 @@ name:     Sphynx
 text:     **Deploy**: Put a Riddle in your opponent's hand.
 
 name:     Sun Elemental
-text:     **Ability** 2: Give up to two friendly units +3 Attack and Ephemeral.
+text:     **Ability** 2: Give up to two friendly units +3⚔️ and Ephemeral.
 
 name:     Sunsteel Defender
 text:     **Forcefield**
@@ -344,7 +344,7 @@ text:     **Deploy**: Destroy any minion with Provoke or Frenzy. If you do, this
 
 name:     Impervious Giago
 text:     **Provoke**
-          Whenever this minion is attacked, it gains +2 Attack.
+          Whenever this minion is attacked, it gains +2⚔️.
 
 name:     Ironclad
 text:     **Dying Wish**: Dispel all enemy minions.
@@ -361,7 +361,7 @@ text:     **Deploy**: Dispel all spaces around it.
 
 name:     Lux Ignis
 text:     **Ranged** (2)
-          At the end of your turn, restore 2 Health to all nearby friendly units.
+          At the end of your turn, restore 2❤️ to all nearby friendly units.
 
 name:     Necroseer
 text:     **Dying Wish**: Draw a card.
@@ -409,7 +409,7 @@ name:     Facestriker
 text:     Deals double damage to Generals.
 
 name:     First Sword of Akrane
-text:     Your other minions have +1 Attack.
+text:     Your other minions have +1⚔️.
 
 name:     Grimes
 text:     **Deploy** and **Dying Wish**: Summon a random minion from any tribe nearby.
@@ -443,7 +443,7 @@ name:     Quartermaster Gauj
 text:     Takes no damage from minions or Generals.
 
 name:     Ruby Rifter
-text:     Whenever your General takes damage, draw a card and give this minion +2 Attack.
+text:     Whenever your General takes damage, draw a card and give this minion +2⚔️.
 
 name:     S.I.L.V.E.R.
 text:     Whenever you summon this or another Mech, friendly Mechs gain all keywords of other friendly Mechs.
@@ -465,13 +465,13 @@ name:     Stormmetal Golem
 text:
 
 name:     Sunset Paragon
-text:     **Deploy**: All nearby minions deal damage to themselves equal to their Attack.
+text:     **Deploy**: All nearby minions deal damage to themselves equal to their ⚔️.
 
 name:     The Scientist
 text:     Whenever you play a spell that targets a friendly minion, draw a card.
 
 name:     Zen'rui, the Blightspawned
-text:     **Deploy**: Take control of a nearby enemy minion with 2 or less Attack.
+text:     **Deploy**: Take control of a nearby enemy minion with 2 or less ⚔️.
 
 name:     Astral Crusader
 text:     Whenever you replace this card, it and any other Astral Crusader in your deck cost 3 less and gains +2/+2.
@@ -481,7 +481,7 @@ text:     **Deploy**: Devour any minion, anywhere.
           **Dying Wish**: Spit out the devoured minion on this space.
 
 name:     Dark Nemesis
-text:     At the start of your turn, deal 4 damage to the enemy General and this minion gains +4 Attack.
+text:     At the start of your turn, deal 4 damage to the enemy General and this minion gains +4⚔️.
 
 name:     Drybone Golem
 text:
@@ -510,7 +510,7 @@ name:     Red Synja
 text:     Whenever your General takes damage, deal 7 damage to a random nearby enemy minion.
 
 name:     Reliquarian
-text:     **Deploy**: Forge a friendly minion into a Faction artifact with equal Attack.
+text:     **Deploy**: Forge a friendly minion into a Faction artifact with equal ⚔️.
 
 name:     Rook
 text:     **Deploy** and at the end of your turn: this minion gains a random Faction ability.
@@ -539,4 +539,4 @@ text:
 
 name:     Blood Taura
 text:     **Provoke**
-          This minion's cost is your General's health.
+          This minion's cost is your General's ❤️.

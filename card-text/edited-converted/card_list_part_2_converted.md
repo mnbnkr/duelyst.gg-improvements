@@ -3,7 +3,7 @@ text:     **Ranged** (2)
           Whenever you summon a minion with **Ranged**, that minion gains **Rush**.
 
 name:     Firestorm Mantra
-text:     Steal Health from the enemy General equal to twice the number of spells cast this turn.
+text:     Steal ❤️ from the enemy General equal to twice the number of spells cast this turn.
 
 name:     Grandmaster Zendo
 text:     The enemy General moves and attacks automatically.
@@ -37,7 +37,7 @@ name:     Kensho Vortex
 text:     Costs 1 less for each spell you cast this game. Whenever you cast a spell this turn, summon a minion that costs up to 2 more nearby your General.
 
 name:     Ciphyron Ascendant
-text:     **Bloodbound Spell**: Give an enemy minion -2 Attack until your next turn.
+text:     **Bloodbound Spell**: Give an enemy minion -2⚔️ until your next turn.
 
 name:     Scioness Sajj
 text:     **Bloodbound Spell**: Your General deals double damage to and receives 2 less damage from minions this turn.
@@ -64,20 +64,20 @@ name:     Arid Unmaking
 text:     Destroy a friendly minion to turn its space into Exhuming Sand.
 
 name:     Auroras Tears
-text:     This turn, your General gains +2 Attack for every equipped artifact.
+text:     This turn, your General gains +2⚔️ for every equipped artifact.
 
 name:     Blindscorch
-text:     Lower a minion's Attack to 0 until your next turn.
+text:     Lower a minion's ⚔️ to 0 until your next turn.
           **Echo**
 
 name:     Decension
-text:     Give an enemy minion -2 Attack until your next turn.
+text:     Give an enemy minion -2⚔️ until your next turn.
 
 name:     Droplift
 text:     Steal a random artifact from the enemy General and equip it.
 
 name:     Equality Constraint
-text:     Any minion's Health becomes equal to its Attack.
+text:     Any minion's ❤️ becomes equal to its ⚔️.
 
 name:     Iron Dervish
 text:
@@ -105,14 +105,14 @@ name:     Scion's First Wish
 text:     Give a friendly minion +1/+1. Draw a card.
 
 name:     Stone to Spears
-text:     A friendly Structure gains +3 Attack and may move and attack this turn if able.
+text:     A friendly Structure gains +3⚔️ and may move and attack this turn if able.
 
 name:     Whisper of the Sands
 text:     Transform up to two friendly Wind Dervishes into Sand Howlers.
           **Echo**
 
 name:     Atom Klinger
-text:     Whenever you equip an artifact, this minion gains +Attack equal to the artifact's cost.
+text:     Whenever you equip an artifact, this minion gains + ⚔️ equal to the artifact's cost.
 
 name:     Barren Shrike
 text:     **Deploy**: Take your General's longest equipped artifact, gaining +2/+2 while holding it.
@@ -137,7 +137,7 @@ name:     Duskweaver
 text:     **Dying Wish**: Put a random Scion's Wish spell into your hand.
 
 name:     Dustdrinker
-text:     **Intensify**: Deal 1 damage to the enemy General and this minion gains +1 Health.
+text:     **Intensify**: Deal 1 damage to the enemy General and this minion gains +1❤️.
 
 name:     Ethereal Obelysk
 text:     **Summon Dervish**
@@ -163,7 +163,7 @@ name:     Neurolink
 text:     Your General gains all keywords of friendly minions this turn.
 
 name:     Obdurator
-text:     Your General gains +1 Attack. At the start of your turn, repair all of your artifacts by 1 durability.
+text:     Your General gains +1⚔️. At the start of your turn, repair all of your artifacts by 1 durability.
 
 name:     Orbrider
 text:     **Deploy:** Return a friendly minion to your hand.
@@ -187,7 +187,7 @@ name:     Scion's Second Wish
 text:     Give a friendly minion +2/+2. It takes no damage from Generals.
 
 name:     Staff of Y'Kir
-text:     Your General gains +2 Attack.
+text:     Your General gains +2⚔️.
 
 name:     Whitestone Pendant
 text:     Friendly obelysks adjacent to your General are **Invulnerable**.
@@ -200,13 +200,13 @@ text:     **Deploy:** Lower the cost of all Structure minions in your hand by 1.
 
 name:     Windstorm Obelysk
 text:     **Summon Dervish**
-          Your dervishes have +3 Health.
+          Your dervishes have +3❤️.
 
 name:     Astral Flood
 text:     Put 3 random Battle Pets into your hand.
 
 name:     Astral Phasing
-text:     Give a friendly minion +5 Health and Flying. It can no longer damage Generals.
+text:     Give a friendly minion +5❤️ and Flying. It can no longer damage Generals.
 
 name:     Divine Spark
 text:     Draw two cards.
@@ -219,23 +219,23 @@ text:     Whenever your opponent draws a card, this minion gains a random keywor
 
 name:     Fireblaze Obelysk
 text:     **Summon Dervish**
-          Your dervishes have +1 Attack.
+          Your dervishes have +1⚔️.
 
 name:     Imperial Mechanyst
 text:     **Deploy**: Repair all of your artifacts to full durability.
 
 name:     Inner Oasis
-text:     Give all friendly minions +3 Health. Draw a card.
+text:     Give all friendly minions +3❤️. Draw a card.
 
 name:     Orb Weaver
 text:     **Deploy**: Summon a copy of this minion.
 
 name:     Portal Guardian
 text:     **Frenzy**
-          Whenever you summon a minion, this minion gains +1 Attack
+          Whenever you summon a minion, this minion gains +1⚔️
 
 name:     Psychic Conduit
-text:     Reactivate and take control of an enemy minion with 2 or less Attack until end of turn.
+text:     Reactivate and take control of an enemy minion with 2 or less ⚔️ until end of turn.
 
 name:     Sand Howler
 text:     **Cannot be targeted by enemy spells or Ability keyword effects.**
@@ -274,22 +274,22 @@ name:     Allomancer
 text:     **Dying Wish**: Summon a random Obelysk on this space.
 
 name:     Falcius
-text:     **Deploy**: Your General gains +2 Attack and takes no damage this turn.
+text:     **Deploy**: Your General gains +2⚔️ and takes no damage this turn.
 
 name:     Fate Seeker
 text:     **Deploy**: Take control of a enemy minion. Retain control as long as this minion remains nearby the controlled enemy.
 
 name:     Hexblade
-text:     Your General gains +3 Attack. Whenever your General damages an enemy minion, its Attack becomes 1.
+text:     Your General gains +3⚔️. Whenever your General damages an enemy minion, its ⚔️ becomes 1.
 
 name:     Mirage Master
 text:     **Deploy**: This minion transforms into a copy of an enemy minion.
 
 name:     Sand Sister Saon
-text:     Your General has +1 Attack and **Armour**.
+text:     Your General has +1⚔️ and **Armour**.
 
 name:     Synaptic Arbitrage
-text:     Give your opponent a minion to take control of nearby enemy minions with less Attack.
+text:     Give your opponent a minion to take control of nearby enemy minions with less ⚔️.
 
 name:     Trygon Obelysk
 text:     **Summon Dervish**
@@ -338,7 +338,7 @@ name:     Sirocco
 text:     **Deploy**: Summon a Skyrock Golem on random spaces for each other Golem you've summoned this game.
 
 name:     Spinecleaver
-text:     Your General gains +1 Attack. Enemy minions destroyed by your General summon a Bloodfire Totem on that space.
+text:     Your General gains +1⚔️. Enemy minions destroyed by your General summon a Bloodfire Totem on that space.
 
 name:     Starfire Scarab
 text:     **Blast**
@@ -351,7 +351,7 @@ text:     Equip 2 random Vetruvian artifacts.
 
 name:     Aymara Healer
 text:     **Provoke**
-          **Dying Wish**: Restore 5 Health to your General.
+          **Dying Wish**: Restore 5❤️ to your General.
 
 name:     Blood of Air
 text:     Transform an enemy minion into a friendly Wind Dervish.
@@ -360,7 +360,7 @@ name:     Cataclysmic Fault
 text:     Turn the entire center column into Exhuming Sand.
 
 name:     Grapnel Paradigm
-text:     **Deploy**: Take control of enemy minions with 2 or less Attack on this row.
+text:     **Deploy**: Take control of enemy minions with 2 or less ⚔️ on this row.
 
 name:     Oserix
 text:     **Flying**
@@ -420,7 +420,7 @@ name:     Abyssal Scar
 text:     Turn 1 space into Shadow Creep at the end of your turn.
 
 name:     Aphotic Drain
-text:     Destroy a friendly minion to restore 5 Health to your General.
+text:     Destroy a friendly minion to restore 5❤️ to your General.
 
 name:     Demonic Conversion
 text:     Draw a minion from your opponent's deck. It gains +1/+1.
@@ -468,7 +468,7 @@ name:     Touch of Despair
 text:     Give all enemy minions -1/-1 for every Pillar on the field.
 
 name:     Void Pulse
-text:     Deal 2 damage to enemy General. Restore 3 Health to your General.
+text:     Deal 2 damage to enemy General. Restore 3❤️ to your General.
 
 name:     Wraithling
 text:
@@ -520,16 +520,16 @@ name:     Ooz
 text:     Whenever this minion takes damage, turn a space occupied by an enemy into **Shadow Creep**.
 
 name:     Phantasm
-text:     Whenever your opponent summons a minion, give a minion in your hand +1 Attack.
+text:     Whenever your opponent summons a minion, give a minion in your hand +1⚔️.
 
 name:     Shadowstalk
 text:     Summon a Wraithling behind each enemy.
 
 name:     Soulshatter Pact
-text:     Give all friendly minions +2 Attack this turn.
+text:     Give all friendly minions +2⚔️ this turn.
 
 name:     Spectral Blade
-text:     Your General gains +2 Attack. Whenever your General destroys an enemy, restore 2 Health to your General.
+text:     Your General gains +2⚔️. Whenever your General destroys an enemy, restore 2❤️ to your General.
 
 name:     The Releaser
 text:     When this artifact breaks, summon a random friendly non-token minion destroyed this game nearby.
@@ -547,19 +547,19 @@ name:     AWESOME Shadow Spawn
 text:     Summon 2 AWESOME Wraithlings nearby your General. All your other Wraithlings become AWESOME as well.
 
 name:     Abhorrent Unbirth
-text:     Destroy all friendly minions to summon a 1/1 Abomination that gains their Attack, Health, and keywords.
+text:     Destroy all friendly minions to summon a 1/1 Abomination that gains their ⚔️, ❤️, and keywords.
 
 name:     Abyssal Juggernaut
 text:     This minion has +2/+2 for each allied **Shadow Creep** nearby or underneath it at the start of the turn.
 
 name:     Blood Baronette
-text:     **Deploy**: Double a Wraithling's Attack and Health.
+text:     **Deploy**: Double a Wraithling's ⚔️ and ❤️.
 
 name:     Blood Echoes
 text:     Destroy all friendly minions and resummon them on random spaces at end of turn.
 
 name:     Bonecrusher
-text:     **Intensify**: This minion gains +5 Attack.
+text:     **Intensify**: This minion gains +5⚔️.
 
 name:     Bound Tormentor
 text:     **Sentinel**: Minion summoned.
@@ -576,7 +576,7 @@ name:     Daemonic Lure
 text:     Deal 1 damage to an enemy minion and teleport it anywhere.
 
 name:     Horrific Visage
-text:     Give all enemy minions -4 Attack until your next turn.
+text:     Give all enemy minions -4⚔️ until your next turn.
 
 name:     Horror Burster
 text:     **Dying Wish**:  Transform a random friendly minion into a 6/6 Horror.
@@ -595,23 +595,23 @@ name:     Ritual Banishing
 text:     Destroy a friendly minion to destroy an enemy minion.
 
 name:     Shadow Reflection
-text:     Give a friendly minion +5 Attack.
+text:     Give a friendly minion +5⚔️.
 
 name:     Shadow Watcher
 text:     **Deathwatch**: +1/+1.
 
 name:     Skullprophet
 text:     **Sentinel**: General attacks.
-          The enemy General has -1 Attack and your General gains +1 Attack.
+          The enemy General has -1⚔️ and your General gains +1⚔️.
 
 name:     Soul Grimwar
-text:     Your General gains 'Deathwatch: Gains +2 Attack.'
+text:     Your General gains 'Deathwatch: Gains +2⚔️.'
 
 name:     Spirit Conduit
 text:     Whenever a friendly Arcanyst dies, put a 2/1 Arcane Spirit into your hand.
 
 name:     Void Steal
-text:     Give an enemy minion -3 Attack. Nearby friendly minions gain +3 Attack.
+text:     Give an enemy minion -3⚔️. Nearby friendly minions gain +3⚔️.
 
 name:     Void Talon
 text:     **Build**:1
@@ -646,7 +646,7 @@ text:     **Frenzy**
           **Deploy**: Destroy friendly minions around it and gain +2/+2 for each minion.
 
 name:     Desolator
-text:     **Deploy**: Steal 2 Health from the enemy General.
+text:     **Deploy**: Steal 2❤️ from the enemy General.
           **Dying Wish**: Return Desolator to your hand at the end of the turn.
 
 name:     Gate to the Undervault
@@ -658,22 +658,22 @@ name:     Mindlathe
 text:     After your General damages a minion, reactivate and take control of it until the end of your turn.
 
 name:     Munch
-text:     Steal Health from an enemy minion for each friendly Shadow Creep (but not more than its Health).
+text:     Steal ❤️ from an enemy minion for each friendly Shadow Creep (but not more than its ❤️).
 
 name:     Nekomata
 text:     **Dying Wish**: Draw two minions with **Dying Wish** from your deck.
 
 name:     Nightshroud
-text:     **Bond**: Your General steals 1 Health from the enemy General for each other friendly Arcanyst.
+text:     **Bond**: Your General steals 1❤️ from the enemy General for each other friendly Arcanyst.
 
 name:     Shadow Nova
 text:     Turn a 2x2 area into Shadow Creep.
 
 name:     Shadow Sister Kelaino
-text:     Whenever an enemy takes damage, restore 1 Health to your General.
+text:     Whenever an enemy takes damage, restore 1❤️ to your General.
 
 name:     Shadowdancer
-text:     **Deathwatch**: Restore 1 Health to your General.
+text:     **Deathwatch**: Restore 1❤️ to your General.
 
 name:     Vellumscry
 text:     Destroy a friendly minion to draw three cards.
@@ -682,13 +682,13 @@ name:     Wraithcrown
 text:     Friendly **Wraithlings** have +2/+2.
 
 name:     Black Solus
-text:     When you summon a **Wraithling**, this minion gains +2 Attack.
+text:     When you summon a **Wraithling**, this minion gains +2⚔️.
 
 name:     Corporeal Cadence
-text:     Destroy a friendly minion to deal its Attack to the enemy General.
+text:     Destroy a friendly minion to deal its ⚔️ to the enemy General.
 
 name:     Furor Chakram
-text:     Friendly minions gain +2 Attack and Frenzy.
+text:     Friendly minions gain +2⚔️ and Frenzy.
 
 name:     Hexclaw
 text:     **Dying Wish**: The enemy General gains, "&quot;At the start of your turn, take 1 damage.&quot;".
