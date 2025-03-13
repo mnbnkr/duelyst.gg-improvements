@@ -1,3 +1,192 @@
+name:     Oak in the Nemeton<br>
+text:     **Aspect**: Allied minions nearby your General have +1⚔️. Your General cannot attack.
+
+name:     Polarity<br>
+text:     Swap any minion's ⚔️ and ❤️.
+
+name:     Aspect of Ego<br>
+text:     Transform any minion into a random minion of the same cost.
+
+name:     Crystallize<br>
+text:     Reduce the movement of an enemy minion by 1. If the target is nearby **Stun** it instead.
+
+name:     Flurry<br>
+text:     Whenever this minion attacks, repair all of your artifacts by 1 durability.
+
+name:     Iceshatter Gauntlet<br>
+text:     Whenever your General attacks a **Stunned** minion, destroy it instantly.
+
+name:     Kinetic Surge<br>
+text:     Any minion you summon this turn gains +1⚔️/+1❤️.
+
+name:     Lesser Waterball<br>
+text:     Deal 4 damage to an enemy minion.
+
+name:     Mesmerize<br>
+text:     Teleport an enemy one space. Its movement is reduced by one until the end of its owner's turn.
+
+name:     Shivers<br>
+text:     **Flying**<br>
+          **Infiltrate**: Whenever this minion attacks, permanently gain 1 mana crystal.
+
+name:     Silent Intensity<br>
+text:     **Echo**<br>
+          Give an allied minion +4⚔️ during your opponent's turn.
+
+name:     Snow Chaser<br>
+text:     **Infiltrate**: When this minion dies, return it to your hand.
+
+name:     The Dredger<br>
+text:     Whenever your General damages an enemy, teleport that enemy to a random space on your starting side of the battlefield.
+
+name:     Treant<br>
+text:     **Provoke**
+
+name:     Ursaplomb<br>
+text:     Will not counterattack.
+
+name:     Vespyric Call<br>
+text:     Put a random Vespyr minion into your hand. It costs 1 less and has +1⚔️/+1❤️.
+
+name:     Warbird<br>
+text:     Deal 2 damage to all enemies in the enemy General's column.
+
+name:     Winter Maerid<br>
+text:
+
+name:     Bonechill Barrier<br>
+text:     Summon three joined 0⚔️/2❤️ Vespyr Walls. Units that attack these walls are **Stunned**.
+
+name:     Borean Bear<br>
+text:     Whenever you summon a Vespyr minion, this minion gains +1⚔️.
+
+name:     Boundless Courage<br>
+text:     Give an allied minion +2⚔️. It takes no damage this turn.
+
+name:     Bur<br>
+text:     When this minion survives damage, transform it into a different Battle Pet.
+
+name:     Circulus<br>
+text:     Whenever you cast a spell, add a 2⚔️/1❤️ Illusion to your hand.
+
+name:     Coldbiter<br>
+text:     At the end of your turn, your General deals 2 damage to each enemy minion around them.
+
+name:     Concealing Shroud<br>
+text:     Your General takes no damage until your next turn.
+
+name:     Cryoblade<br>
+text:     Deals double damage to and cannot be counterattacked by **Stunned** enemies.
+
+name:     Crystal Arbiter<br>
+text:     This minion has +3⚔️ on your opponent's turn.
+
+name:     Crystal Cloaker<br>
+text:     **Infiltrate**: Gain +2⚔️.
+
+name:     Crystal Wisp<br>
+text:     **Dying Wish**: Permanently gain 1 mana crystal.
+
+name:     Fox Ravager<br>
+text:
+
+name:     Frigid Corona<br>
+text:     **Stun** an enemy minion. Draw a card.
+
+name:     Frostfire<br>
+text:     Give an allied minion +3⚔️. If it's Vespyr, also give it +3❤️.
+
+name:     Ghost Wolf<br>
+text:
+
+name:     Gravity Well<br>
+text:     Summon four joined 0⚔️/1❤️ Walls with **Provoke**.
+
+name:     Hearth-sister<br>
+text:     **Deploy**: Swap positions with any other minion.
+
+name:     Icy<br>
+text:     **Deploy**: **Stun** an enemy.
+
+name:     Lightning Blitz<br>
+text:     **Echo**<br>
+          Move an enemy minion up to 4 spaces backwards.
+
+name:     Mana Deathgrip<br>
+text:     Deal 1 damage to an enemy minion. If it dies this turn, permanently gain 1 mana crystal.
+
+name:     Mark of Solitude<br>
+text:     One minion becomes 5⚔️/5❤️. It can no longer attack Generals.
+
+name:     Night Howler<br>
+text:
+
+name:     Protosensor<br>
+text:     **Airdrop**, **Build** (1)
+
+name:     Resonance Scythe<br>
+text:     Your General has +1⚔️. Reactivate your General whenever they destroy a **Stunned** enemy.
+
+name:     Rolling Snowstorm<br>
+text:     At the start of your next 9 turns deal 6 damage to all enemies in a column, starting with the edge column on your opponent's starting side.
+
+name:     Shatter<br>
+text:     Destroy a **Stunned** enemy minion.
+
+name:     Thicket Augur<br>
+text:     **Intensify**: Summon 1 Treant with **Provoke** nearby.
+
+name:     Wild Warbird<br>
+text:     **Ability** 1: Deal 2 damage to all enemies in this column.
+
+name:     Aspect of the Bear<br>
+text:     Transform any minion into a 4⚔️/5❤️ Ursaplomb that will not counterattack.
+
+name:     Aspect of the Ravager<br>
+text:     Transform any minion into a 3⚔️/3❤️ Ravager with no abilities.
+
+name:     Blazing Spines<br>
+text:     Summon two joined 3⚔️/3❤️ Walls that can attack.
+
+name:     Chromatic Cold<br>
+text:     **Dispel** a space. If there is an enemy on that space, deal it 1 damage.
+
+name:     Cryonic Potential<br>
+text:     Give an exhausted allied minion +6⚔️/+6❤️.
+
+name:     Crystalline Reinforcement<br>
+text:     Double the ⚔️ and ❤️ buffs of allied minions.
+
+name:     Disciple of Yggdra<br>
+text:     When an enemy is **Stunned**, transform this minion into Yggdra's Voracity and draw a card.
+
+name:     Drake Dowager<br>
+text:     **Sentinel**: General attacks.<br>
+          **Ranged** (2)<br>
+          Whenever this attacks, summon a 4⚔️/4❤️ Flying Drake nearby.
+
+name:     Fenrir Warmaster<br>
+text:     **Dying Wish**: Summon a 3⚔️/2❤️ Ghost Wolf on this space.
+
+name:     Freeblade<br>
+text:     **Sentinel**: Minion summoned.<br>
+          This swaps positions with the minion that transformed it.
+
+name:     Glacial Elemental<br>
+text:     Whenever you summon a Vespyr minion, deal 2 damage to a random enemy minion.
+
+name:     Glacial Fissure<br>
+text:     Deal 8 damage to EVERYTHING in the center column.
+
+name:     Hailstone Prison<br>
+text:     Return any minion to its owner's hand.
+
+name:     Hydrogarm<br>
+text:     **Blood Surge**: Deal 1 damage to enemy minions in this row and **Stun** them.
+
+name:     Iceblade Dryad<br>
+text:     **Deploy**: Give an allied Vespyr minion +1⚔️/+1❤️ and **Flying**.
+
 name:     Kindred Hunter<br>
 text:     **Bond**: Summon a 3⚔️/3❤️ Night Howler on a random nearby space.
 
@@ -410,89 +599,3 @@ text:     **Deploy**: Destroy a random enemy artifact.
 
 name:     Serenity<br>
 text:     **Flying**
-
-name:     Shiro Puppydragon<br>
-text:     At the end of your turn, give each nearby allied minion +1⚔️.
-
-name:     Sinister Silhouette<br>
-text:     Cannot be attacked.
-
-name:     Skyrock Golem<br>
-text:
-
-name:     Soboro<br>
-text:     **Echo**<br>
-          **Deploy**: Lose one mana crystal.
-
-name:     Sol<br>
-text:     **Deploy**: Activate an allied Battle Pet.
-
-name:     Toiling Vassal<br>
-text:     **Ranged** (2)
-
-name:     Vale Hunter<br>
-text:     **Ranged** (2)
-
-name:     Wings of MECHAZ0R<br>
-text:     **Airdrop**<br>
-          **Deploy**: Progresses MECHAZ0R build by +20%.
-
-name:     Wood-Wen<br>
-text:     **Provoke**<br>
-          **Deploy**: Give an allied minion **Provoke.**
-
-name:     Wrath<br>
-text:     **Celerity**
-
-name:     Z0r<br>
-text:     **Dying Wish**: Put a random Mech into your hand.
-
-name:     Zyx<br>
-text:     **Deploy**: Summon a copy of this minion on a random nearby space.
-
-name:     Abjudicator<br>
-text:     **Deploy:** Lower the cost of all spells in your hand by 1.
-
-name:     Aegis Golem<br>
-text:     Can only be attacked or counterattacked by units that are adjacent to it.
-
-name:     Aer Pridebeak<br>
-text:     Whenever your opponent casts a spell, restore 1❤️ to your General.
-
-name:     Alcuin Loremaster<br>
-text:     **Deploy**: Put a copy of the most recently cast spell into your hand.
-
-name:     Architect-T2K5<br>
-text:     **Build** (1)<br>
-          Whenever this or another allied minion is built, draw a card.
-
-name:     Bastion<br>
-text:     At the end of your turn, give all allied minions +1❤️.
-
-name:     Blaze Hound<br>
-text:     **Deploy:**Both players draw a card.
-
-name:     Bloodbound Mentor<br>
-text:     **Blood Surge**: Put a copy of your Bloodbound Spell into your hand.
-
-name:     Bloodshard Golem<br>
-text:
-
-name:     Bloodsun Hellion<br>
-text:     Enemies in the 3 spaces in front of this minion have -2⚔️.
-
-name:     Cannon of MECHAZ0R<br>
-text:     **Ranged** (2)<br>
-          **Deploy**: Progresses MECHAZ0R build by +20%.
-
-name:     Chaos Elemental<br>
-text:     Whenever this minion takes damage, it randomly teleports.
-
-name:     Crimson Oculus<br>
-text:     This minion gains +1⚔️/+1❤️ whenever your opponent summons a minion.
-
-name:     Crossbones<br>
-text:     **Deploy**: Destroy an enemy minion with Ranged.
-
-name:     Cruel Taskmaster<br>
-text:     **Ability** 1: Deal 2 damage to a nearby ally and reactivate it.

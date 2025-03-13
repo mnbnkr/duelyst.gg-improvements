@@ -1,3 +1,173 @@
+name:     Spectral Blade<br>
+text:     Your General gains +2⚔️. Whenever your General destroys an enemy, restore 2❤️ to your General.
+
+name:     The Releaser<br>
+text:     When this artifact is destroyed, summon a random allied non-token minion destroyed this game nearby.
+
+name:     Yielding Depths<br>
+text:     If you have three or more Shadow Creep, draw 2 cards.
+
+name:     AWESOME Abyssal Scar<br>
+text:     Summon a 4⚔️/4❤️ Fiend on every unoccupied allied Shadow Creep tile.
+
+name:     AWESOME Malice<br>
+text:     Destroy an allied minion. Summon Husks equal to the attack of that minion, nearby first.
+
+name:     AWESOME Shadow Spawn<br>
+text:     Summon 2 AWESOME Wraithlings nearby your General. All your other Wraithlings become AWESOME as well.
+
+name:     Abhorrent Unbirth<br>
+text:     Destroy all allied minions to summon a 1⚔️/1❤️ Abomination that gains their ⚔️, ❤️, and keywords.
+
+name:     Abyssal Juggernaut<br>
+text:     This minion has +2⚔️/+2❤️ for each allied **Shadow Creep** nearby or underneath it at the start of the turn.
+
+name:     Blood Baronette<br>
+text:     **Deploy**: Double a Wraithling's ⚔️ and ❤️.
+
+name:     Blood Echoes<br>
+text:     Destroy all allied minions and resummon them on random spaces at end of turn.
+
+name:     Bonecrusher<br>
+text:     **Intensify**: This minion gains +5⚔️.
+
+name:     Bound Tormentor<br>
+text:     **Sentinel**: Minion summoned.<br>
+          Put a copy of the minion that transformed this into your hand. It costs 2 less.
+
+name:     Chittering Tiller<br>
+text:     **Frenzy**<br>
+          **Deploy** and **Ability** 1: Teleport the enemy General one space.
+
+name:     Choking Tendrils<br>
+text:     Destroy an enemy minion on allied Shadow Creep.
+
+name:     Daemonic Lure<br>
+text:     Deal 1 damage to an enemy minion and teleport it anywhere.
+
+name:     Horrific Visage<br>
+text:     Give all enemy minions -4⚔️ until your next turn.
+
+name:     Horror Burster<br>
+text:     **Dying Wish**:  Transform a random allied minion into a 6⚔️/6❤️ Horror.
+
+name:     Master of Shadows<br>
+text:     Allied Arcanyst minions have "**Deploy**: Deal 2 damage to an enemy".
+
+name:     Punish<br>
+text:     Destroy a damaged minion.
+
+name:     Putrid Dreadflayer<br>
+text:     **Flying**<br>
+          This minion will die if it's ever not on an allied **Shadow Creep**.
+
+name:     Ritual Banishing<br>
+text:     Destroy an allied minion to destroy an enemy minion.
+
+name:     Shadow Reflection<br>
+text:     Give an allied minion +5⚔️.
+
+name:     Shadow Watcher<br>
+text:     **Deathwatch**: +1⚔️/+1❤️.
+
+name:     Skullprophet<br>
+text:     **Sentinel**: General attacks.<br>
+          The enemy General has -1⚔️ and your General gains +1⚔️.
+
+name:     Soul Grimwar<br>
+text:     Your General gains "Deathwatch: Gains +2⚔️".
+
+name:     Spirit Conduit<br>
+text:     Whenever an allied Arcanyst dies, put a 2⚔️/1❤️ Arcane Spirit into your hand.
+
+name:     Void Steal<br>
+text:     Give an enemy minion -3⚔️. Nearby allied minions gain +3⚔️.
+
+name:     Void Talon<br>
+text:     **Build** (1)
+
+name:     Wraithling Fury<br>
+text:     Give an allied **Wraithling** minion +4⚔️/+4❤️.
+
+name:     Wraithling Swarm<br>
+text:     Summon three joined 1⚔️/1❤️ Wraithlings.
+
+name:     Xerroloth<br>
+text:     **Sentinel**: Spell cast.<br>
+          Whenever your opponent casts a spell, put a 4⚔️/4❤️ Fiend into your hand.
+
+name:     Abyssal Noble<br>
+text:     **Ability** 4: Summon a random Demon on an allied **Shadow Creep**.
+
+name:     Bloodtide Priestess<br>
+text:     **Deathwatch**: Summon a Wraithling on a random adjacent space.
+
+name:     Breath of the Unborn<br>
+text:     Deal 2 damage to all enemy minions. Fully heal all allied minions.
+
+name:     Cacophynos<br>
+text:     **Dying Wish**: Destroy a random nearby enemy minion.
+
+name:     Dark Seed<br>
+text:     Deal 1 damage to the enemy General for each card in the opponent's hand.
+
+name:     Deepfire Devourer<br>
+text:     **Frenzy**<br>
+          **Deploy**: Destroy allied minions around it, gaining +2⚔️/+2❤️ for each.
+
+name:     Desolator<br>
+text:     **Deploy**: Steal 2❤️ from the enemy General.<br>
+          **Dying Wish**: Return Desolator to your hand at the end of the turn.
+
+name:     Gate to the Undervault<br>
+text:     **Build** (3), **Invulnerable**<br>
+          **Deathwatch**: Summon a random Demon nearby.
+
+name:     Mindlathe<br>
+text:     After your General damages a minion, reactivate and take control of it until the end of your turn.
+
+name:     Munch<br>
+text:     Steal ❤️ from an enemy minion for each allied Shadow Creep (but not more than its ❤️).
+
+name:     Nekomata<br>
+text:     **Dying Wish**: Draw two minions with **Dying Wish**.
+
+name:     Nightshroud<br>
+text:     **Bond**: Your General steals 1❤️ from the enemy General for each other allied Arcanyst.
+
+name:     Shadow Nova<br>
+text:     Turn a 2x2 area into Shadow Creep.
+
+name:     Shadow Sister Kelaino<br>
+text:     Whenever an enemy takes damage, restore 1❤️ to your General.
+
+name:     Shadowdancer<br>
+text:     **Deathwatch**: Restore 1❤️ to your General.
+
+name:     Vellumscry<br>
+text:     Destroy an allied minion to draw three cards.
+
+name:     Wraithcrown<br>
+text:     Allied **Wraithlings** have +2⚔️/+2❤️.
+
+name:     Black Solus<br>
+text:     Whenever you summon a **Wraithling**, this minion gains +2⚔️.
+
+name:     Corporeal Cadence<br>
+text:     Destroy an allied minion to deal its ⚔️ to the enemy General.
+
+name:     Furor Chakram<br>
+text:     Allied minions have +2⚔️ and **Frenzy**.
+
+name:     Hexclaw<br>
+text:     **Dying Wish**: The enemy General gains, "At the start of your turn, take 1 damage".
+
+name:     Nether Summoning<br>
+text:     Summon 2 non-token minions destroyed since the end of your last turn nearby.
+
+name:     Night Fiend<br>
+text:     **Deploy**: Deal 2 damage to each enemy on or near allied Shadow Creep.
+
 name:     Reaper of the Nine Moons<br>
 text:     **Flying**<br>
           **Dying Wish**: Summon a random minion from the opponent's deck on this space.
@@ -429,192 +599,3 @@ text:     Deal 1 damage to a minion and **Stun** it.
 name:     Gravity Well<br>
 text:     **Provoke**<br>
           **Wall**
-
-name:     Oak in the Nemeton<br>
-text:     **Aspect**: Allied minions nearby your General have +1⚔️. Your General cannot attack.
-
-name:     Polarity<br>
-text:     Swap any minion's ⚔️ and ❤️.
-
-name:     Aspect of Ego<br>
-text:     Transform any minion into a random minion of the same cost.
-
-name:     Crystallize<br>
-text:     Reduce the movement of an enemy minion by 1. If the target is nearby **Stun** it instead.
-
-name:     Flurry<br>
-text:     Whenever this minion attacks, repair all of your artifacts by 1 durability.
-
-name:     Iceshatter Gauntlet<br>
-text:     Whenever your General attacks a **Stunned** minion, destroy it instantly.
-
-name:     Kinetic Surge<br>
-text:     Any minion you summon this turn gains +1⚔️/+1❤️.
-
-name:     Lesser Waterball<br>
-text:     Deal 4 damage to an enemy minion.
-
-name:     Mesmerize<br>
-text:     Teleport an enemy one space. Its movement is reduced by one until the end of its owner's turn.
-
-name:     Shivers<br>
-text:     **Flying**<br>
-          **Infiltrate**: Whenever this minion attacks, permanently gain 1 mana crystal.
-
-name:     Silent Intensity<br>
-text:     **Echo**<br>
-          Give an allied minion +4⚔️ during your opponent's turn.
-
-name:     Snow Chaser<br>
-text:     **Infiltrate**: When this minion dies, return it to your hand.
-
-name:     The Dredger<br>
-text:     Whenever your General damages an enemy, teleport that enemy to a random space on your starting side of the battlefield.
-
-name:     Treant<br>
-text:     **Provoke**
-
-name:     Ursaplomb<br>
-text:     Will not counterattack.
-
-name:     Vespyric Call<br>
-text:     Put a random Vespyr minion into your hand. It costs 1 less and has +1⚔️/+1❤️.
-
-name:     Warbird<br>
-text:     Deal 2 damage to all enemies in the enemy General's column.
-
-name:     Winter Maerid<br>
-text:
-
-name:     Bonechill Barrier<br>
-text:     Summon three joined 0⚔️/2❤️ Vespyr Walls. Units that attack these walls are **Stunned**.
-
-name:     Borean Bear<br>
-text:     Whenever you summon a Vespyr minion, this minion gains +1⚔️.
-
-name:     Boundless Courage<br>
-text:     Give an allied minion +2⚔️. It takes no damage this turn.
-
-name:     Bur<br>
-text:     When this minion survives damage, transform it into a different Battle Pet.
-
-name:     Circulus<br>
-text:     Whenever you cast a spell, add a 2⚔️/1❤️ Illusion to your hand.
-
-name:     Coldbiter<br>
-text:     At the end of your turn, your General deals 2 damage to each enemy minion around them.
-
-name:     Concealing Shroud<br>
-text:     Your General takes no damage until your next turn.
-
-name:     Cryoblade<br>
-text:     Deals double damage to and cannot be counterattacked by **Stunned** enemies.
-
-name:     Crystal Arbiter<br>
-text:     This minion has +3⚔️ on your opponent's turn.
-
-name:     Crystal Cloaker<br>
-text:     **Infiltrate**: Gain +2⚔️.
-
-name:     Crystal Wisp<br>
-text:     **Dying Wish**: Permanently gain 1 mana crystal.
-
-name:     Fox Ravager<br>
-text:
-
-name:     Frigid Corona<br>
-text:     **Stun** an enemy minion. Draw a card.
-
-name:     Frostfire<br>
-text:     Give an allied minion +3⚔️. If it's Vespyr, also give it +3❤️.
-
-name:     Ghost Wolf<br>
-text:
-
-name:     Gravity Well<br>
-text:     Summon four joined 0⚔️/1❤️ Walls with **Provoke**.
-
-name:     Hearth-sister<br>
-text:     **Deploy**: Swap positions with any other minion.
-
-name:     Icy<br>
-text:     **Deploy**: **Stun** an enemy.
-
-name:     Lightning Blitz<br>
-text:     **Echo**<br>
-          Move an enemy minion up to 4 spaces backwards.
-
-name:     Mana Deathgrip<br>
-text:     Deal 1 damage to an enemy minion. If it dies this turn, permanently gain 1 mana crystal.
-
-name:     Mark of Solitude<br>
-text:     One minion becomes 5⚔️/5❤️. It can no longer attack Generals.
-
-name:     Night Howler<br>
-text:
-
-name:     Protosensor<br>
-text:     **Airdrop**, **Build** (1)
-
-name:     Resonance Scythe<br>
-text:     Your General has +1⚔️. Reactivate your General whenever they destroy a **Stunned** enemy.
-
-name:     Rolling Snowstorm<br>
-text:     At the start of your next 9 turns deal 6 damage to all enemies in a column, starting with the edge column on your opponent's starting side.
-
-name:     Shatter<br>
-text:     Destroy a **Stunned** enemy minion.
-
-name:     Thicket Augur<br>
-text:     **Intensify**: Summon 1 Treant with **Provoke** nearby.
-
-name:     Wild Warbird<br>
-text:     **Ability** 1: Deal 2 damage to all enemies in this column.
-
-name:     Aspect of the Bear<br>
-text:     Transform any minion into a 4⚔️/5❤️ Ursaplomb that will not counterattack.
-
-name:     Aspect of the Ravager<br>
-text:     Transform any minion into a 3⚔️/3❤️ Ravager with no abilities.
-
-name:     Blazing Spines<br>
-text:     Summon two joined 3⚔️/3❤️ Walls that can attack.
-
-name:     Chromatic Cold<br>
-text:     **Dispel** a space. If there is an enemy on that space, deal it 1 damage.
-
-name:     Cryonic Potential<br>
-text:     Give an exhausted allied minion +6⚔️/+6❤️.
-
-name:     Crystalline Reinforcement<br>
-text:     Double the ⚔️ and ❤️ buffs of allied minions.
-
-name:     Disciple of Yggdra<br>
-text:     When an enemy is **Stunned**, transform this minion into Yggdra's Voracity and draw a card.
-
-name:     Drake Dowager<br>
-text:     **Sentinel**: General attacks.<br>
-          **Ranged** (2)<br>
-          Whenever this attacks, summon a 4⚔️/4❤️ Flying Drake nearby.
-
-name:     Fenrir Warmaster<br>
-text:     **Dying Wish**: Summon a 3⚔️/2❤️ Ghost Wolf on this space.
-
-name:     Freeblade<br>
-text:     **Sentinel**: Minion summoned.<br>
-          This swaps positions with the minion that transformed it.
-
-name:     Glacial Elemental<br>
-text:     Whenever you summon a Vespyr minion, deal 2 damage to a random enemy minion.
-
-name:     Glacial Fissure<br>
-text:     Deal 8 damage to EVERYTHING in the center column.
-
-name:     Hailstone Prison<br>
-text:     Return any minion to its owner's hand.
-
-name:     Hydrogarm<br>
-text:     **Blood Surge**: Deal 1 damage to enemy minions in this row and **Stun** them.
-
-name:     Iceblade Dryad<br>
-text:     **Deploy**: Give an allied Vespyr minion +1⚔️/+1❤️ and **Flying**.

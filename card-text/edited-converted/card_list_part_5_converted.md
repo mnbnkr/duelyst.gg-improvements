@@ -1,3 +1,89 @@
+name:     Shiro Puppydragon<br>
+text:     At the end of your turn, give each nearby allied minion +1⚔️.
+
+name:     Sinister Silhouette<br>
+text:     Cannot be attacked.
+
+name:     Skyrock Golem<br>
+text:
+
+name:     Soboro<br>
+text:     **Echo**<br>
+          **Deploy**: Lose one mana crystal.
+
+name:     Sol<br>
+text:     **Deploy**: Activate an allied Battle Pet.
+
+name:     Toiling Vassal<br>
+text:     **Ranged** (2)
+
+name:     Vale Hunter<br>
+text:     **Ranged** (2)
+
+name:     Wings of MECHAZ0R<br>
+text:     **Airdrop**<br>
+          **Deploy**: Progresses MECHAZ0R build by +20%.
+
+name:     Wood-Wen<br>
+text:     **Provoke**<br>
+          **Deploy**: Give an allied minion **Provoke.**
+
+name:     Wrath<br>
+text:     **Celerity**
+
+name:     Z0r<br>
+text:     **Dying Wish**: Put a random Mech into your hand.
+
+name:     Zyx<br>
+text:     **Deploy**: Summon a copy of this minion on a random nearby space.
+
+name:     Abjudicator<br>
+text:     **Deploy:** Lower the cost of all spells in your hand by 1.
+
+name:     Aegis Golem<br>
+text:     Can only be attacked or counterattacked by units that are adjacent to it.
+
+name:     Aer Pridebeak<br>
+text:     Whenever your opponent casts a spell, restore 1❤️ to your General.
+
+name:     Alcuin Loremaster<br>
+text:     **Deploy**: Put a copy of the most recently cast spell into your hand.
+
+name:     Architect-T2K5<br>
+text:     **Build** (1)<br>
+          Whenever this or another allied minion is built, draw a card.
+
+name:     Bastion<br>
+text:     At the end of your turn, give all allied minions +1❤️.
+
+name:     Blaze Hound<br>
+text:     **Deploy:**Both players draw a card.
+
+name:     Bloodbound Mentor<br>
+text:     **Blood Surge**: Put a copy of your Bloodbound Spell into your hand.
+
+name:     Bloodshard Golem<br>
+text:
+
+name:     Bloodsun Hellion<br>
+text:     Enemies in the 3 spaces in front of this minion have -2⚔️.
+
+name:     Cannon of MECHAZ0R<br>
+text:     **Ranged** (2)<br>
+          **Deploy**: Progresses MECHAZ0R build by +20%.
+
+name:     Chaos Elemental<br>
+text:     Whenever this minion takes damage, it randomly teleports.
+
+name:     Crimson Oculus<br>
+text:     This minion gains +1⚔️/+1❤️ whenever your opponent summons a minion.
+
+name:     Crossbones<br>
+text:     **Deploy**: Destroy an enemy minion with Ranged.
+
+name:     Cruel Taskmaster<br>
+text:     **Ability** 1: Deal 2 damage to a nearby ally and reactivate it.
+
 name:     Day Watcher<br>
 text:     Whenever an allied minion attacks, restore 1❤️ to your General.
 

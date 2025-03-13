@@ -1,3 +1,75 @@
+name:     Bakezori<br>
+text:     Whenever this minion is moved for any reason, draw a card.
+
+name:     Bamboozle<br>
+text:     Transform a nearby enemy minion into a 0⚔️/2❤️ Panddo. If it's already a Panddo, destroy it instead and draw to fill your hand.
+
+name:     Coalfist<br>
+text:     **Ability** 1: Allied minions in a 2x2 area gain +3⚔️ until the start of your next turn.
+
+name:     Cobra Strike<br>
+text:     Deal 3 damage to an enemy minion and the enemy General.
+
+name:     Flamewreath<br>
+text:     Whenever this minion is moved for any reason, it deals 2 damage to all enemies around it.
+
+name:     Four Winds Magi<br>
+text:     Whenever you cast a spell, deal 1 damage to enemy General and restore 1❤️ to your General.
+
+name:     Keshrai Fanblade<br>
+text:     Deploy: Next turn, opponent's spells cost 2 more to cast.
+
+name:     Kindling<br>
+text:     Whenever you cast a spell, your nearby Arcanyst minions gain +1⚔️.
+
+name:     Manakite Drifter<br>
+text:     **Build** (2)<br>
+          When this minion is built, gain +2 mana this turn.
+
+name:     Massacre Artist<br>
+text:     **Backstab** (2)<br>
+          After this minion attacks and backstabs, all attacks are backstabs this turn.
+
+name:     Onyx Bear Seal<br>
+text:     Transform an enemy minion into a 0⚔️/2❤️ Panddo that cannot be attacked.
+
+name:     Pandamonium<br>
+text:     Transform all minions into 0⚔️/2❤️ Panddo that cannot be attacked until the end of turn.
+
+name:     Storm Sister Alkyone<br>
+text:     Spells you cast that deal damage deal +1 damage.
+
+name:     Wildfire Tenketsu<br>
+text:     **Blood Surge**: Put an **Eight Gates** into your hand.
+
+name:     Bombard<br>
+text:     Reactivate your minions with Ranged.
+
+name:     Geomancer<br>
+text:     **Deploy**: Your **Bloodbound Spell** is **Phoenix Fire**.
+
+name:     Hamon Bladeseeker<br>
+text:     At the start of your turn, deal 2 damage to your General.
+
+name:     Heaven's Eclipse<br>
+text:     Draw 3 spell cards.
+
+name:     Onyx Jaguar<br>
+text:     Whenever an allied minion is moved for any reason, it gains +1⚔️/+1❤️.
+
+name:     Phoenix Barrage<br>
+text:     Deal 3 damage to anything. Put a **Phoenix Fire** into your hand.
+
+name:     Scarlet Viper<br>
+text:     **Flying**<br>
+          **Backstab** (4)
+
+name:     Seeker Squad<br>
+text:     Summon a Heartseeker in each nearby space diagonal from your General.
+
+name:     Twilight Reiki<br>
+text:     Put 3 random Songhai minions into your hand. They cost 1 less.
+
 name:     Xenkai Cannoneer<br>
 text:     **Ranged** (2)<br>
           Whenever you summon a minion with **Ranged**, that minion gains **Rush**.
@@ -527,173 +599,3 @@ text:     Summon a Wraithling behind each enemy.
 
 name:     Soulshatter Pact<br>
 text:     Give all allied minions +2⚔️ this turn.
-
-name:     Spectral Blade<br>
-text:     Your General gains +2⚔️. Whenever your General destroys an enemy, restore 2❤️ to your General.
-
-name:     The Releaser<br>
-text:     When this artifact is destroyed, summon a random allied non-token minion destroyed this game nearby.
-
-name:     Yielding Depths<br>
-text:     If you have three or more Shadow Creep, draw 2 cards.
-
-name:     AWESOME Abyssal Scar<br>
-text:     Summon a 4⚔️/4❤️ Fiend on every unoccupied allied Shadow Creep tile.
-
-name:     AWESOME Malice<br>
-text:     Destroy an allied minion. Summon Husks equal to the attack of that minion, nearby first.
-
-name:     AWESOME Shadow Spawn<br>
-text:     Summon 2 AWESOME Wraithlings nearby your General. All your other Wraithlings become AWESOME as well.
-
-name:     Abhorrent Unbirth<br>
-text:     Destroy all allied minions to summon a 1⚔️/1❤️ Abomination that gains their ⚔️, ❤️, and keywords.
-
-name:     Abyssal Juggernaut<br>
-text:     This minion has +2⚔️/+2❤️ for each allied **Shadow Creep** nearby or underneath it at the start of the turn.
-
-name:     Blood Baronette<br>
-text:     **Deploy**: Double a Wraithling's ⚔️ and ❤️.
-
-name:     Blood Echoes<br>
-text:     Destroy all allied minions and resummon them on random spaces at end of turn.
-
-name:     Bonecrusher<br>
-text:     **Intensify**: This minion gains +5⚔️.
-
-name:     Bound Tormentor<br>
-text:     **Sentinel**: Minion summoned.<br>
-          Put a copy of the minion that transformed this into your hand. It costs 2 less.
-
-name:     Chittering Tiller<br>
-text:     **Frenzy**<br>
-          **Deploy** and **Ability** 1: Teleport the enemy General one space.
-
-name:     Choking Tendrils<br>
-text:     Destroy an enemy minion on allied Shadow Creep.
-
-name:     Daemonic Lure<br>
-text:     Deal 1 damage to an enemy minion and teleport it anywhere.
-
-name:     Horrific Visage<br>
-text:     Give all enemy minions -4⚔️ until your next turn.
-
-name:     Horror Burster<br>
-text:     **Dying Wish**:  Transform a random allied minion into a 6⚔️/6❤️ Horror.
-
-name:     Master of Shadows<br>
-text:     Allied Arcanyst minions have "**Deploy**: Deal 2 damage to an enemy".
-
-name:     Punish<br>
-text:     Destroy a damaged minion.
-
-name:     Putrid Dreadflayer<br>
-text:     **Flying**<br>
-          This minion will die if it's ever not on an allied **Shadow Creep**.
-
-name:     Ritual Banishing<br>
-text:     Destroy an allied minion to destroy an enemy minion.
-
-name:     Shadow Reflection<br>
-text:     Give an allied minion +5⚔️.
-
-name:     Shadow Watcher<br>
-text:     **Deathwatch**: +1⚔️/+1❤️.
-
-name:     Skullprophet<br>
-text:     **Sentinel**: General attacks.<br>
-          The enemy General has -1⚔️ and your General gains +1⚔️.
-
-name:     Soul Grimwar<br>
-text:     Your General gains "Deathwatch: Gains +2⚔️".
-
-name:     Spirit Conduit<br>
-text:     Whenever an allied Arcanyst dies, put a 2⚔️/1❤️ Arcane Spirit into your hand.
-
-name:     Void Steal<br>
-text:     Give an enemy minion -3⚔️. Nearby allied minions gain +3⚔️.
-
-name:     Void Talon<br>
-text:     **Build** (1)
-
-name:     Wraithling Fury<br>
-text:     Give an allied **Wraithling** minion +4⚔️/+4❤️.
-
-name:     Wraithling Swarm<br>
-text:     Summon three joined 1⚔️/1❤️ Wraithlings.
-
-name:     Xerroloth<br>
-text:     **Sentinel**: Spell cast.<br>
-          Whenever your opponent casts a spell, put a 4⚔️/4❤️ Fiend into your hand.
-
-name:     Abyssal Noble<br>
-text:     **Ability** 4: Summon a random Demon on an allied **Shadow Creep**.
-
-name:     Bloodtide Priestess<br>
-text:     **Deathwatch**: Summon a Wraithling on a random adjacent space.
-
-name:     Breath of the Unborn<br>
-text:     Deal 2 damage to all enemy minions. Fully heal all allied minions.
-
-name:     Cacophynos<br>
-text:     **Dying Wish**: Destroy a random nearby enemy minion.
-
-name:     Dark Seed<br>
-text:     Deal 1 damage to the enemy General for each card in the opponent's hand.
-
-name:     Deepfire Devourer<br>
-text:     **Frenzy**<br>
-          **Deploy**: Destroy allied minions around it, gaining +2⚔️/+2❤️ for each.
-
-name:     Desolator<br>
-text:     **Deploy**: Steal 2❤️ from the enemy General.<br>
-          **Dying Wish**: Return Desolator to your hand at the end of the turn.
-
-name:     Gate to the Undervault<br>
-text:     **Build** (3), **Invulnerable**<br>
-          **Deathwatch**: Summon a random Demon nearby.
-
-name:     Mindlathe<br>
-text:     After your General damages a minion, reactivate and take control of it until the end of your turn.
-
-name:     Munch<br>
-text:     Steal ❤️ from an enemy minion for each allied Shadow Creep (but not more than its ❤️).
-
-name:     Nekomata<br>
-text:     **Dying Wish**: Draw two minions with **Dying Wish**.
-
-name:     Nightshroud<br>
-text:     **Bond**: Your General steals 1❤️ from the enemy General for each other allied Arcanyst.
-
-name:     Shadow Nova<br>
-text:     Turn a 2x2 area into Shadow Creep.
-
-name:     Shadow Sister Kelaino<br>
-text:     Whenever an enemy takes damage, restore 1❤️ to your General.
-
-name:     Shadowdancer<br>
-text:     **Deathwatch**: Restore 1❤️ to your General.
-
-name:     Vellumscry<br>
-text:     Destroy an allied minion to draw three cards.
-
-name:     Wraithcrown<br>
-text:     Allied **Wraithlings** have +2⚔️/+2❤️.
-
-name:     Black Solus<br>
-text:     Whenever you summon a **Wraithling**, this minion gains +2⚔️.
-
-name:     Corporeal Cadence<br>
-text:     Destroy an allied minion to deal its ⚔️ to the enemy General.
-
-name:     Furor Chakram<br>
-text:     Allied minions have +2⚔️ and **Frenzy**.
-
-name:     Hexclaw<br>
-text:     **Dying Wish**: The enemy General gains, "At the start of your turn, take 1 damage".
-
-name:     Nether Summoning<br>
-text:     Summon 2 non-token minions destroyed since the end of your last turn nearby.
-
-name:     Night Fiend<br>
-text:     **Deploy**: Deal 2 damage to each enemy on or near allied Shadow Creep.
