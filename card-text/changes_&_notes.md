@@ -38,4 +38,4 @@ Damage yourself and all exposed units within a range of 2.<br>
 
 <br>
 
-note to self: Kotetsu,
+notes to self: Kotetsu, Exhuming Sand, "Turn a space ..", Shadow Creep,

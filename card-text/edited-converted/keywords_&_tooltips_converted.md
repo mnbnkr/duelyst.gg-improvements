@@ -23,16 +23,16 @@ keyword:  **Blast**<br>
           Attacks damage all enemies in a straight line.
 
 keyword:  **Blood Surge**<br>
-          Effect triggers when your General casts their Bloodbound Spell.
+          Effect triggers whenever your General casts their Bloodbound Spell.
 
 keyword:  **Bond**<br>
-          Effect triggers when minion comes into play and you control another minion of the same tribe.
+          Effect triggers whenever minion comes into play and you control another minion of the same tribe.
 
 keyword:  **Build** (1)<br>
           Spawns as a 0⚔️/10❤️ structure. After 1 turn the structure will transform into this minion.<br>
           The structure cannot move, attack or be dispelled.
 
-keyword:  **Build** ()<br>
+keyword:  **Build** (2)<br>
           Spawns as a 0⚔️/10❤️ structure. After 2 turns the structure will transform into this minion.<br>
           The structure cannot move, attack or be dispelled.
 
@@ -40,10 +40,10 @@ keyword:  **Celerity**<br>
           Can move and attack twice.
 
 keyword:  **Deathwatch**<br>
-          Effect triggers when any other minion dies.
+          Effect triggers whenever any other minion dies.
 
 keyword:  **Deploy**<br>
-          Effect triggers when minion is summoned from the hand.
+          Effect triggers whenever a minion is summoned from hand.
 
 keyword:  **Detonate**<br>
           Damage yourself and all nearby units.
@@ -58,7 +58,7 @@ keyword:  **Docile**<br>
           Cannot attack or counterattack.
 
 keyword:  **Dying Wish**<br>
-          Effect triggers when minion dies.
+          Effect triggers when the minion dies.
 
 keyword:  **Echo**<br>
           When played from hand create a copy of it in your hand.
@@ -73,7 +73,7 @@ keyword:  **Forcefield**<br>
           The first damage this unit takes every turn is negated.
 
 keyword:  **Frenzy**<br>
-          When this minion attacks a unit next to it, it will also deal its attack damage to all enemies around it.
+          Whenever this minion attacks a unit next to it, it will also deal its attack damage to all enemies around it.
 
 keyword:  **Grow** +1⚔️/+1❤️<br>
           Unit gains +1⚔️/+1❤️ at the begining of its owner's turn.
@@ -88,7 +88,7 @@ keyword:  **Invulnerable**<br>
           Cannot be destroyed, damaged, dispelled or targeted by anything.
 
 keyword:  **Primal Flourish**<br>
-          Allied minions standing on Primal Flourish get Grow +2⚔️/+2❤️.
+          Allied minions occupying Primal Flourish get Grow +2⚔️/+2❤️.
 
 keyword:  **Provoke**<br>
           Enemies around this unit cannot move or activate Abilities, and can only attack this unit.
@@ -97,7 +97,7 @@ keyword:  **Ranged (X)**<br>
           Can attack enemies X spaces beyond the usual attack range.
 
 keyword:  **Rebirth**<br>
-          When killed will leave behind an egg that will hatch into a copy of itself.
+          On death, leave behind an egg that will hatch into a copy of itself.
 
 keyword:  **Rush**<br>
           Can move and attack the same turn it came into play.

@@ -76,7 +76,7 @@ name:     Seismic Elemental<br>
 text:
 
 name:     Sleet Dasher<br>
-text:     Whenever this minion destroys an enemy, reactivate it.
+text:     Reactivate this minion whenever it destroys an enemy.
 
 name:     Voice of the Wind<br>
 text:     Whenever you summon a minion from your hand, summon a 2⚔️/2❤️ Vespyr Winter Maerid nearby.
@@ -126,7 +126,11 @@ text:     **Forcefield**<br>
           Whenever this minion attacks or is attacked, summon a 3⚔️/3❤️ Vespyr Night Howler nearby.
 
 name:     Luminous Charge<br>
-text:     Summon five joined 0⚔️/1❤️ Walls that deal 2 damage to nearby enemies when destroyed.
+text:     Summon five joined 0⚔️/1❤️ Luminous Walls that deal 2 damage to nearby enemies when destroyed.
+
+name:     Luminous Wall<br>
+text:     **Wall**<br>
+          **Dying Wish**: Deal 2 damage to nearby enemies.
 
 name:     Matron Elveiti<br>
 text:     **Infiltrate**: All allied minions on your opponent's starting side gain +1⚔️/+1❤️ at the end of each turn.
@@ -139,7 +143,7 @@ text:     Transform any minion into a 5⚔️/5❤️ Seismic Elemental. Deal 5 
 
 name:     Draugar Eyolith<br>
 text:     **Build** (2)<br>
-          While this is building or on the battlefield, enemy minions and Generals can only move 1 space.
+          Enemies can only move 1 space (also while it's building).
 
 name:     Draugar Lord<br>
 text:     **Dying Wish**: Summon a 4⚔️/8 Ice Drake on this space.
@@ -179,16 +183,16 @@ name:     Brilliant Plume<br>
 text:     Restore 1❤️ to your General. Draw a card.
 
 name:     Exhuming Sand<br>
-text:     Summons a 2⚔️/1❤️ Sand Dervish when its owner summons a minion from their hand.
+text:     Summon a 2⚔️/1❤️ Sand Dervish whenever you summon a minion from your hand.
 
 name:     Hallowed Ground<br>
-text:     Restores 1❤️ to allied minions and Generals standing on it at the end of the owner's turn
+text:     Restores 1❤️ to allied minions and Generals occupying it at the end of the owner's turn
 
 name:     Mana Etch<br>
-text:     Reduce the manacost of all cards in your hand by 1.
+text:     Reduce the cost of all cards in your hand by 1.
 
 name:     Mana Infusion<br>
-text:     Reduce the manacost of all cards on your hand by 2.
+text:     Reduce the cost of all cards in your hand by 2.
 
 name:     Mana Spring<br>
 text:     +1 mana
@@ -212,7 +216,7 @@ name:     Dex<br>
 text:     **Celerity**
 
 name:     Dreamgazer<br>
-text:     When you replace this card, summon it on a random nearby space. Your General takes 2 damage.
+text:     When you replace this, summon it on a random space nearby your General, who takes 2 damage.
 
 name:     Fog<br>
 text:     **Dying Wish**: Put a random Battle Pet into your hand.
@@ -328,7 +332,7 @@ text:     **Frenzy**
 
 name:     Dragonlark<br>
 text:     **Docile**, **Celerity**<br>
-          When this minion moves, create an Eruptive Egg on its previous location.
+          Whenever this minion moves, create an Eruptive Egg on its previous location.
 
 name:     Drudging Servant<br>
 text:     **Flying**
@@ -368,7 +372,7 @@ name:     Maw<br>
 text:     **Deploy**: Deal 2 damage to a enemy minion.
 
 name:     Metaltooth<br>
-text:     If you have another Mech minion, this minion has Rush.
+text:     If you have another Mech, this minion has Rush.
 
 name:     Piercing Mantis<br>
 text:     **Frenzy**
@@ -402,7 +406,7 @@ name:     Ruined Slave<br>
 text:     **Provoke**
 
 name:     Rust Crawler<br>
-text:     **Deploy**: Destroy a random artifact on the enemy General.
+text:     **Deploy**: Destroy a random enemy artifact.
 
 name:     Serenity<br>
 text:     **Flying**
@@ -441,7 +445,7 @@ name:     Wrath<br>
 text:     **Celerity**
 
 name:     Z0r<br>
-text:     **Dying Wish**: Put a random MECH minion into your hand.
+text:     **Dying Wish**: Put a random Mech into your hand.
 
 name:     Zyx<br>
 text:     **Deploy**: Summon a copy of this minion on a random nearby space.
@@ -450,7 +454,7 @@ name:     Abjudicator<br>
 text:     **Deploy:** Lower the cost of all spells in your hand by 1.
 
 name:     Aegis Golem<br>
-text:     Can only be attacked or counter attacked by units that are adjacent to it.
+text:     Can only be attacked or counterattacked by units that are adjacent to it.
 
 name:     Aer Pridebeak<br>
 text:     Whenever your opponent casts a spell, restore 1❤️ to your General.
@@ -485,7 +489,7 @@ name:     Chaos Elemental<br>
 text:     Whenever this minion takes damage, it randomly teleports.
 
 name:     Crimson Oculus<br>
-text:     Whenever opponent summons a minion, this minion gains +1⚔️/+1❤️.
+text:     This minion gains +1⚔️/+1❤️ whenever your opponent summons a minion.
 
 name:     Crossbones<br>
 text:     **Deploy**: Destroy an enemy minion with Ranged.

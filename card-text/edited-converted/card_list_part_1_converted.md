@@ -45,7 +45,7 @@ name:     Fighting Spirit<br>
 text:     Give all allied minions +1❤️. Put a random Battle Pet into your hand.
 
 name:     Fortified Assault<br>
-text:     Turn an enemy minion's space into Hallowed Ground. Deal it 1 damage for each allied Hallowed Ground.
+text:     Transform an enemy minion's space into Hallowed Ground. Deal it 1 damage for each allied Hallowed Ground.
 
 name:     Kingsguard<br>
 text:     Summon a Conscript. If summoned in front summon a Crestfallen instead.
@@ -157,7 +157,7 @@ name:     Afterblaze<br>
 text:     Give an allied minion +2⚔️/+4❤️. If that minion has **Zeal**, draw a card.
 
 name:     Aperion's Claim<br>
-text:     Create **Hallowed Ground** in a 3x3 area. At the end of your opponent's next turn, destroy all enemy minions standing on them.
+text:     Create **Hallowed Ground** in a 3x3 area. At the end of your opponent's next turn, destroy all enemy minions occupying them.
 
 name:     Arclyte Sentinel<br>
 text:     **Deploy**: Give any nearby minion +2⚔️/-2❤️.
@@ -298,7 +298,7 @@ text:     **Airdrop**<br>
 
 name:     Oakenheart<br>
 text:     **Deploy**: Progresses MECHAZ0R build by +20%.<br>
-          Your other Mech minions have +1⚔️/+1❤️.
+          Your other Mechs have +1⚔️/+1❤️.
 
 name:     Second Sun<br>
 text:     **Zeal**: Gains +8⚔️.
@@ -362,7 +362,7 @@ name:     Shidai Stormblossom<br>
 text:     **Bloodbound Spell**: Draw a card at end of turn. Your **Bloodbound Spell** is **Kiyomori**.
 
 name:     Juxtaposition<br>
-text:     Switch positions between any two minions.
+text:     Swap positions between any two minions.
 
 name:     Mana Vortex<br>
 text:     The next spell you cast this turn costs 1 less.
@@ -442,7 +442,7 @@ name:     Shadow Waltz<br>
 text:     Lower the cost of all minions with **Backstab** in your hand by 1 and give them +1⚔️/+1❤️.
 
 name:     Spiral Counter<br>
-text:     Deal 8 damage to an enemy minion that is exhausted.
+text:     Deal 8 damage to an exhausted enemy minion.
 
 name:     Tanahashi<br>
 text:     Teleport an enemy 3 spaces. Your **Bloodbound Spell** is **Murasame**.
@@ -570,20 +570,20 @@ text:     Surround the enemy General with allied **Panddo** that disappear at th
 name:     Penumbraxx<br>
 text:     **Build** (2)<br>
           **Backstab** (2)<br>
-          Whenever this backstabs, transform it into a building with Build (1).
+          Whenever this backstabs, transform it into a structure with Build (1).
 
 name:     Sparrowhawk<br>
 text:     **Bond**: Put a Mist Dragon Seal into your hand.
 
 name:     Substitution<br>
-text:     Switch positions between an allied minion and your General.
+text:     Swap positions between an allied minion and your General.
 
 name:     Thunderbomb<br>
 text:     Deal 3 damage to an enemy and 1 damage to all enemies around it.
 
-name:     Twilight Fox<br>
-text:     **Backstab** (2)<br>
-          **Blood Surge**: Teleport in the same row to the opponent's back column and gain +2 movement until the end of turn.
+name:      Twilight Fox
+text:      **Backstab** (2)
+           **Blood Surge**: Teleport to your opponent's starting side's edge column, keeping to the same row. Gain +2 movement until the end of turn.
 
 name:     Twin Strike<br>
 text:     Deal 2 damage to exactly two random enemy minions. Draw a card at end of turn.
@@ -604,7 +604,7 @@ name:     Bakezori<br>
 text:     Whenever this minion is moved for any reason, draw a card.
 
 name:     Bamboozle<br>
-text:     Transform a nearby enemy minion into a 0⚔️/2❤️ Panddo. If it is already a Panddo, instead destroy it and draw to fill your hand.
+text:     Transform a nearby enemy minion into a 0⚔️/2❤️ Panddo. If it's already a Panddo, destroy it instead and draw to fill your hand.
 
 name:     Coalfist<br>
 text:     **Ability** 1: Allied minions in a 2x2 area gain +3⚔️ until the start of your next turn.
@@ -636,7 +636,7 @@ name:     Onyx Bear Seal<br>
 text:     Transform an enemy minion into a 0⚔️/2❤️ Panddo that cannot be attacked.
 
 name:     Pandamonium<br>
-text:     Transform all minions into 0⚔️/2❤️ Panddo that cannot be attacked until end of turn.
+text:     Transform all minions into 0⚔️/2❤️ Panddo that cannot be attacked until the end of turn.
 
 name:     Storm Sister Alkyone<br>
 text:     Spells you cast that deal damage deal +1 damage.

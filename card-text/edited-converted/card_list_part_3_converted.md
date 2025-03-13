@@ -179,7 +179,7 @@ name:     Savage Chain<br>
 text:     During your opponent's turn, whenever an enemy minion moves to or is summoned nearby your general, your general deals 2 damage to it.
 
 name:     Seismoid<br>
-text:     Whenever you summon a Mech minion from your hand, both players draw a card.
+text:     Whenever you summon a Mech from your hand, both players draw a card.
 
 name:     Tectonic Spikes<br>
 text:     Both players draw 3 cards.
@@ -408,7 +408,7 @@ name:     Faie Bloodwing<br>
 text:     **Bloodbound Spell**: Deal 2 damage to all enemies in the enemy General's column.
 
 name:     Ilena Cryobyte<br>
-text:     **Bloodbound Spell**: Reduce the movement of an enemy minion by 1. If the target is nearby **Stun** it instead.
+text:     **Bloodbound Spell**: Target an enemy minion. If it's nearby, **Stun** it, otherwise reduce its movement by 1.
 
 name:     Kara Winterblade<br>
 text:     **Bloodbound Spell**: Any minion you summon this turn gains +1⚔️/+1❤️.
@@ -430,15 +430,11 @@ name:     Gravity Well<br>
 text:     **Provoke**<br>
           **Wall**
 
-name:     Luminous Charge<br>
-text:     **Dying Wish**: Deal 2 damage to nearby enemies.<br>
-          **Wall**
-
 name:     Oak in the Nemeton<br>
 text:     **Aspect**: Allied minions nearby your General have +1⚔️. Your General cannot attack.
 
 name:     Polarity<br>
-text:     Switch any minion's ⚔️ and ❤️.
+text:     Swap any minion's ⚔️ and ❤️.
 
 name:     Aspect of Ego<br>
 text:     Transform any minion into a random minion of the same cost.
@@ -447,7 +443,7 @@ name:     Crystallize<br>
 text:     Reduce the movement of an enemy minion by 1. If the target is nearby **Stun** it instead.
 
 name:     Flurry<br>
-text:     When this minion attacks, repair all of your artifacts by 1 durability.
+text:     Whenever this minion attacks, repair all of your artifacts by 1 durability.
 
 name:     Iceshatter Gauntlet<br>
 text:     Whenever your General attacks a **Stunned** minion, destroy it instantly.
@@ -463,7 +459,7 @@ text:     Teleport an enemy one space. Its movement is reduced by one until the 
 
 name:     Shivers<br>
 text:     **Flying**<br>
-          **Infiltrate**: When this minion attacks, permanently gain 1 mana crystal.
+          **Infiltrate**: Whenever this minion attacks, permanently gain 1 mana crystal.
 
 name:     Silent Intensity<br>
 text:     **Echo**<br>
@@ -473,7 +469,7 @@ name:     Snow Chaser<br>
 text:     **Infiltrate**: When this minion dies, return it to your hand.
 
 name:     The Dredger<br>
-text:     Whenever your General damages an enemy, randomly teleport them to your starting side of the battlefield.
+text:     Whenever your General damages an enemy, teleport that enemy to a random space on your starting side of the battlefield.
 
 name:     Treant<br>
 text:     **Provoke**
@@ -512,7 +508,7 @@ name:     Concealing Shroud<br>
 text:     Your General takes no damage until your next turn.
 
 name:     Cryoblade<br>
-text:     Deals double damage to and cannot be counter attacked by **Stunned** enemies.
+text:     Deals double damage to and cannot be counterattacked by **Stunned** enemies.
 
 name:     Crystal Arbiter<br>
 text:     This minion has +3⚔️ on your opponent's turn.
@@ -530,7 +526,7 @@ name:     Frigid Corona<br>
 text:     **Stun** an enemy minion. Draw a card.
 
 name:     Frostfire<br>
-text:     Give an allied minion +3⚔️. If it is Vespyr, also give it +3❤️.
+text:     Give an allied minion +3⚔️. If it's Vespyr, also give it +3❤️.
 
 name:     Ghost Wolf<br>
 text:
@@ -539,7 +535,7 @@ name:     Gravity Well<br>
 text:     Summon four joined 0⚔️/1❤️ Walls with **Provoke**.
 
 name:     Hearth-sister<br>
-text:     **Deploy**: Switch positions with any other minion.
+text:     **Deploy**: Swap positions with any other minion.
 
 name:     Icy<br>
 text:     **Deploy**: **Stun** an enemy.
@@ -564,7 +560,7 @@ name:     Resonance Scythe<br>
 text:     Your General has +1⚔️. Reactivate your General whenever they destroy a **Stunned** enemy.
 
 name:     Rolling Snowstorm<br>
-text:     At the start of your next 9 turns deal 6 damage to all enemies in a column starting with the far column on your opponent's starting side.
+text:     At the start of your next 9 turns deal 6 damage to all enemies in a column, starting with the edge column on your opponent's starting side.
 
 name:     Shatter<br>
 text:     Destroy a **Stunned** enemy minion.
@@ -606,7 +602,7 @@ text:     **Dying Wish**: Summon a 3⚔️/2❤️ Ghost Wolf on this space.
 
 name:     Freeblade<br>
 text:     **Sentinel**: Minion summoned.<br>
-          This switches positions with the minion that transformed it.
+          This swaps positions with the minion that transformed it.
 
 name:     Glacial Elemental<br>
 text:     Whenever you summon a Vespyr minion, deal 2 damage to a random enemy minion.

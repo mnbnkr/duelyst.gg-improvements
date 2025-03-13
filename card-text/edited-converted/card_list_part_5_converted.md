@@ -207,7 +207,7 @@ name:     Mindwarper<br>
 text:     **Deploy** and **Ability** 1: Gain a copy of a random spell from your opponent's hand.
 
 name:     Moebius<br>
-text:     At the start of your turn, fully heal this minion and switch its ⚔️ and ❤️.
+text:     At the start of your turn, fully heal this minion and swap its ⚔️ and ❤️.
 
 name:     Night Watcher<br>
 text:     **Forcefield**<br>
@@ -267,10 +267,10 @@ name:     Thunderhorn<br>
 text:     Whenever this minion damages an enemy, it also damages all joined enemies.
 
 name:     Timekeeper<br>
-text:     **Deploy**: Your buildings progress by 1 turn.
+text:     **Deploy**: Your builds progress by 1 turn.
 
 name:     Twilight Sorcerer<br>
-text:     When this minion enters play it learns your **Bloodbound Spell**. It can then cast it as **Ability**: 1
+text:     When this minion enters play it learns your **Bloodbound Spell**. It can then cast it as **Ability** 1.
 
 name:     Unseven<br>
 text:     **Dying Wish**: Summon a minion with **Dying Wish** from your hand.
@@ -285,7 +285,7 @@ name:     Alcuin Fugitive<br>
 text:     At the end of any turn you cast a spell, put a copy of the most recently cast spell into your hand.
 
 name:     Alter Rexx<br>
-text:     Whenever you summon MECHAZ0R, put a MECHAZ0R in your hand.
+text:     Whenever you summon MECHAZ0R, put a MECHAZ0R into your hand.
 
 name:     Ash Mephyt<br>
 text:     **Deploy**: Summon two copies of this minion on random spaces.
@@ -313,7 +313,7 @@ name:     Chirpuka<br>
 text:     Whenever your opponent summons a minion, summon a 2⚔️/1❤️ Puka with **Provoke** in front of it.
 
 name:     DECEPTIB0T<br>
-text:     Whenever this minion destroys an enemy, summon a different Mech minion from your deck nearby.
+text:     Whenever this minion destroys an enemy, summon a different Mech from your deck nearby.
 
 name:     Dagger Kiri<br>
 text:     **Celerity**
@@ -431,7 +431,7 @@ name:     Magesworn<br>
 text:     Both players cannot cast spells that cost 2 or less.
 
 name:     Project Ω<br>
-text:     This minion gains +2⚔️/+2❤️ for each other Mech minion you summoned this game.
+text:     This minion gains +2⚔️/+2❤️ for each other Mech you summoned this game.
 
 name:     Q'orrhlma'a<br>
 text:     **Deploy**: Remove all minions that cost 2 or less from your deck.

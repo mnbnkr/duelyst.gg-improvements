@@ -131,7 +131,7 @@ name:     Desert Scout<br>
 text:     **Ability** 2: Charges and deals 4 damage to an unobstructed enemy in this row that is at least 2 tiles away.
 
 name:     Dunecaster<br>
-text:     **Deploy**: Give +2⚔️/+2❤️ to an allied Dervish. If it is a Wind Dervish, it no longer disappears.
+text:     **Deploy**: Give +2⚔️/+2❤️ to an allied Dervish. If it's a Wind Dervish, it no longer disappears.
 
 name:     Duskweaver<br>
 text:     **Dying Wish**: Put a random Scion's Wish spell into your hand.
@@ -175,13 +175,13 @@ name:     Pyromancer<br>
 text:     **Blast**
 
 name:     Rashas Curse<br>
-text:     Destroy a random artifact on the enemy General. Summon a Wind Dervish with Rush near them.
+text:     Destroy a random enemy artifact. Summon a Wind Dervish with Rush near them.
 
 name:     Reassemble<br>
 text:     Return an allied Obelysk to your hand and reduce its cost to 0. Draw a card.
 
 name:     Sand Trap<br>
-text:     Choose an enemy minion. It can no longer move. At the end of your opponent's next turn a Exhuming Sand will be created underneath.
+text:     Target an enemy minion. It can no longer move. At the end of your opponent's next turn a Exhuming Sand will be created underneath.
 
 name:     Scion's Second Wish<br>
 text:     Give an allied minion +2⚔️/+2❤️. It takes no damage from Generals.
@@ -232,10 +232,10 @@ text:     **Deploy**: Summon a copy of this minion.
 
 name:     Portal Guardian<br>
 text:     **Frenzy**<br>
-          Whenever you summon a minion, this minion gains +1⚔️
+          This minion gains +1⚔️ whenever you summon a minion.
 
 name:     Psychic Conduit<br>
-text:     Reactivate and take control of an enemy minion with 2 or less ⚔️ until end of turn.
+text:     Reactivate and take control of an enemy minion with 2 or less ⚔️ until the end of turn.
 
 name:     Sand Howler<br>
 text:     **Cannot be targeted by enemy spells or Ability keyword effects.**
@@ -256,7 +256,7 @@ text:     **Summon Dervish**<br>
           Enemy minions that damage this are destroyed.
 
 name:     Thunderclap<br>
-text:     When your General destroys a minion, summon a copy of it nearby.
+text:     Whenever your General destroys a minion, summon a copy of it nearby.
 
 name:     Time Maelstrom<br>
 text:     Reactivate your General.
@@ -374,7 +374,7 @@ text:     Summon a 2⚔️/2❤️ Dervish with Rush in front of each enemy mini
 
 name:     Swarmking Scarab<br>
 text:     **Blast**<br>
-          Whenever this minion blasts, summon 1⚔️/1❤️ Scarabyte with **Flying** and **Rush** in those spaces.
+          Summon 1⚔️/1❤️ Scarabyte with **Flying** and **Rush** into spaces affected by **Blast**.
 
 name:     Dominate Will<br>
 text:     Take control of an enemy minion nearby your General.
@@ -429,7 +429,7 @@ name:     Furiosa<br>
 text:     **Blood Surge**: Allied Wraithlings gain +1⚔️/+1❤️.
 
 name:     Grasp Of Agony<br>
-text:     Choose an enemy minion. When it dies, it deals 3 damage to enemies around it.
+text:     Target an enemy minion. When it dies, it deals 3 damage to enemies around it.
 
 name:     Horn of the Forsaken<br>
 text:     Whenever your General recieves damage, summon a 1⚔️/1❤️ Wraithling nearby your General.
@@ -486,7 +486,7 @@ name:     Deathfire Crescendo<br>
 text:     Give an allied minion "**Deathwatch**: Gains +1⚔️/+1❤️".
 
 name:     Deathmark<br>
-text:     Deal 1 damage to an enemy minion. After it is attacked this turn, destroy it.
+text:     Deal 1 damage to an enemy minion. After it's attacked this turn, destroy it.
 
 name:     Echoing Shriek<br>
 text:     **Echo**<br>
@@ -505,7 +505,7 @@ name:     Gor<br>
 text:     **Dying Wish**: Re-summon this minion in a random corner.
 
 name:     Infest<br>
-text:     Choose an enemy minion. When it dies, creates a wraithling on its location, deal 2 damage to the enemy general and give this effect to all nearby enemy minions.
+text:     Give an enemy minion "**Dying Wish**: Eject an enemy Wraithling on this space. It deals 2 damage to your General, and gives Infest to all nearby allied minions."
 
 name:     Inkhorn Gaze<br>
 text:     Deal 2 damage to a minion. If it dies this turn, put a random Battle Pet into your hand.
@@ -514,7 +514,7 @@ name:     Nightmare Operant<br>
 text:     **Dying Wish**: Shuffle a MECHAZ0R into your deck.
 
 name:     Nocturne<br>
-text:     Whenever you make Shadow Creep or a Wraithling, instead make both.
+text:     Whenever you convert a space into Shadow Creep or summon a Wraithling, instead do both on the same space.
 
 name:     Ooz<br>
 text:     Whenever this minion takes damage, turn a space occupied by an enemy into **Shadow Creep**.
@@ -532,7 +532,7 @@ name:     Spectral Blade<br>
 text:     Your General gains +2⚔️. Whenever your General destroys an enemy, restore 2❤️ to your General.
 
 name:     The Releaser<br>
-text:     When this artifact breaks, summon a random allied non-token minion destroyed this game nearby.
+text:     When this artifact is destroyed, summon a random allied non-token minion destroyed this game nearby.
 
 name:     Yielding Depths<br>
 text:     If you have three or more Shadow Creep, draw 2 cards.
@@ -589,7 +589,7 @@ text:     Destroy a damaged minion.
 
 name:     Putrid Dreadflayer<br>
 text:     **Flying**<br>
-          This minion will die if it is ever not on an allied **Shadow Creep**.
+          This minion will die if it's ever not on an allied **Shadow Creep**.
 
 name:     Ritual Banishing<br>
 text:     Destroy an allied minion to destroy an enemy minion.
@@ -620,7 +620,7 @@ name:     Wraithling Fury<br>
 text:     Give an allied **Wraithling** minion +4⚔️/+4❤️.
 
 name:     Wraithling Swarm<br>
-text:     Summon three 1⚔️/1❤️ Wraithlings nearby each other.
+text:     Summon three joined 1⚔️/1❤️ Wraithlings.
 
 name:     Xerroloth<br>
 text:     **Sentinel**: Spell cast.<br>
@@ -681,13 +681,13 @@ name:     Wraithcrown<br>
 text:     Allied **Wraithlings** have +2⚔️/+2❤️.
 
 name:     Black Solus<br>
-text:     When you summon a **Wraithling**, this minion gains +2⚔️.
+text:     Whenever you summon a **Wraithling**, this minion gains +2⚔️.
 
 name:     Corporeal Cadence<br>
 text:     Destroy an allied minion to deal its ⚔️ to the enemy General.
 
 name:     Furor Chakram<br>
-text:     Allied minions gain +2⚔️ and **Frenzy**.
+text:     Allied minions have +2⚔️ and **Frenzy**.
 
 name:     Hexclaw<br>
 text:     **Dying Wish**: The enemy General gains, "At the start of your turn, take 1 damage".
