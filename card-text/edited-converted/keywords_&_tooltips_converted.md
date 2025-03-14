@@ -30,11 +30,11 @@ keyword:  **Bond**<br>
 
 keyword:  **Build** (1)<br>
           Spawns as a 0⚔️/10❤️ structure. After 1 turn the structure will transform into this minion.<br>
-          The structure cannot move, attack or be dispelled.
+          The structure cannot move, attack or be **dispelled**.
 
 keyword:  **Build** (2)<br>
           Spawns as a 0⚔️/10❤️ structure. After 2 turns the structure will transform into this minion.<br>
-          The structure cannot move, attack or be dispelled.
+          The structure cannot move, attack or be **dispelled**.
 
 keyword:  **Celerity**<br>
           Can move and attack twice.
@@ -64,7 +64,7 @@ keyword:  **Echo**<br>
           When played from hand create a copy of it in your hand.
 
 keyword:  **Equipped**<br>
-          When the minion is dispelled or dies, its equipment drops and can be picked up by another allied minion.
+          When the minion is **dispelled** or dies, its equipment drops and can be picked up by another allied minion.
 
 keyword:  **Flying**<br>
           Can move to any open tile.
@@ -85,10 +85,7 @@ keyword:  **Intensify**<br>
           Effect triggers when card comes into play. Effect gets more potent each time the card is played by the same player.
 
 keyword:  **Invulnerable**<br>
-          Cannot be destroyed, damaged, dispelled or targeted by anything.
-
-keyword:  **Primal Flourish**<br>
-          Allied minions occupying Primal Flourish get Grow +2⚔️/+2❤️.
+          Cannot be destroyed, damaged, **dispelled** or targeted by anything.
 
 keyword:  **Provoke**<br>
           Enemies around this unit cannot move or activate Abilities, and can only attack this unit.
@@ -97,7 +94,7 @@ keyword:  **Ranged (X)**<br>
           Can attack enemies X spaces beyond the usual attack range.
 
 keyword:  **Rebirth**<br>
-          On death, leave behind an egg that will hatch into a copy of itself.
+          On death, leave behind an Egg that will hatch into a copy of itself.
 
 keyword:  **Rush**<br>
           Can move and attack the same turn it came into play.
@@ -124,7 +121,7 @@ keyword:  **Summon Dervish**<br>
           At the beginning of its owners turn this minion will summon a Wind Dervish on a nearby open tile.
 
 keyword:  **Wall**<br>
-          Walls cannot move. If a Wall is dispelled it will dissapear.
+          Walls cannot move. If a Wall is **dispelled** it will dissapear.
 
 keyword:  **Zeal**<br>
           Extra effect active while this minion is close to its General.
@@ -138,22 +135,14 @@ tooltip:  **Awesome Abyssal Scar**<br>
 tooltip:  **Awesome Malice**<br>
           Summon as many 4⚔️/4❤️ Husks as the attack of your sacrifice.
 
-tooltip: **Awesome Shadow Spawn**<br>
+tooltip:  **Awesome Shadow Spawn**<br>
           Your Wraithlings are 5⚔️/5❤️.
 
 tooltip:  **Blacksteel Glave**<br>
-          +Ranged (2)
-
-tooltip:  **Eruptive Egg**<br>
-          If this minion dies during your opponent's turn it deals 3 damage to all enemies around it.<br>
-          This minion takes 1 damage at the end of your opponent's turn.<br>
-          **Docile**, cannot move.
+          +**Ranged** (2)
 
 tooltip:  **Justicar's Bastion**<br>
           **Provoke**, +3❤️ and may move an aditional space.
-
-tooltip:  **Katastrophosaurus**<br>
-          A massive 6⚔️/26❤️ minion.
 
 tooltip:  **Lesser Waterball**<br>
           1 mana, deal 4 damage to an enemy Minion.
@@ -166,6 +155,3 @@ tooltip:  **Paleclaw Gauntlet**<br>
 
 tooltip:  **Skyshield**<br>
           Wielder becomes a Mech and gains **Armour** (takes 1 less damage from all sources).
-
-tooltip:  **Spriggin Kin**<br>
-          Cute tiny minion, 4 different kinds.

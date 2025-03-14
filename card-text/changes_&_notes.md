@@ -38,4 +38,13 @@ Damage yourself and all exposed units within a range of 2.<br>
 
 <br>
 
-notes to self: Kotetsu, Exhuming Sand, "Turn a space ..", Shadow Creep,
+notes to self: Kotetsu, Exhuming Sand, "Turn a space ..", Shadow Creep, (make many Token cards searchable, and also included in tooltips), Mana Spring tile,
+
+<br>
+
+### Suggestions
+---
+<br>
+
+- *(when card itself is NOT doing the effect)* - writing both as "**stunned**", "**dispelled**", in bold this way, and also having "Stun" tooltip on hover.
+*(when card IS doing the effect)* - "**Stunned**", "**Dispelled**", capitalized.

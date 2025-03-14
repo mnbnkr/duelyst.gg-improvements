@@ -14,7 +14,7 @@ name:     Flurry<br>
 text:     Whenever this minion attacks, repair all of your artifacts by 1 durability.
 
 name:     Iceshatter Gauntlet<br>
-text:     Whenever your General attacks a **Stunned** minion, destroy it instantly.
+text:     Whenever your General attacks a **stunned** minion, destroy it instantly.
 
 name:     Kinetic Surge<br>
 text:     Any minion you summon this turn gains +1⚔️/+1❤️.
@@ -54,9 +54,6 @@ text:     Deal 2 damage to all enemies in the enemy General's column.
 name:     Winter Maerid<br>
 text:
 
-name:     Bonechill Barrier<br>
-text:     Summon three joined 0⚔️/2❤️ Vespyr Walls. Units that attack these walls are **Stunned**.
-
 name:     Borean Bear<br>
 text:     Whenever you summon a Vespyr minion, this minion gains +1⚔️.
 
@@ -76,7 +73,7 @@ name:     Concealing Shroud<br>
 text:     Your General takes no damage until your next turn.
 
 name:     Cryoblade<br>
-text:     Deals double damage to and cannot be counterattacked by **Stunned** enemies.
+text:     Deals double damage to and cannot be counterattacked by **stunned** enemies.
 
 name:     Crystal Arbiter<br>
 text:     This minion has +3⚔️ on your opponent's turn.
@@ -100,7 +97,10 @@ name:     Ghost Wolf<br>
 text:
 
 name:     Gravity Well<br>
-text:     Summon four joined 0⚔️/1❤️ Walls with **Provoke**.
+text:     Summon four joined 0⚔️/1❤️ Gravity Walls.
+
+name:     **Gravity Wall** *(Gravity Well's token & tooltip)*<br>
+text:     **Wall**, **Provoke**.
 
 name:     Hearth-sister<br>
 text:     **Deploy**: Swap positions with any other minion.
@@ -122,16 +122,16 @@ name:     Night Howler<br>
 text:
 
 name:     Protosensor<br>
-text:     **Airdrop**, **Build** (1)
+text:     **Airdrop**, **Build** (1).
 
 name:     Resonance Scythe<br>
-text:     Your General has +1⚔️. Reactivate your General whenever they destroy a **Stunned** enemy.
+text:     Your General has +1⚔️. Reactivate your General whenever they destroy a **stunned** enemy.
 
 name:     Rolling Snowstorm<br>
 text:     At the start of your next 9 turns deal 6 damage to all enemies in a column, starting with the edge column on your opponent's starting side.
 
 name:     Shatter<br>
-text:     Destroy a **Stunned** enemy minion.
+text:     Destroy a **stunned** enemy minion.
 
 name:     Thicket Augur<br>
 text:     **Intensify**: Summon 1 Treant with **Provoke** nearby.
@@ -158,11 +158,10 @@ name:     Crystalline Reinforcement<br>
 text:     Double the ⚔️ and ❤️ buffs of allied minions.
 
 name:     Disciple of Yggdra<br>
-text:     When an enemy is **Stunned**, transform this minion into Yggdra's Voracity and draw a card.
+text:     When an enemy is **stunned**, transform this minion into Yggdra's Voracity and draw a card.
 
 name:     Drake Dowager<br>
-text:     **Sentinel**: General attacks.<br>
-          **Ranged** (2)<br>
+text:     **Sentinel**: General attacks. **Ranged** (2).<br>
           Whenever this attacks, summon a 4⚔️/4❤️ Flying Drake nearby.
 
 name:     Fenrir Warmaster<br>
@@ -198,8 +197,7 @@ name:     Myriad<br>
 text:     **Blood Surge**: Summon a random Wall nearby.
 
 name:     Permafrost<br>
-text:     **Stun** an enemy minion.<br>
-          **Stunned** enemy minions **Stun** a random nearby enemy.
+text:     **Stun** an enemy minion. **Stunned** enemy minions **Stun** a random nearby enemy.
 
 name:     Snow Rippler<br>
 text:     **Infiltrate**: Whenever this minion damages a General, put a random Battle Pet into your hand.
@@ -218,7 +216,7 @@ text:     **Flying**<br>
           **Infiltrate**: Gain +3⚔️.
 
 name:     Yggdra's Voracity<br>
-text:     Whenever an enemy is **Stunned**, fully heal this minion.
+text:     Whenever an enemy is **stunned**, fully heal this minion.
 
 name:     Aspect of Shim'zar<br>
 text:     Transform any minion into a random Battle Pet.
@@ -308,7 +306,7 @@ name:     Fenrir Berserker<br>
 text:     **Dying Wish**: Summon a Fenrir Warmaster on this space.
 
 name:     Frosthorn Rhyno<br>
-text:     **Infiltrate**: Gain +1⚔️ and **Celerity**
+text:     **Infiltrate**: Gain +1⚔️ and **Celerity**.
 
 name:     Frostiva<br>
 text:     **Forcefield**<br>
@@ -375,16 +373,13 @@ name:     Exhuming Sand<br>
 text:     Summon a 2⚔️/1❤️ Sand Dervish whenever you summon a minion from your hand.
 
 name:     Hallowed Ground<br>
-text:     Restores 1❤️ to allied minions and Generals occupying it at the end of the owner's turn
+text:     Restores 1❤️ to allied minions and Generals occupying it at the end of the owner's turn.
 
 name:     Mana Etch<br>
 text:     Reduce the cost of all cards in your hand by 1.
 
 name:     Mana Infusion<br>
 text:     Reduce the cost of all cards in your hand by 2.
-
-name:     Mana Spring<br>
-text:     +1 mana
 
 name:     Minor Summoning Circle<br>
 text:     Whenever a firendly minion is summoned on this space, it gains +1⚔️/+1❤️.
@@ -441,7 +436,7 @@ name:     Mirrorrim<br>
 text:     **Deploy**: Choose an allied minion. Shuffle three copies of it into your deck.
 
 name:     Moro<br>
-text:     As long as there is a Spriggin this minion has +3⚔️.
+text:     As long as there is a Spriggin, this minion has +3⚔️.
 
 name:     Oni<br>
 text:     **Forcefield**
@@ -508,7 +503,10 @@ name:     Carcynus<br>
 text:     **Ability** 1: Gain +1❤️. Also gain **Provoke** until the start of your next turn.
 
 name:     Celebrant<br>
-text:     **Deploy**:  Create a mana spring tile.
+text:     **Deploy**: Convert a space into a Mana Spring tile.
+
+name:     **Mana Spring** *(Celebrant's token & tooltip)*<br>
+text:     +1 mana.
 
 name:     Crimson Guide<br>
 text:     At the end of its owner's turn this minion creates a minor summoning circle on its location.
@@ -520,8 +518,13 @@ name:     Dispirited Prisoner<br>
 text:     **Frenzy**
 
 name:     Dragonlark<br>
-text:     **Docile**, **Celerity**<br>
-          Whenever this minion moves, create an Eruptive Egg on its previous location.
+text:     **Docile**, **Celerity**.<br>
+          Whenever this minion moves, summon an Eruptive Egg on its previous location.
+
+name:     **Eruptive Egg** *(Dragonlark's token & tooltip)*<br>
+text:     **Docile**<br>
+          If this minion dies during your opponent's turn, it deals 3 damage to all enemies around it.<br>
+          This minion takes 1 damage at the end of your opponent's turn.
 
 name:     Drudging Servant<br>
 text:     **Flying**
@@ -533,7 +536,7 @@ name:     Fear<br>
 text:     **Provoke**
 
 name:     Flameblood Warlock<br>
-text:     **Deploy:** Deal 3 damage to both Generals.
+text:     **Deploy**: Deal 3 damage to both Generals.
 
 name:     Ghost Lynx<br>
 text:     **Deploy**: Teleport a minion to a random corner.
@@ -573,7 +576,7 @@ name:     Rage<br>
 text:     **Frenzy**
 
 name:     Recombobulus<br>
-text:     **Deploy**:  Teleport any minion one space randomly.
+text:     **Deploy**: Teleport any minion one space randomly.
 
 name:     Replicant<br>
 text:     **Deploy**: Draw another Replicant.

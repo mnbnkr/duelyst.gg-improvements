@@ -43,7 +43,7 @@ name:     Wildfire Tenketsu<br>
 text:     **Blood Surge**: Put an **Eight Gates** into your hand.
 
 name:     Bombard<br>
-text:     Reactivate your minions with Ranged.
+text:     Reactivate your minions with **Ranged**.
 
 name:     Geomancer<br>
 text:     **Deploy**: Your **Bloodbound Spell** is **Phoenix Fire**.
@@ -124,7 +124,7 @@ name:     Burden of Knowledge<br>
 text:     Deal 3 damage to your General to draw a card.
 
 name:     Oblivion Sickle<br>
-text:     Whenever your General destroys an enemy, turn that space into **Exhuming Sand**.
+text:     Whenever your General destroys an enemy, turn that space into Exhuming Sand.
 
 name:     Rae<br>
 text:     **Dying Wish**: **Dispel** the nearest enemy minion.
@@ -238,7 +238,7 @@ name:     Obdurator<br>
 text:     Your General gains +1⚔️. At the start of your turn, repair all of your artifacts by 1 durability.
 
 name:     Orbrider<br>
-text:     **Deploy:** Return an allied minion to your hand.
+text:     **Deploy**: Return an allied minion to your hand.
 
 name:     Pax<br>
 text:     **Dying Wish**: Summon two 2⚔️/1❤️ Sand Dervishes nearby.
@@ -253,7 +253,7 @@ name:     Reassemble<br>
 text:     Return an allied Obelysk to your hand and reduce its cost to 0. Draw a card.
 
 name:     Sand Trap<br>
-text:     Target an enemy minion. It can no longer move. At the end of your opponent's next turn a Exhuming Sand will be created underneath.
+text:     Target an enemy minion. It can no longer move. At the end of your opponent's next turn an Exhuming Sand will be created underneath.
 
 name:     Scion's Second Wish<br>
 text:     Give an allied minion +2⚔️/+2❤️. It takes no damage from Generals.
@@ -268,7 +268,7 @@ name:     Wind Dervish<br>
 text:     **Rush**
 
 name:     Wind Slicer<br>
-text:     **Deploy:** Lower the cost of all Structure minions in your hand by 1.
+text:     **Deploy**: Lower the cost of all Structure minions in your hand by 1.
 
 name:     Windstorm Obelysk<br>
 text:     **Summon Dervish**<br>
@@ -340,7 +340,7 @@ name:     Wither<br>
 text:     An enemy minion disappears at the start of your next turn.
 
 name:     Zephyr<br>
-text:     **Blood Surge**:  Your General gains **Frenzy** this turn.
+text:     **Blood Surge**: Your General gains **Frenzy** this turn.
 
 name:     Allomancer<br>
 text:     **Dying Wish**: Summon a random Obelysk on this space.
@@ -364,9 +364,8 @@ name:     Synaptic Arbitrage<br>
 text:     Give your opponent a minion to take control of nearby enemy minions with less ⚔️.
 
 name:     Trygon Obelysk<br>
-text:     **Summon Dervish**<br>
-          **Summon Dervish**<br>
-          **Summon Dervish**
+text:     **Summon Dervish** (3)<br>
+behavior: Changed (maybe)
 
 name:     Wasteland Wraith<br>
 text:     At the start of your turn, destroy this and all enemy minions.
@@ -401,7 +400,7 @@ name:     Lost in the Desert<br>
 text:     Deal 5 damage to enemies that are not nearby another enemy.
 
 name:     Sandswirl Reader<br>
-text:     **Deploy:** Return a minion to its owner's hand. Turn that space into Exhuming Sand.
+text:     **Deploy**: Return a minion to its owner's hand. Turn that space into Exhuming Sand.
 
 name:     Silica Weaver<br>
 text:     **Deploy**: Progresses MECHAZ0R build by +40%.
@@ -476,7 +475,7 @@ name:     Darkfire Sacrifice<br>
 text:     Destroy an allied minion. Your next minion costs 2 less.
 
 name:     Underlord Xor'xuul<br>
-text:     **Aspect**: During your opponent's turn any allied non-token minions killed this game will resurrect at the cost of 2 mana. You can only summon minions nearby your General.
+text:     **Aspect**: During your opponent's turn, any allied non-token minions killed this game will resurrect at the cost of 2 mana. You can only summon minions nearby your General.
 
 name:     AWESOME Awesomeness<br>
 text:     Summon 2 AWESOME Wraithlings nearby your General. All your other Wraithlings become AWESOME as well.<br>
@@ -486,7 +485,7 @@ name:     Abomination<br>
 text:
 
 name:     Abyssal Crawler<br>
-text:     At the end of your turn, turn a nearby space into **Shadow Creep**. Prioritizing the space in front if there is no tile on it.
+text:     At the end of your turn, turn a nearby space into Shadow Creep. Prioritizing the space in front if there is no tile on it.
 
 name:     Abyssal Scar<br>
 text:     Turn 1 space into Shadow Creep at the end of your turn.
@@ -525,7 +524,7 @@ name:     Relentless Shadow<br>
 text:     Summon a 1⚔️/1❤️ Wraithling. At the end of your turn put a Relentless Shadow into your hand.
 
 name:     Shadow Creeper<br>
-text:     **Dying Wish**: Create a **Shadow Creep** on this space.
+text:     **Dying Wish**: Create a Shadow Creep on this space.
 
 name:     Shadowspawn<br>
 text:     Summon 2 Wraithlings nearby.
@@ -589,7 +588,7 @@ name:     Nocturne<br>
 text:     Whenever you convert a space into Shadow Creep or summon a Wraithling, instead do both on the same space.
 
 name:     Ooz<br>
-text:     Whenever this minion takes damage, turn a space occupied by an enemy into **Shadow Creep**.
+text:     Whenever this minion takes damage, turn a space occupied by an enemy into Shadow Creep.
 
 name:     Phantasm<br>
 text:     Whenever your opponent summons a minion, give a minion in your hand +1⚔️.

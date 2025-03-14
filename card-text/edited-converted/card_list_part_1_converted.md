@@ -132,7 +132,7 @@ name:     Sunbond Pavise<br>
 text:     Allies directly above and below your General gain +2⚔️ and **Provoke**.
 
 name:     Sunstone Templar<br>
-text:     Whenever this attacks or counterattacks, it dispels that enemy
+text:     Whenever this attacks or counterattacks, it **Dispels** that enemy.
 
 name:     Suntouched Spirit<br>
 text:     This minion remembers all allied spells that targeted it.<br>
@@ -178,7 +178,7 @@ name:     Fealty<br>
 text:     Draw a card for each allied minion nearby your General.
 
 name:     Gryphon Fledgling<br>
-text:     **Zeal**: **Flying**
+text:     **Zeal**: **Flying**.
 
 name:     Heavy Sentry<br>
 text:     This minion has +2⚔️ and has all damage it takes reduced by 1 as long as it did not move since the start of its owner's turn.
@@ -251,7 +251,7 @@ name:     Lysian Brawler<br>
 text:     **Celerity**
 
 name:     Solpiercer<br>
-text:     **Zeal**: Ranged (2)
+text:     **Zeal**: **Ranged** (2).
 
 name:     Sun Sister Sterope<br>
 text:     Whenever anything is healed, put a **True Strike** into your hand.
@@ -287,14 +287,13 @@ behavior: Changed<br>
 mana:     Changed (4)
 
 name:     Halo Bulwark<br>
-text:     Allies nearby your General have **Forcefield.**
+text:     Allies nearby your General have **Forcefield**.
 
 name:     Holy Immolation<br>
 text:     Restore 4❤️ to an allied minion. Deal 4 damage to enemies around it.
 
 name:     Ironcliffe Guardian<br>
-text:     **Airdrop**<br>
-          **Provoke**
+text:     **Airdrop**, **Provoke**.
 
 name:     Oakenheart<br>
 text:     **Deploy**: Progresses MECHAZ0R build by +20%.<br>
@@ -337,7 +336,7 @@ name:     Indominus<br>
 text:     Your General is **Invulnerable** BUT cannot move or attack.
 
 name:     Peacekeeper<br>
-text:     **Frenzy**, **Airdrop**, **Provoke**, **Celerity**, **Forcefield**
+text:     **Frenzy**, **Airdrop**, **Provoke**, **Celerity**, **Forcefield**.
 
 name:     Alabaster Titan<br>
 text:     **Deploy**: If you have no spells in your deck, equip Skywind Glaives, Arclyte Regalia and Halo Bulwark.

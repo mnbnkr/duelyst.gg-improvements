@@ -20,7 +20,7 @@ name:     Abhorrent Unbirth<br>
 text:     Destroy all allied minions to summon a 1⚔️/1❤️ Abomination that gains their ⚔️, ❤️, and keywords.
 
 name:     Abyssal Juggernaut<br>
-text:     This minion has +2⚔️/+2❤️ for each allied **Shadow Creep** nearby or underneath it at the start of the turn.
+text:     This minion has +2⚔️/+2❤️ for each allied Shadow Creep nearby or underneath it at the start of the turn.
 
 name:     Blood Baronette<br>
 text:     **Deploy**: Double a Wraithling's ⚔️ and ❤️.
@@ -49,7 +49,7 @@ name:     Horrific Visage<br>
 text:     Give all enemy minions -4⚔️ until your next turn.
 
 name:     Horror Burster<br>
-text:     **Dying Wish**:  Transform a random allied minion into a 6⚔️/6❤️ Horror.
+text:     **Dying Wish**: Transform a random allied minion into a 6⚔️/6❤️ Horror.
 
 name:     Master of Shadows<br>
 text:     Allied Arcanyst minions have "**Deploy**: Deal 2 damage to an enemy".
@@ -59,7 +59,7 @@ text:     Destroy a damaged minion.
 
 name:     Putrid Dreadflayer<br>
 text:     **Flying**<br>
-          This minion will die if it's ever not on an allied **Shadow Creep**.
+          This minion will die if it's ever not on an allied Shadow Creep.
 
 name:     Ritual Banishing<br>
 text:     Destroy an allied minion to destroy an enemy minion.
@@ -97,7 +97,7 @@ text:     **Sentinel**: Spell cast.<br>
           Whenever your opponent casts a spell, put a 4⚔️/4❤️ Fiend into your hand.
 
 name:     Abyssal Noble<br>
-text:     **Ability** 4: Summon a random Demon on an allied **Shadow Creep**.
+text:     **Ability** 4: Summon a random Demon on an allied Shadow Creep.
 
 name:     Bloodtide Priestess<br>
 text:     **Deathwatch**: Summon a Wraithling on a random adjacent space.
@@ -120,7 +120,7 @@ text:     **Deploy**: Steal 2❤️ from the enemy General.<br>
           **Dying Wish**: Return Desolator to your hand at the end of the turn.
 
 name:     Gate to the Undervault<br>
-text:     **Build** (3), **Invulnerable**<br>
+text:     **Build** (3), **Invulnerable**.<br>
           **Deathwatch**: Summon a random Demon nearby.
 
 name:     Mindlathe<br>
@@ -174,7 +174,7 @@ text:     **Flying**<br>
 
 name:     Abyssal Tormentor<br>
 text:     **Provoke**<br>
-          At the end of your turn, each nearby allied unoccupied **Shadow Creep** space becomes a 3⚔️/2❤️ **Shadow Creeper**.
+          At the end of your turn, each nearby allied unoccupied Shadow Creep space becomes a 3⚔️/2❤️ Shadow Creeper.
 
 name:     Betrayal<br>
 text:     Enemy minions nearby their General attack their General.
@@ -187,7 +187,7 @@ text:
 
 name:     Klaxon<br>
 text:     **Provoke**<br>
-          **Dying Wish**:  Turn six random spaces into **Shadow Creep**.
+          **Dying Wish**: Turn six random spaces into Shadow Creep.
 
 name:     Moonrider<br>
 text:     **Blood Surge**: Summon a 4⚔️/4❤️ **Fiend** on a nearby space.
@@ -325,7 +325,7 @@ name:     Gro<br>
 text:     **Grow** +1⚔️/+1❤️
 
 name:     Invigoration<br>
-text:     **Intensify:** Restore 3❤️ to your General.
+text:     **Intensify**: Restore 3❤️ to your General.
 
 name:     Iridium Scale<br>
 text:     Your General gains **Frenzy**.
@@ -358,8 +358,7 @@ name:     Vaath's Brutality<br>
 text:     **Stun** an enemy minion. Give your General +1⚔️.
 
 name:     Warpup<br>
-text:     **Frenzy**<br>
-          **Forcefield**
+text:     **Frenzy**, **Forcefield**.
 
 name:     Young Silithar<br>
 text:     **Rebirth**
@@ -380,11 +379,14 @@ name:     Effulgent Infusion<br>
 text:     Give an allied minion +⚔️ equal to your General's ⚔️.
 
 name:     Endure the Beastlands<br>
-text:     Turn a 2x2 area into **Primal Flourish**.
+text:     Turn a 2x2 area into Primal Flourish.
+
+name:     **Primal Flourish** *(token & tooltip)*<br>
+text:     Allied minions occupying Primal Flourish get Grow +2⚔️/+2❤️.
 
 name:     Erratic Raptyr<br>
-text:     After this minion attacks or counterattacks, turn it into an Egg.<br>
-          **Rebirth**
+text:     **Rebirth**<br>
+          After this minion attacks or counterattacks, transform it into an Egg.
 
 name:     Kin<br>
 text:
@@ -393,28 +395,28 @@ name:     Kinetic Equilibrium<br>
 text:     Deal 2 damage to all minions in a 3x3 area. Allied minions in the area also gain +2⚔️.
 
 name:     Krater<br>
-text:     **Deploy:** Deal 1 damage to everything (including itself).
+text:     **Deploy**: Deal 1 damage to everything (including itself).
 
 name:     Moloki Huntress<br>
-text:     Nearby allied minions grow at the start of both player's turns.<br>
-          **Grow** +1⚔️/+1❤️
+text:     **Grow** +1⚔️/+1❤️<br>
+          Nearby allied minions grow at the start of both player's turns.
 
 name:     Natural Selection<br>
 text:     Destroy any minion with the lowest ⚔️ or tied for the lowest ⚔️.
 
 name:     Oropsisaur<br>
-text:     Whenever another nearby allied minion with **Grow** survives damage, that minion grows.<br>
-          **Grow** +1⚔️/+1❤️
+text:     **Grow** +1⚔️/+1❤️<br>
+          Whenever another nearby allied minion with **Grow** survives damage, that minion grows.
 
 name:     Primordial Gazer<br>
 text:     **Deploy**: Give an allied minion +2⚔️/+2❤️.
 
 name:     Pupabomb<br>
-text:     Return all eggs to your hand. They gain **Echo**.
+text:     Return all Eggs to your hand. They gain **Echo**.
 
 name:     Ragebinder<br>
-text:     **Bond**: Restore 3❤️ to your General.<br>
-          **Rebirth**
+text:     **Rebirth**<br>
+          **Bond**: Restore 3❤️ to your General.
 
 name:     Terradon<br>
 text:
@@ -426,7 +428,7 @@ name:     Upper Hand<br>
 text:     Deal 1 damage to an enemy minion for each card in your opponent's hand.
 
 name:     Verdant Fulmination<br>
-text:     Your minions on allied **Primal Flourish** grow. Turn your other minions' spaces into **Primal Flourish**.
+text:     Your minions on allied Primal Flourish grow. Turn your other minions' spaces into Primal Flourish.
 
 name:     Vindicator<br>
 text:     Whenever your opponent draws a card, this minion gains +2⚔️/+2❤️.
@@ -442,7 +444,7 @@ text:     Give an allied minion +1⚔️/+1❤️ for each time damage was dealt
 
 name:     Dreadnought<br>
 text:     **Ability** 1: move this minion 1 space. This ability does not exhaust.<br>
-          This minion cannot move. This effect cannot be dispelled.
+          This minion cannot move. This effect cannot be **dispelled**.
 
 name:     Drogon<br>
 text:     **Blood Surge**: Double your General's ⚔️ this turn.
@@ -477,7 +479,7 @@ name:     Mind Steal<br>
 text:     Steal a random minion from your opponent's deck and summon it.
 
 name:     Omniseer<br>
-text:     **Deploy**: Turn a space into **Primal Flourish**.
+text:     **Deploy**: Turn a space into Primal Flourish.
 
 name:     Progenitor<br>
 text:     **Deploy**: Up to 2 of your other non-Egg minions summon an Egg of themselves, behind themselves.
@@ -520,7 +522,7 @@ name:     Spirit Harvester<br>
 text:     At the end of your turn, deal 1 damage to all other minions.
 
 name:     Unstable Leviathan<br>
-text:     **Dwindle** -3⚔️/-3❤️. This effect cannot be dispelled.
+text:     **Dwindle** -3⚔️/-3❤️. This effect cannot be **dispelled**.
 
 name:     Visionar<br>
 text:     Whenever any player draws a card, this minion gains +1⚔️/+1❤️.
@@ -538,8 +540,7 @@ name:     Katastrophosaurus<br>
 text:
 
 name:     Makantor Warbeast<br>
-text:     **Frenzy**<br>
-          **Rush**
+text:     **Rush**, **Frenzy**
 
 name:     Metamorphosis<br>
 text:     Transform all enemy minions into 1⚔️/1❤️ Magma with no abilities until the end of your opponent's turn.
@@ -551,21 +552,21 @@ name:     Bounded Lifeforce<br>
 text:     Your General becomes 10⚔️/10❤️.
 
 name:     Silithar Elder<br>
-text:     At the end of your turn, summon a Silithar Elder Egg nearby.<br>
-          **Rebirth**
+text:     **Rebirth**<br>
+          At the end of your turn, summon a Silithar Elder Egg nearby.
 
 name:     Extinction Event<br>
 text:     Each of your Eggs hatches into a Katastrophosaurus.
 
+name:     **Katastrophosaurus** *(Extinction Event's token & tooltip)*<br>
+text:     A massive 6⚔️/26❤️ minion.
+
 name:     Juggernaut<br>
-text:     Whenever this minion takes damage, summon that many random Golem Eggs nearby.<br>
-          **Grow** +2⚔️/+2❤️
+text:     **Grow** +2⚔️/+2❤️<br>
+          Whenever this minion takes damage, summon that many random Golem Eggs nearby.
 
 name:     Saurian Finality<br>
-text:     **Stun** the enemy General.<br>
-          Your General gains +3⚔️.<br>
-          Both players lose 3 mana.<br>
-          Restore 10❤️ to your General.
+text:     **Stun** the enemy General. Your General gains +3⚔️. Both players lose 3 mana. Restore 10❤️ to your General.
 
 name:     Grandmaster Kraigon<br>
 text:     **Grow** +2⚔️/+2❤️, **Frenzy**, **Forcefield**.<br>
@@ -587,15 +588,14 @@ name:     Blazing Spines<br>
 text:     **Wall**
 
 name:     Bonechill Barrier<br>
-text:     Units next to this minion that attack it are **Stunned**.<br>
-          **Wall**
+text:     Summon three joined 0⚔️/2❤️ Vespyr Walls.
+
+name:     **Vespyr Wall** *(Bonechill Barrier's token & tooltip)*<br>
+text:     **Wall**<br>
+          Units that are nearby and attack this minion are **Stunned**.
 
 name:     Essence Sculpt<br>
-text:     Choose a **Stunned** minion. Put a copy of that card into your hand. Gain 1 mana this turn
+text:     Choose a **stunned** minion. Put a copy of it into your hand. Gain 1 mana this turn.
 
 name:     Flash Freeze<br>
 text:     Deal 1 damage to a minion and **Stun** it.
-
-name:     Gravity Well<br>
-text:     **Provoke**<br>
-          **Wall**

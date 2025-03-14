@@ -26,7 +26,7 @@ text:     **Airdrop**<br>
 
 name:     Wood-Wen<br>
 text:     **Provoke**<br>
-          **Deploy**: Give an allied minion **Provoke.**
+          **Deploy**: Give an allied minion **Provoke**.
 
 name:     Wrath<br>
 text:     **Celerity**
@@ -38,7 +38,7 @@ name:     Zyx<br>
 text:     **Deploy**: Summon a copy of this minion on a random nearby space.
 
 name:     Abjudicator<br>
-text:     **Deploy:** Lower the cost of all spells in your hand by 1.
+text:     **Deploy**: Lower the cost of all spells in your hand by 1.
 
 name:     Aegis Golem<br>
 text:     Can only be attacked or counterattacked by units that are adjacent to it.
@@ -57,7 +57,7 @@ name:     Bastion<br>
 text:     At the end of your turn, give all allied minions +1❤️.
 
 name:     Blaze Hound<br>
-text:     **Deploy:**Both players draw a card.
+text:     **Deploy**: Both players draw a card.
 
 name:     Bloodbound Mentor<br>
 text:     **Blood Surge**: Put a copy of your Bloodbound Spell into your hand.
@@ -79,7 +79,7 @@ name:     Crimson Oculus<br>
 text:     This minion gains +1⚔️/+1❤️ whenever your opponent summons a minion.
 
 name:     Crossbones<br>
-text:     **Deploy**: Destroy an enemy minion with Ranged.
+text:     **Deploy**: Destroy an enemy minion with **Ranged**.
 
 name:     Cruel Taskmaster<br>
 text:     **Ability** 1: Deal 2 damage to a nearby ally and reactivate it.
@@ -94,7 +94,7 @@ name:     Ephemeral Shroud<br>
 text:     **Deploy**: **Dispel** 1 space.
 
 name:     Gatekeeper<br>
-text:     Can only move vertically. This effect cannot be dispelled.
+text:     Can only move vertically. This effect cannot be **dispelled**.
 
 name:     Ghoulie<br>
 text:     This minion is from every tribe.
@@ -161,7 +161,7 @@ text:     **Celerity**<br>
           Whenever this minion attacks, give other allied minions +1⚔️/+1❤️.
 
 name:     Sellsoul<br>
-text:     **Dying Wish**: Deal 4 damage to YOUR General.
+text:     **Dying Wish**: Deal 4 damage to your General.
 
 name:     Silvertongue Corsair<br>
 text:     Takes no damage from Generals.
@@ -235,7 +235,7 @@ text:     **Flying**<br>
           After this minion moves, summon a Black Locust nearby.
 
 name:     Blistering Skorn<br>
-text:     **Deploy:** Deal 1 damage to everything (including itself).
+text:     **Deploy**: Deal 1 damage to everything (including itself).
 
 name:     Bloodsworn Gambler<br>
 text:     **Ranged** (2)<br>
@@ -284,7 +284,7 @@ name:     Loreweaver<br>
 text:     Whenever you draw a spell, put a copy of it into your hand.
 
 name:     MECHAZ0R!<br>
-text:     **Airdrop**, **Forcefield**, **Frenzy**, **Ranged** (4)
+text:     **Airdrop**, **Forcefield**, **Frenzy**, **Ranged** (4).
 
 name:     Matter Shaper<br>
 text:     **Deploy**: Destroy an enemy artifact to put a random artifact from your faction into your hand.
@@ -377,14 +377,13 @@ name:     Ash Mephyt<br>
 text:     **Deploy**: Summon two copies of this minion on random spaces.
 
 name:     Beastbound Savage<br>
-text:     **Frenzy**<br>
-          **Celerity**
+text:     **Frenzy**, **Celerity**.
 
 name:     Blue Conjurer<br>
 text:     Whenever you cast a spell, put a random Arcanyst into your hand.
 
 name:     Boulder Breacher<br>
-text:     **Bond:**: Enemies can't counterattack this turn.
+text:     **Bond**: Enemies can't counterattack this turn.
 
 name:     Brightmoss Golem<br>
 text:
@@ -405,7 +404,7 @@ name:     Dagger Kiri<br>
 text:     **Celerity**
 
 name:     Dancing Blades<br>
-text:     **Deploy:**Deal 3 damage to any minion in front of this.
+text:     **Deploy**: Deal 3 damage to any minion in front of this.
 
 name:     Envybaer<br>
 text:     Whenever this minion damages an enemy, teleport that enemy to a random corner.
@@ -486,7 +485,7 @@ text:
 
 name:     Dust Wailer<br>
 text:     **Flying**<br>
-          **Deploy:**Deal 3 damage to all enemies in front of this minion.
+          **Deploy**: Deal 3 damage to all enemies in front of this minion.
 
 name:     Facestriker<br>
 text:     Deals double damage to Generals.
@@ -509,9 +508,10 @@ text:     **Ranged** (2)<br>
           **Deploy**: Summon a 1⚔️/1❤️ **Ranged** Mini-Jax in each corner.
 
 name:     Lodestar<br>
-text:     **Forcefield**<br>
-          **Airdrop**<br>
-          At the end of both players' turns, pull some things to this minion.
+text:     **Airdrop**<br>
+          **Forcefield**<br>
+          At the end of each turn, pull at least one enemy unit 1 space closer to self (all others units have a 50% chance of moving).<br>
+behavior: Changed
 
 name:     Magesworn<br>
 text:     Both players cannot cast spells that cost 2 or less.
@@ -540,6 +540,9 @@ text:
 name:     Spriggin<br>
 text:     **Deploy**: Each player summons three Spriggin Kin nearby their General.<br>
           **Provoke**, **Ability** 3: Summon three Spriggin Kin nearby your General.
+
+name:     **Spriggin Kin** *(token & tooltip)*<br>
+text:     Cute tiny minion, 4 different kinds.
 
 name:     Storm Aratha<br>
 text:     **Flying**
@@ -599,7 +602,7 @@ name:     Rook<br>
 text:     **Deploy** and at the end of your turn: this minion gains a random Faction ability.
 
 name:     War Talon<br>
-text:     **Frenzy**, **Provoke**
+text:     **Frenzy**, **Provoke**.
 
 name:     Whistling Blade<br>
 text:     **Provoke**
