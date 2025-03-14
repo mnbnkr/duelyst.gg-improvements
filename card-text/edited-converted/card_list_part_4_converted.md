@@ -503,7 +503,7 @@ name:     Carcynus<br>
 text:     **Ability** 1: Gain +1❤️. Also gain **Provoke** until the start of your next turn.
 
 name:     Celebrant<br>
-text:     **Deploy**: Convert a space into a Mana Spring tile.
+text:     **Deploy**: Convert a space into Mana Spring.
 
 name:     **Mana Spring** *(Celebrant's token & tooltip)*<br>
 text:     +1 mana.

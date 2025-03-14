@@ -592,7 +592,7 @@ text:     Summon three joined 0⚔️/2❤️ Vespyr Walls.
 
 name:     **Vespyr Wall** *(Bonechill Barrier's token & tooltip)*<br>
 text:     **Wall**<br>
-          Units that are nearby and attack this minion are **Stunned**.
+          Units that attack this minion while being nearby, are **Stunned**.
 
 name:     Essence Sculpt<br>
 text:     Choose a **stunned** minion. Put a copy of it into your hand. Gain 1 mana this turn.
