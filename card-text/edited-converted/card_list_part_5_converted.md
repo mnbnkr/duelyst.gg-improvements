@@ -510,7 +510,7 @@ text:     **Ranged** (2)<br>
 name:     Lodestar<br>
 text:     **Airdrop**<br>
           **Forcefield**<br>
-          At the end of each turn, pull at least one enemy unit 1 space closer to self (all others units have a 50% chance of moving).<br>
+          At the end of each turn, pull at least one enemy unit 1 space closer to self (all others units are 50% likely to be pulled).<br>
 behavior: Changed
 
 name:     Magesworn<br>
@@ -539,9 +539,10 @@ text:
 
 name:     Spriggin<br>
 text:     **Deploy**: Each player summons three Spriggin Kin nearby their General.<br>
-          **Provoke**, **Ability** 3: Summon three Spriggin Kin nearby your General.
+          **Provoke**, **Ability** 3: Summon three Spriggin Kin nearby your General.<br>
+tooltip:  (Spriggin Kin card or text)
 
-name:     **Spriggin Kin** *(token & tooltip)*<br>
+name:     **Spriggin Kin** *(token)*<br>
 text:     Cute tiny minion, 4 different kinds.
 
 name:     Storm Aratha<br>
@@ -596,7 +597,7 @@ name:     Red Synja<br>
 text:     Whenever your General takes damage, deal 7 damage to a random nearby enemy minion.
 
 name:     Reliquarian<br>
-text:     **Deploy**: Forge an allied minion into a Faction artifact with equal ⚔️.
+text:     **Deploy**: Forge an allied minion into a Faction artifact with equal ⚔️, and equip it.
 
 name:     Rook<br>
 text:     **Deploy** and at the end of your turn: this minion gains a random Faction ability.

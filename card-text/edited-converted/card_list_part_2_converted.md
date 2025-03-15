@@ -475,7 +475,7 @@ name:     Darkfire Sacrifice<br>
 text:     Destroy an allied minion. Your next minion costs 2 less.
 
 name:     Underlord Xor'xuul<br>
-text:     **Aspect**: During your opponent's turn, any allied non-token minions killed this game will resurrect at the cost of 2 mana. You can only summon minions nearby your General.
+text:     **Aspect**: During your opponent's turn, any allied non-token minions destroyed this game will resurrect at the cost of 2 mana. You can only summon minions nearby your General.
 
 name:     AWESOME Awesomeness<br>
 text:     Summon 2 AWESOME Wraithlings nearby your General. All your other Wraithlings become AWESOME as well.<br>

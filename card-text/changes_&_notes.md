@@ -24,7 +24,7 @@ Damage yourself and all exposed units within a range of 2.<br>
 ---
 <br>
 
-- (for converted card_list.md files) Cards that have their behavior changed, will have additional field 'behavior: Changed'. And often the same cards could have their 'mana: Changed (X)' as well.
+- (for converted card_list.md files) Cards that have their behavior changed, will have additional field 'behavior: Changed'. And often the same cards could have their 'cost: Changed (X)' as well.
 
 - Game engine would replace ⚔️ and ❤️ with more appropriate symbols (would also need to include the associated words 'Attack' and 'Health' in the search index, since of course otherwise it often wouldn't be possible to find the cards you're looking for after this change).
 
@@ -38,13 +38,15 @@ Damage yourself and all exposed units within a range of 2.<br>
 
 <br>
 
-notes to self: Kotetsu, Exhuming Sand, "Turn a space ..", Shadow Creep, (make many Token cards searchable, and also included in tooltips), Mana Spring tile,
+notes to self: "Turn a space ..", Shadow Creep, Mana Spring tile,
 
 <br>
 
-### Suggestions
+### Needed Fixes
 ---
 <br>
 
+- Make Token cards searchable.<br>
+Display Token cards in tooltips - on hover and with right-click during a game.
 - *(when card itself is NOT doing the effect)* - writing both as "**stunned**", "**dispelled**", in bold this way, and also having "Stun" tooltip on hover.
 *(when card IS doing the effect)* - "**Stunned**", "**Dispelled**", capitalized.

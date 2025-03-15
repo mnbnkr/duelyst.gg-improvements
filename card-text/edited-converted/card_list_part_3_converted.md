@@ -193,7 +193,7 @@ name:     Moonrider<br>
 text:     **Blood Surge**: Summon a 4⚔️/4❤️ **Fiend** on a nearby space.
 
 name:     Nightsorrow Assassin<br>
-text:     This minions mana cost is reduced by 1 for each minion killed during your turn.
+text:     This minions mana cost is reduced by 1 for each minion destroyed during your turn.
 
 name:     Rite of the Undervault<br>
 text:     Draw to fill your hand.
@@ -379,9 +379,10 @@ name:     Effulgent Infusion<br>
 text:     Give an allied minion +⚔️ equal to your General's ⚔️.
 
 name:     Endure the Beastlands<br>
-text:     Turn a 2x2 area into Primal Flourish.
+text:     Turn a 2x2 area into Primal Flourish.<br>
+tooltip:  (Primal Flourish card or text)
 
-name:     **Primal Flourish** *(token & tooltip)*<br>
+name:     **Primal Flourish** *(token)*<br>
 text:     Allied minions occupying Primal Flourish get Grow +2⚔️/+2❤️.
 
 name:     Erratic Raptyr<br>
@@ -556,9 +557,10 @@ text:     **Rebirth**<br>
           At the end of your turn, summon a Silithar Elder Egg nearby.
 
 name:     Extinction Event<br>
-text:     Each of your Eggs hatches into a Katastrophosaurus.
+text:     Each of your Eggs hatches into a Katastrophosaurus.<br>
+tooltip:  (Katastrophosaurus card or text)
 
-name:     **Katastrophosaurus** *(Extinction Event's token & tooltip)*<br>
+name:     **Katastrophosaurus** *(token)*<br>
 text:     A massive 6⚔️/26❤️ minion.
 
 name:     Juggernaut<br>
@@ -588,9 +590,10 @@ name:     Blazing Spines<br>
 text:     **Wall**
 
 name:     Bonechill Barrier<br>
-text:     Summon three joined 0⚔️/2❤️ Vespyr Walls.
+text:     Summon three joined 0⚔️/2❤️ Vespyr Walls.<br>
+tooltip:  (Vespyr Wall card or text)
 
-name:     **Vespyr Wall** *(Bonechill Barrier's token & tooltip)*<br>
+name:     **Vespyr Wall** *(token)*<br>
 text:     **Wall**<br>
           Units that attack this minion while being nearby, are **Stunned**.
 

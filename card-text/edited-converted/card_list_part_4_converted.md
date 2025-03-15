@@ -97,9 +97,10 @@ name:     Ghost Wolf<br>
 text:
 
 name:     Gravity Well<br>
-text:     Summon four joined 0⚔️/1❤️ Gravity Walls.
+text:     Summon four joined 0⚔️/1❤️ Gravity Walls.<br>
+tooltip:  (Gravity Wall card or text)
 
-name:     **Gravity Wall** *(Gravity Well's token & tooltip)*<br>
+name:     **Gravity Wall** *(token)*<br>
 text:     **Wall**, **Provoke**.
 
 name:     Hearth-sister<br>
@@ -503,9 +504,10 @@ name:     Carcynus<br>
 text:     **Ability** 1: Gain +1❤️. Also gain **Provoke** until the start of your next turn.
 
 name:     Celebrant<br>
-text:     **Deploy**: Convert a space into Mana Spring.
+text:     **Deploy**: Convert a space into Mana Spring.<br>
+tooltip:  (Mana Spring card or text)
 
-name:     **Mana Spring** *(Celebrant's token & tooltip)*<br>
+name:     **Mana Spring** *(token)*<br>
 text:     +1 mana.
 
 name:     Crimson Guide<br>
@@ -519,9 +521,10 @@ text:     **Frenzy**
 
 name:     Dragonlark<br>
 text:     **Docile**, **Celerity**.<br>
-          Whenever this minion moves, summon an Eruptive Egg on its previous location.
+          Whenever this minion moves, summon an Eruptive Egg on its previous location.<br>
+tooltip:  (Eruptive Egg card or text)
 
-name:     **Eruptive Egg** *(Dragonlark's token & tooltip)*<br>
+name:     **Eruptive Egg** *(token)*<br>
 text:     **Docile**<br>
           If this minion dies during your opponent's turn, it deals 3 damage to all enemies around it.<br>
           This minion takes 1 damage at the end of your opponent's turn.

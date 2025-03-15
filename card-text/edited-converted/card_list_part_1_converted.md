@@ -181,7 +181,7 @@ name:     Gryphon Fledgling<br>
 text:     **Zeal**: **Flying**.
 
 name:     Heavy Sentry<br>
-text:     This minion has +2⚔️ and has all damage it takes reduced by 1 as long as it did not move since the start of its owner's turn.
+text:     If this did not move since the start of its owner's turn, it has +2⚔️ and +1 Armor.
 
 name:     Legion<br>
 text:     **Intensify**: Put 1 Crestfallen into your hand. Shuffle a copy of this minion into your deck.
@@ -289,9 +289,6 @@ mana:     Changed (4)
 name:     Halo Bulwark<br>
 text:     Allies nearby your General have **Forcefield**.
 
-name:     Holy Immolation<br>
-text:     Restore 4❤️ to an allied minion. Deal 4 damage to enemies around it.
-
 name:     Ironcliffe Guardian<br>
 text:     **Airdrop**, **Provoke**.
 
@@ -307,7 +304,11 @@ text:     **Zeal**: Draw 2 additional cards at the end of your turn.
 
 name:     War Exorcist<br>
 text:     **Provoke**<br>
-          At the start of your turn, Holy Immolation your damaged minions.
+          This casts Holy Immolation at the start of your turn.<br>
+tooltip:  (Holy Immolation card or text)
+
+name:     Holy Immolation<br>
+text:     Restore 4❤️ to an allied minion. Deal 4 damage to enemies around it.
 
 name:     Windcliffe Protector<br>
 text:     **Provoke**<br>
@@ -358,7 +359,24 @@ name:     Reva Eventide<br>
 text:     **Bloodbound Spell**: Summon a Heartseeker.
 
 name:     Shidai Stormblossom<br>
-text:     **Bloodbound Spell**: Draw a card at end of turn. Your **Bloodbound Spell** is **Kiyomori**.
+text:     **Bloodbound Spell**: Draw a card at end of turn. Your **Bloodbound Spell** is **Kiyomori**.<br>
+tooltip:  (Kiyomori, Kotetsu, Tanahashi and Murasame cards or texts)
+
+name:     **Kiyomori** (*token*)<br>
+text:     Your General may move 2 additional spaces this turn. Your **Bloodbound Spell** is **Kotetsu**.<br>
+tooltip:  (Kotetsu card or text)
+
+name:     **Kotetsu** (*token*)<br>
+text:     Give an ally **Backstab** (4) this turn. Your **Bloodbound Spell** is **Tanahashi**.<br>
+tooltip:  (Tanahashi card or text)
+
+name:     **Tanahashi** (*token*)<br>
+text:     Teleport an enemy 3 spaces. Your **Bloodbound Spell** is **Murasame**.<br>
+tooltip:  (Murasame card or text)
+
+name:     **Murasame** (*token*)<br>
+text:     Draw a card at end of turn. Your **Bloodbound Spell** is **Kiyomori**.<br>
+tooltip:  (Kiyomori card or text)
 
 name:     Juxtaposition<br>
 text:     Swap positions between any two minions.
@@ -413,23 +431,14 @@ name:     Katara<br>
 text:     **Backstab** (1)<br>
           **Ability** 1: Give a nearby allied minion **Backstab** (1) until the start of your next turn.
 
-name:     Kiyomori<br>
-text:     Your General may move 2 additional spaces this turn. Your **Bloodbound Spell** is **Kotetsu**.
-
 name:     Knucklestorm<br>
 text:     **Intensify**: Deal 1 damage to an enemy.
-
-name:     Kotetsu<br>
-text:     Give an ally **Backstab** (4) this turn. Your **Bloodbound Spell** is **Tanahashi**.
 
 name:     Mist Dragon Seal<br>
 text:     Give an allied minion +1⚔️ and teleport it anywhere.
 
 name:     Mist Walking<br>
 text:     Teleport your General up to 2 spaces.
-
-name:     Murasame<br>
-text:     Draw a card at end of turn. Your **Bloodbound Spell** is **Kiyomori**.
 
 name:     Obscuring Blow<br>
 text:     Give an ally **Backstab** (2).
@@ -442,9 +451,6 @@ text:     Lower the cost of all minions with **Backstab** in your hand by 1 and 
 
 name:     Spiral Counter<br>
 text:     Deal 8 damage to an exhausted enemy minion.
-
-name:     Tanahashi<br>
-text:     Teleport an enemy 3 spaces. Your **Bloodbound Spell** is **Murasame**.
 
 name:     Artifact Defiler<br>
 text:     Destroy all artifacts on the enemy General.
@@ -495,7 +501,7 @@ name:     Scroll Bandit<br>
 text:     **Backstab**: Steal a spell from your opponent's deck.
 
 name:     Second Self<br>
-text:     Put an EXACT copy of an allied minion into your hand.
+text:     Put an exact copy of an allied minion into your hand.
 
 name:     Suzumebachi<br>
 text:     Whenever you cast a spell, this minion gains **Backstab** (1) and +1 movement until your next turn.
