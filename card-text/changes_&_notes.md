@@ -9,12 +9,14 @@
 
 #### Friendly ➜ Allied
 
-#### new keyword:
+#### new keywords:
 > **Detonate** 'dealing X damage'<br>
 Damage yourself and all nearby units.<br>
 > **Detonate (2)**<br>
 Damage yourself and all exposed units within a range of 2.<br>
 (exposed = units 'in sight' of the detonating space)
+
+> **Move** (X)
 
 \+ much more
 
@@ -50,3 +52,14 @@ notes to self: "Turn a space ..", Shadow Creep, Mana Spring tile,
 Display Token cards in tooltips - on hover and with right-click during a game.
 - *(when card itself is NOT doing the effect)* - writing both as "**stunned**", "**dispelled**", in bold this way, and also having "Stun" tooltip on hover.
 *(when card IS doing the effect)* - "**Stunned**", "**Dispelled**", capitalized.
+
+<br>
+
+### Important Suggestions (should be part of Changes)
+---
+<br>
+
+- Increase battlefield size to **11 x 7**. It's better overall and also allows move effects (like **Move** (3)) be used more.<br>
+Generals start at a space away from the edge. Mana tile placement doesn't change relative to Generals and each other.<br>
+(this of course will affect cards in the game, and they will have to be adjusted)<br>
+First do a "Grand Battle" mode weekend with this new size, to let players get used to it and accept it better when it's permanent.

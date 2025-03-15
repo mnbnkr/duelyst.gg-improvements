@@ -27,8 +27,9 @@ text:     **Build** (2)<br>
           When this minion is built, gain +2 mana this turn.
 
 name:     Massacre Artist<br>
-text:     **Backstab** (2)<br>
-          After this minion attacks and backstabs, all attacks are backstabs this turn.
+text:     **Move** (3), **Backstab** (2).<br>
+          After this backstabs twice, all attacks are backstabs this turn.<br>
+behavior: Changed
 
 name:     Onyx Bear Seal<br>
 text:     Transform an enemy minion into a 0⚔️/2❤️ Panddo that cannot be attacked.
