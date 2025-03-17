@@ -69,7 +69,7 @@ First do a "Grand Fusion Mode" weekend with this new size, to let players get us
 - Backstab damage should not apply on counterattacks.
 - Artifacts that appear from 'thin-air' in their physical form (and usually equipped to General right then), are "Forged".
 
-
+<br>
 
 ### Other
 ---
