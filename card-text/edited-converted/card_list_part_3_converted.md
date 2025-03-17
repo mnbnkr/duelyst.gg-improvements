@@ -8,7 +8,7 @@ name:     Yielding Depths<br>
 text:     If you have three or more Shadow Creep, draw 2 cards.
 
 name:     AWESOME Abyssal Scar<br>
-text:     Summon a 4⚔️/4❤️ Fiend on every unoccupied allied Shadow Creep tile.
+text:     Summon a 4⚔️/4❤️ Fiend on every unoccupied allied Shadow Creep.
 
 name:     AWESOME Malice<br>
 text:     Destroy an allied minion. Summon Husks equal to the attack of that minion, nearby first.
@@ -20,13 +20,13 @@ name:     Abhorrent Unbirth<br>
 text:     Destroy all allied minions to summon a 1⚔️/1❤️ Abomination that gains their ⚔️, ❤️, and keywords.
 
 name:     Abyssal Juggernaut<br>
-text:     This minion has +2⚔️/+2❤️ for each allied Shadow Creep nearby or underneath it at the start of the turn.
+text:     At the start of turn, gain +2⚔️/+2❤️ for each allied Shadow Creep nearby, until end of turn.
 
 name:     Blood Baronette<br>
 text:     **Deploy**: Double a Wraithling's ⚔️ and ❤️.
 
 name:     Blood Echoes<br>
-text:     Destroy all allied minions and resummon them on random spaces at end of turn.
+text:     Destroy all allied minions and re-summon them on random spaces at end of turn.
 
 name:     Bonecrusher<br>
 text:     **Intensify**: This minion gains +5⚔️.
@@ -249,7 +249,7 @@ name:     Flash Reincarnation<br>
 text:     If the next card you play this turn is a minion, it costs 1 less and takes 1 damage.
 
 name:     Hatefurnace<br>
-text:     **Aspect**: Your General has 40❤️ but moves 1 less tile.
+text:     **Aspect**: Your General has 40❤️ but moves 1 less space.
 
 name:     Amplification<br>
 text:     Give a allied damaged minion +2⚔️ and +4❤️.
@@ -396,7 +396,7 @@ name:     Kinetic Equilibrium<br>
 text:     Deal 2 damage to all minions in a 3x3 area. Allied minions in the area also gain +2⚔️.
 
 name:     Krater<br>
-text:     **Deploy**: Deal 1 damage to everything (including itself).
+text:     **Deploy**: Deal 1 damage to everything (including self).
 
 name:     Moloki Huntress<br>
 text:     **Grow** +1⚔️/+1❤️<br>
@@ -423,7 +423,7 @@ name:     Terradon<br>
 text:
 
 name:     Thraex<br>
-text:     **Blood Surge**: All allied minions gain +1⚔️ (including itself).
+text:     **Blood Surge**: All allied minions gain +1⚔️ (including self).
 
 name:     Upper Hand<br>
 text:     Deal 1 damage to an enemy minion for each card in your opponent's hand.
@@ -529,7 +529,7 @@ name:     Visionar<br>
 text:     Whenever any player draws a card, this minion gains +1⚔️/+1❤️.
 
 name:     Armada<br>
-text:     **Blood Surge**: Deal 5 damage to the closest enemy.
+text:     **Blood Surge**: Deal 5 damage to the nearest enemy.
 
 name:     Chrysalis Burst<br>
 text:     Summon a random Egg in 4 random spaces.
@@ -565,7 +565,7 @@ text:     A massive 6⚔️/26❤️ minion.
 
 name:     Juggernaut<br>
 text:     **Grow** +2⚔️/+2❤️<br>
-          Whenever this minion takes damage, summon that many random Golem Eggs nearby.
+          Whenever this minion takes damage, summon a random Golem Egg for each damage taken nearby.
 
 name:     Saurian Finality<br>
 text:     **Stun** the enemy General. Your General gains +3⚔️. Both players lose 3 mana. Restore 10❤️ to your General.

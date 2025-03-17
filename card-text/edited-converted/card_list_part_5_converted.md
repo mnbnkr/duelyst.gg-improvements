@@ -235,7 +235,7 @@ text:     **Flying**<br>
           After this minion moves, summon a Black Locust nearby.
 
 name:     Blistering Skorn<br>
-text:     **Deploy**: Deal 1 damage to everything (including itself).
+text:     **Deploy**: Deal 1 damage to everything (including self).
 
 name:     Bloodsworn Gambler<br>
 text:     **Ranged** (2)<br>
@@ -331,7 +331,13 @@ name:     Spelljammer<br>
 text:     Each player draws an additional card at the end of their turns.
 
 name:     Sphynx<br>
-text:     **Deploy**: Put a Riddle in your opponent's hand.
+text:     **Deploy**: Put a Riddle into your opponent's hand.<br>
+tooltip:  (Riddle card or text)
+
+name:     Riddle<br>
+text:     Put this Riddle into your opponent's hand.<br>
+          If a Riddle is in your hand, you can't replace.<br>
+behavior: Maybe Changed
 
 name:     Sun Elemental<br>
 text:     **Ability** 2: Give up to two allied units +3⚔️ and Ephemeral.

@@ -49,7 +49,7 @@ keyword:  **Detonate**<br>
           Damage yourself and all nearby units.
 
 keyword:  **Detonate (2)**<br>
-          Damage yourself and all exposed units within a range of 2.
+          Damage yourself and all unobstructed units within a range of 2.
 
 keyword:  **Dispel**<br>
           Removes all effects from the target minion or space.
@@ -67,7 +67,7 @@ keyword:  **Equipped**<br>
           When the minion is **dispelled** or dies, its equipment drops and can be picked up by another allied minion.
 
 keyword:  **Flying**<br>
-          Can move to any open tile.
+          Can move through enemy units.
 
 keyword:  **Forcefield**<br>
           The first damage this unit takes every turn is negated.
@@ -96,6 +96,9 @@ keyword:  **Ranged (X)**<br>
 keyword:  **Rebirth**<br>
           On death, leave behind an Egg that will hatch into a copy of itself.
 
+keyword:  **Rooted**<br>
+          Cannot move. But can still teleport.
+
 keyword:  **Rush**<br>
           Can move and attack the same turn it came into play.
 
@@ -118,7 +121,7 @@ keyword:  **Stun**<br>
           The target minion cannot move or act for 1 turn.
 
 keyword:  **Summon Dervish**<br>
-          At the beginning of its owners turn this minion will summon a Wind Dervish on a nearby open tile.
+          At the beginning of its owners turn this minion will summon a Wind Dervish on a nearby space.
 
 keyword:  **Wall**<br>
           Walls cannot move. If a Wall is **dispelled** it will dissapear.

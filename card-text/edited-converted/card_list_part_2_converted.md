@@ -32,10 +32,10 @@ text:     **Move** (3), **Backstab** (2).<br>
 behavior: Changed
 
 name:     Onyx Bear Seal<br>
-text:     Transform an enemy minion into a 0⚔️/2❤️ Panddo that cannot be attacked.
+text:     Transform an enemy minion into a 0⚔️/2❤️ Panddo.
 
 name:     Pandamonium<br>
-text:     Transform all minions into 0⚔️/2❤️ Panddo that cannot be attacked until the end of turn.
+text:     Transform all minions into 0⚔️/2❤️ Panddos until the end of turn.
 
 name:     Storm Sister Alkyone<br>
 text:     Spells you cast that deal damage deal +1 damage.
@@ -59,7 +59,7 @@ name:     Onyx Jaguar<br>
 text:     Whenever an allied minion is moved for any reason, it gains +1⚔️/+1❤️.
 
 name:     Phoenix Barrage<br>
-text:     Deal 3 damage to anything. Put a **Phoenix Fire** into your hand.
+text:     Deal 3 damage to a unit. Put a **Phoenix Fire** into your hand.
 
 name:     Scarlet Viper<br>
 text:     **Flying**<br>
@@ -76,7 +76,7 @@ text:     **Ranged** (2)<br>
           Whenever you summon a minion with **Ranged**, that minion gains **Rush**.
 
 name:     Firestorm Mantra<br>
-text:     Steal ❤️ from the enemy General equal to twice the number of spells cast this turn.
+text:     Steal ❤️ from the enemy General equal to double the number of spells cast this turn.
 
 name:     Grandmaster Zendo<br>
 text:     The enemy General moves and attacks automatically.
@@ -85,14 +85,14 @@ name:     Ornate Hiogi<br>
 text:     	Whenever you cast a spell, draw a card.
 
 name:     Taegon the Citrine Dragon<br>
-text:     **Deploy**: All Enemies are pushed in the chosen direction.
+text:     **Deploy**: All enemies are pushed in the chosen direction.
 
 name:     Calligrapher<br>
 text:     **Rush**<br>
           Whenever this minion attacks, put three Songhai spells into your hand.
 
 name:     Eternity Painter<br>
-text:     At the end of your turn, transform all nearby enemy minions into 1⚔️/2❤️ Panddos that cannot be attacked.
+text:     At the end of your turn, transform all nearby enemy minions into 1⚔️/2❤️ Panddos.
 
 name:     Second-Sword Sarugi<br>
 text:     Your spells cost 2 less.
@@ -104,7 +104,7 @@ name:     Koan of Horns<br>
 text:     Transform all minions in your hand and deck into 0-cost Gore Horns. Draw 3 cards.
 
 name:     Spiral Technique<br>
-text:     Deal 8 damage to anything.
+text:     Deal 8 damage to a unit.
 
 name:     Kensho Vortex<br>
 text:     Costs 1 less for each spell you cast this game. Whenever you cast a spell this turn, summon a minion that costs up to 2 more nearby your General.
@@ -113,7 +113,7 @@ name:     Ciphyron Ascendant<br>
 text:     **Bloodbound Spell**: Give an enemy minion -2⚔️ until your next turn.
 
 name:     Scioness Sajj<br>
-text:     **Bloodbound Spell**: Your General deals double damage to and receives 2 less damage from minions this turn.
+text:     **Bloodbound Spell**: Until end of turn, your General deals double damage to minions and receives 2 less damage from minions.
 
 name:     Zirix Starstrider<br>
 text:     **Bloodbound Spell**: Summon a 2⚔️/2❤️ Iron Dervish on a random space nearby.
@@ -201,7 +201,7 @@ name:     Cosmic Flesh<br>
 text:     Give an allied minion +1⚔️/+3❤️ and **Provoke**.
 
 name:     Desert Scout<br>
-text:     **Ability** 2: Charges and deals 4 damage to an unobstructed enemy in this row that is at least 2 tiles away.
+text:     **Ability** 2: Charges and deals 4 damage to an unobstructed enemy in this row that is at least 2 spaces away.
 
 name:     Dunecaster<br>
 text:     **Deploy**: Give +2⚔️/+2❤️ to an allied Dervish. If it's a Wind Dervish, it no longer disappears.
@@ -254,7 +254,7 @@ name:     Reassemble<br>
 text:     Return an allied Obelysk to your hand and reduce its cost to 0. Draw a card.
 
 name:     Sand Trap<br>
-text:     Target an enemy minion. It can no longer move. At the end of your opponent's next turn an Exhuming Sand will be created underneath.
+text:     Give an enemy minion **Rooted**. At the end of your opponent's next turn, convert the space underneath it to Exhuming Sand.
 
 name:     Scion's Second Wish<br>
 text:     Give an allied minion +2⚔️/+2❤️. It takes no damage from Generals.
@@ -350,7 +350,7 @@ name:     Falcius<br>
 text:     **Deploy**: Your General gains +2⚔️ and takes no damage this turn.
 
 name:     Fate Seeker<br>
-text:     **Deploy**: Take control of a enemy minion. Retain control as long as this minion remains nearby the controlled enemy.
+text:     **Deploy**: Take control of an enemy minion. Retain control as long as this minion remains nearby the controlled enemy.
 
 name:     Hexblade<br>
 text:     Your General gains +3⚔️. Whenever your General damages an enemy minion, its ⚔️ becomes 1.
@@ -480,7 +480,7 @@ text:     **Aspect**: During your opponent's turn, any allied non-token minions 
 
 name:     AWESOME Awesomeness<br>
 text:     Summon 2 AWESOME Wraithlings nearby your General. All your other Wraithlings become AWESOME as well.<br>
-          And Summon a 4⚔️/4❤️ Fiend on every unoccupied allied Shadow Creep tile.
+          And Summon a 4⚔️/4❤️ Fiend on every unoccupied allied Shadow Creep.
 
 name:     Abomination<br>
 text:
@@ -519,7 +519,7 @@ name:     Nethermeld<br>
 text:     Teleport any minion to an allied Shadow Creep.
 
 name:     Painful Pluck<br>
-text:     **Intensify**: Turn 1 space into Shadow Creep. Cannot target spaces that has tiles.
+text:     **Intensify**: Turn 1 space into Shadow Creep. Cannot target spaces that have tiles.
 
 name:     Relentless Shadow<br>
 text:     Summon a 1⚔️/1❤️ Wraithling. At the end of your turn put a Relentless Shadow into your hand.
@@ -534,7 +534,7 @@ name:     Sphere Of Darkness<br>
 text:     Turn an enemy minion's space into Shadow Creep. Draw a card.
 
 name:     Storm Clone<br>
-text:     Clone your general on a random nearby tile. Put a Knucklestorm into your hand.
+text:     Clone your General onto a random nearby tile. Put a Knucklestorm into your hand.
 
 name:     Touch of Despair<br>
 text:     Give all enemy minions -1⚔️/-1❤️ for every Pillar on the field.
@@ -552,7 +552,7 @@ name:     Consuming Rebirth<br>
 text:     Destroy an allied minion. At the end of your turn, re-summon it on the same space and give it +1⚔️/+1❤️.
 
 name:     Darkspine Elemental<br>
-text:     **Deploy** and **Ability** 0: Relocate up to 2 shadow creep.
+text:     **Deploy** and **Ability** 0: Relocate up to 2 Shadow Creep.
 
 name:     Deathfire Crescendo<br>
 text:     Give an allied minion "**Deathwatch**: Gains +1⚔️/+1❤️".
@@ -562,7 +562,12 @@ text:     Deal 1 damage to an enemy minion. After it's attacked this turn, destr
 
 name:     Echoing Shriek<br>
 text:     **Echo**<br>
-          Create a minor summoning circle under each allied minion that dies this turn.
+          Convert spaces allied minions are destroyed on this turn to Minor Summoning Circle<br>
+behavior: Changed probably (now works retroactively)
+tooltip:  (Minor Summoning Circle card or text)
+
+name:     Minor Summoning Circle<br>
+text:     Whenever an allied minion is summoned on this space, it gains +1/+1.
 
 name:     Fiend<br>
 text:

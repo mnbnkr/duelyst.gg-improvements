@@ -11,7 +11,7 @@ name:     Beam Shock<br>
 text:     **Stun** an enemy.
 
 name:     Grand Strategos<br>
-text:     **Aspect**: Your BBS now also promotes up to 2 allied minions but costs 2 mana. Your deck may not contain any minion that costs more than 2 mana.
+text:     **Aspect**: Your BBS now also promotes up to 2 allied minions, but costs 2. Your deck may not contain any minion that costs more than 2.
 
 name:     Steadfast Formation<br>
 text:     Give allied minions in a 2x2 area **Provoke** and +1❤️.
@@ -75,7 +75,7 @@ name:     Slo<br>
 text:     **Provoke**
 
 name:     Sundrop Elixir<br>
-text:     Restore 5❤️ to anything.
+text:     Restore 5❤️ to a unit.
 
 name:     Sunrise Cleric<br>
 text:     **Deploy**: Turn a space into **Hallowed Ground**.
@@ -101,16 +101,16 @@ text:     **Echo**<br>
           At the start of your next turn give a minion +⚔️ equal to its ❤️.
 
 name:     Fiz<br>
-text:     **Deploy**: Restore 2❤️ to anything.
+text:     **Deploy**: Restore 2❤️ to a unit.
 
 name:     Gold Vitriol<br>
-text:     Whenever you heal anything, deal 2 damage to a random enemy.
+text:     Whenever you heal a unit, deal 2 damage to a random enemy.
 
 name:     Lasting Judgement<br>
 text:     Give any minion +3⚔️, but -3❤️.
 
 name:     Lightchaser<br>
-text:     Whenever anything is healed, this minion gains +1⚔️/+1❤️.
+text:     Whenever a unit is healed, this minion gains +1⚔️/+1❤️.
 
 name:     Lucent Beam<br>
 text:     If a unit was healed this turn, deal 4 damage to a unit. Otherwise deal 2 damage.<br>
@@ -142,7 +142,7 @@ name:     Tempest<br>
 text:     Deal 2 damage all minions and Generals.
 
 name:     Vale Ascension<br>
-text:     Summon a random allied non-token minion destroyed this game onto allied Hallowed Ground.
+text:     Summon a random allied non-token minion destroyed this game onto an allied Hallowed Ground.
 
 name:     War Surge<br>
 text:     Give all allied minions +1⚔️/+1❤️.
@@ -181,7 +181,7 @@ name:     Gryphon Fledgling<br>
 text:     **Zeal**: **Flying**.
 
 name:     Heavy Sentry<br>
-text:     If this did not move since the start of its owner's turn, it has +2⚔️ and +1 Armor.
+text:     If this has not moved since the start of its owner's turn, it has +2⚔️ and +1 Armor.
 
 name:     Legion<br>
 text:     **Intensify**: Put 1 Crestfallen into your hand. Shuffle a copy of this minion into your deck.
@@ -254,14 +254,14 @@ name:     Solpiercer<br>
 text:     **Zeal**: **Ranged** (2).
 
 name:     Sun Sister Sterope<br>
-text:     Whenever anything is healed, put a **True Strike** into your hand.
+text:     Whenever a unit is healed, put a **True Strike** into your hand.
 
 name:     Sunbreaker<br>
 text:     **Forcefield**<br>
           Your **Bloodbound Spell** is **Tempest**.
 
 name:     Sunriser<br>
-text:     Whenever you heal anything, deal 2 damage to all nearby enemies.
+text:     Whenever you heal a unit, deal 2 damage to all nearby enemies.
 
 name:     Sunstrike<br>
 text:     Deal 3 damage to enemies and restore 3❤️ to allies in a row.
@@ -331,7 +331,7 @@ name:     Call to Arms<br>
 text:     Your General gains "Minions you summon nearby gain +3⚔️/+3❤️".
 
 name:     Grandmaster Z'ir<br>
-text:     When your General dies, Grandmaster Z'ir becomes your General.
+text:     If your General is destroyed, Grandmaster Z'ir becomes your General.
 
 name:     Indominus<br>
 text:     Your General is **Invulnerable** BUT cannot move or attack.
@@ -344,13 +344,13 @@ text:     **Deploy**: If you have no spells in your deck, equip Skywind Glaives,
 
 name:     Excelsious<br>
 text:     **Celerity**, **Provoke**<br>
-          This minion gains +1⚔️/+1❤️ for each time you healed anything this game.
+          This minion gains +1⚔️/+1❤️ for each time you healed a unit this game.
 
 name:     Sky Phalanx<br>
 text:     Summon three Silverguard Knights nearby your General.
 
 name:     Amaranthine Vow<br>
-text:     Summon around your General all allies with **Provoke** that died this game.
+text:     Allies with **Provoke** destroyed this game are summoned around your General.
 
 name:     Kaleos Xaan<br>
 text:     **Bloodbound Spell**: Teleport an allied minion up to 2 spaces.
@@ -492,7 +492,7 @@ name:     Mirror Meld<br>
 text:     Summon a copy of an allied minion nearby that costs 2 or less.
 
 name:     Phoenix Fire<br>
-text:     Deal 3 damage to anything.
+text:     Deal 3 damage to a unit.
 
 name:     Saberspine Seal<br>
 text:     Give a minion or General +3⚔️ this turn.
@@ -570,7 +570,7 @@ name:     Orizuru<br>
 text:     **Flying**
 
 name:     Pandatentiary<br>
-text:     Surround the enemy General with allied **Panddo** that disappear at the start of your next turn.
+text:     Surround the enemy General with allied **Panddos** that disappear at the start of your next turn.
 
 name:     Penumbraxx<br>
 text:     **Build** (2)<br>
@@ -597,7 +597,7 @@ name:     Unbounded Energy Amulet<br>
 text:     Your General gains +1⚔️. Your General may move an additional space.
 
 name:     Whiplash<br>
-text:     **Deploy** and **Ability** 1: Deal 2 damage to anything.
+text:     **Deploy** and **Ability** 1: Deal 2 damage to a unit.
 
 name:     Widowmaker<br>
 text:     **Equipped** with Blacksteel Glave.

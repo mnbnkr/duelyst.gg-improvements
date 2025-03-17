@@ -179,7 +179,7 @@ name:     Glacial Fissure<br>
 text:     Deal 8 damage to EVERYTHING in the center column.
 
 name:     Hailstone Prison<br>
-text:     Return any minion to its owner's hand.
+text:     Return a minion to its owner's hand.
 
 name:     Hydrogarm<br>
 text:     **Blood Surge**: Deal 1 damage to enemy minions in this row and **Stun** them.
@@ -233,10 +233,10 @@ text:     Deal 1 damage to all enemies in a 3x3 area. Enemies damaged by this ca
 behavior: Changed
 
 name:     Cryogenesis<br>
-text:     Deal 4 damage to an enemy minion. Draw a Vespyr minion.
+text:     Deal 4 damage to an enemy minion. Draw a Vespyr.
 
 name:     Denadoro<br>
-text:     **Infiltrate**: Your General has **Infiltrate**: +1⚔️ and **Force Field**.
+text:     **Infiltrate**: Your General has **Infiltrate**: +1⚔️ and **Forcefield**.
 
 name:     Endless Hunt<br>
 text:     Summon a 3⚔️/3❤️ Vespyr **Night Howler**. Put an Endless Hunt into your hand.
@@ -382,9 +382,6 @@ text:     Reduce the cost of all cards in your hand by 1.
 name:     Mana Infusion<br>
 text:     Reduce the cost of all cards in your hand by 2.
 
-name:     Minor Summoning Circle<br>
-text:     Whenever a firendly minion is summoned on this space, it gains +1⚔️/+1❤️.
-
 name:     Mythron Wanderer<br>
 text:     **Aspect**: The first minion you summon during your turn gets +0⚔️/+1❤️. You many only have 1 copy of each card in your deck.
 
@@ -425,10 +422,10 @@ name:     Lesson of Courage<br>
 text:     Give your General +1⚔️.
 
 name:     Lesson of Power<br>
-text:     Deal 2 damage to anything.
+text:     Deal 2 damage to a unit.
 
 name:     Lesson of Wisdom<br>
-text:     Restore 3❤️ to anything.
+text:     Restore 3❤️ to a unit.
 
 name:     Mini-jax<br>
 text:     **Ranged** (4)
@@ -511,7 +508,7 @@ name:     **Mana Spring** *(token)*<br>
 text:     +1 mana.
 
 name:     Crimson Guide<br>
-text:     At the end of its owner's turn this minion creates a minor summoning circle on its location.
+text:     At the end of its owner's turn this minion converts the space underneath it to a Minor Summoning Circle.
 
 name:     Cryptographer<br>
 text:     **Deploy**: Refresh your Bloodbound Spell.
@@ -548,10 +545,10 @@ name:     Golem Metallurgist<br>
 text:     The first Golem you summon each turn costs 1 less.
 
 name:     Healing Mystic<br>
-text:     **Deploy**: Restore 2❤️ to anything.
+text:     **Deploy**: Restore 2❤️ to a unit.
 
 name:     Healing Sage<br>
-text:     **Deploy**: Restore 1❤️ to anything.<br>
+text:     **Deploy**: Restore 1❤️ to a unit.<br>
           **Ability** 3: Summon an allied non-token minion that was destroyed since your opponent's last turn nearby.
 
 name:     Jaxi<br>
@@ -587,9 +584,6 @@ text:     **Deploy**: Draw another Replicant.
 name:     Rescue-RX<br>
 text:     **Build** (2)<br>
           When this minion is built, restore 5❤️ to your General.
-
-name:     Riddle<br>
-text:     While you have the Riddle, you cannot replace. Cast to give your opponent a Riddle.
 
 name:     Rift Beast<br>
 text:     **Ability** 1: Draw a card.
