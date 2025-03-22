@@ -392,7 +392,7 @@ name:     Bloodtear Alchemist<br>
 text:     **Deploy**: Deal 1 damage to an enemy.
 
 name:     Devour<br>
-text:     Devour any minion with the highest attack or tied for the highest ⚔️, gain its stats and keywords.
+text:     Devour any minion with the highest ⚔️ or tied for the highest ⚔️, gain its stats and keywords.
 
 name:     Dex<br>
 text:     **Celerity**
@@ -483,7 +483,7 @@ name:     Araki Headhunter<br>
 text:     Whenever you summon a minion with **Deploy** from your hand, gain +2⚔️.
 
 name:     Araras Prophet<br>
-text:     Whenever you replace a card, shuffle a Brilliant Plume into your deck.
+text:     Whenever you replace, shuffle a Brilliant Plume into your deck.
 
 name:     Azure Herald<br>
 text:     **Deploy**: Restore 3❤️ to your General.

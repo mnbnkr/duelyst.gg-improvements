@@ -11,7 +11,7 @@ name:     AWESOME Abyssal Scar<br>
 text:     Summon a 4⚔️/4❤️ Fiend on every unoccupied allied Shadow Creep.
 
 name:     AWESOME Malice<br>
-text:     Destroy an allied minion. Summon Husks equal to the attack of that minion, nearby first.
+text:     Destroy an allied minion. Summon Husks equal to the ⚔️ of that minion, nearby first.
 
 name:     AWESOME Shadow Spawn<br>
 text:     Summon 2 AWESOME Wraithlings nearby your General. All your other Wraithlings become AWESOME as well.
@@ -243,7 +243,7 @@ name:     Chrysalis Egg<br>
 text:     Will hatch at the start of its owner's turn
 
 name:     Dampening Wave<br>
-text:     Choose an enemy minion. It can no longer counterattack.
+text:     Target an enemy minion. It can no longer counterattack.
 
 name:     Flash Reincarnation<br>
 text:     If the next card you play this turn is a minion, it costs 1 less and takes 1 damage.
@@ -298,7 +298,8 @@ name:     Tremor<br>
 text:     **Stun** enemy minions in a 2x2 area.
 
 name:     Vyling<br>
-text:     Whenever a minion is summoned that has more attack or maximum ❤️ than this minion, this minion gains +1⚔️/+1❤️.
+text:     Whenever a minion is summoned that has more ⚔️ or ❤️ than this minion, this minion gains +1⚔️/+1❤️.
+behavior: Changed probably (no longer maximum Health)
 
 name:     Angered Okkadok<br>
 text:     **Intensify**: This minion gains +2⚔️/+2❤️.
@@ -343,7 +344,7 @@ name:     Primal Ballast<br>
 text:     **Dispel** a space. If there is a minion on that space, give it +2⚔️/+2❤️.
 
 name:     Rancour<br>
-text:     Whenever your General takes damage, this minion gains that much attack.
+text:     Whenever your General takes damage, this minion gains that much ⚔️.
 
 name:     Savage Chain<br>
 text:     During your opponent's turn, whenever an enemy minion moves to or is summoned nearby your general, your general deals 2 damage to it.

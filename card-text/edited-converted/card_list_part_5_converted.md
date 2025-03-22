@@ -94,7 +94,7 @@ name:     Ephemeral Shroud<br>
 text:     **Deploy**: **Dispel** 1 space.
 
 name:     Gatekeeper<br>
-text:     Can only move vertically. This effect cannot be **dispelled**.
+text:     Can move only vertically. This effect cannot be **dispelled**.
 
 name:     Ghoulie<br>
 text:     This minion is from every tribe.
@@ -154,7 +154,8 @@ name:     Sarlac the Eternal<br>
 text:     **Dying Wish**: Re-summon this minion on a random space.
 
 name:     Scarzig<br>
-text:     If this minion destroys an enemy and survives, allied Scarzig anywhere transform into Feather Knights.
+text:     If this minion destroys an enemy and survives, allied Scarzig **anywhere** transform into Scarzig, Feather Knights.<br>
+tooltip:  **anywhere** On the board, in the hand, in the deck.
 
 name:     Scarzig, Feather Knight<br>
 text:     **Celerity**<br>
@@ -198,7 +199,7 @@ name:     Tombstone<br>
 text:     **Provoke**
 
 name:     Unbound Berserker<br>
-text:     **Ability** 3: Take damage until 1❤️ remains and gain double the amount lost as attack. This ability does not exhaust.
+text:     **Ability** 3: Take damage until 1❤️ remains and gain double the amount lost as ⚔️. This ability does not exhaust.
 
 name:     Venom Toth<br>
 text:     Whenever your opponent summons a minion, deal 1 damage to the enemy General.
@@ -215,7 +216,7 @@ text:     After this minion moves, give all allied minions around it +1⚔️/+1
 
 name:     Wings of Paradise<br>
 text:     **Flying**<br>
-          Whenever you replace a card, this minion gains +2⚔️ this turn.
+          Whenever you replace, this minion gains +2⚔️ this turn.
 
 name:     Yun<br>
 text:
@@ -259,7 +260,7 @@ name:     Emerald Rejuvenator<br>
 text:     **Deploy**: Restore 4❤️ to your General.
 
 name:     Feralu<br>
-text:     Allied minions from any tribe have +1⚔️/+1❤️.<br>
+text:     Allied tribal minions have +1⚔️/+1❤️.<br>
           **Ability** 2: Put 2 copies of a nearby tribal minion into your hand.
 
 name:     Fire Spitter<br>
@@ -337,7 +338,7 @@ tooltip:  (Riddle card or text)
 name:     Riddle<br>
 text:     Put this Riddle into your opponent's hand.<br>
           If a Riddle is in your hand, you can't replace.<br>
-behavior: Maybe Changed
+behavior: maybe Changed
 
 name:     Sun Elemental<br>
 text:     **Ability** 2: Give up to two allied units +3⚔️ and Ephemeral.
@@ -368,7 +369,7 @@ name:     Unseven<br>
 text:     **Dying Wish**: Summon a minion with **Dying Wish** from your hand.
 
 name:     White Widow<br>
-text:     Whenever you replace a card, deal 2 damage to a random enemy.
+text:     Whenever you replace, deal 2 damage to a random enemy.
 
 name:     Young Flamewing<br>
 text:     **Flying**
@@ -500,14 +501,14 @@ name:     First Sword of Akrane<br>
 text:     Your other minions have +1⚔️.
 
 name:     Grimes<br>
-text:     **Deploy** and **Dying Wish**: Summon a random minion from any tribe nearby.
+text:     **Deploy** and **Dying Wish**: Summon a random tribal minion nearby.
 
 name:     Grove Lion<br>
 text:     While this minion is on the battlefield, your General has Forcefield.
 
 name:     Inquisitor Kron<br>
 text:     **Provoke**<br>
-          Whenever you replace a card, summon a 2⚔️/2❤️ Prisoner with a random ability nearby.
+          Whenever you replace, summon a 2⚔️/2❤️ Prisoner with a random ability nearby.
 
 name:     Jax Truesight<br>
 text:     **Ranged** (2)<br>

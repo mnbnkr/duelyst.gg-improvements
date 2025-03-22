@@ -73,7 +73,7 @@ keyword:  **Forcefield**<br>
           The first damage this unit takes every turn is negated.
 
 keyword:  **Frenzy**<br>
-          Whenever this minion attacks a unit next to it, it will also deal its attack damage to all enemies around it.
+          Whenever this minion attacks a unit next to it, it will also deal its ⚔️ damage to all enemies around it.
 
 keyword:  **Grow** +1⚔️/+1❤️<br>
           Unit gains +1⚔️/+1❤️ at the begining of its owner's turn.
@@ -85,7 +85,8 @@ keyword:  **Intensify**<br>
           Effect triggers when card comes into play. Effect gets more potent each time the card is played by the same player.
 
 keyword:  **Invulnerable**<br>
-          Cannot be destroyed, damaged, **dispelled** or targeted by anything.
+          Cannot be destroyed, damaged or **dispelled**.<br>
+behavior: Changed
 
 keyword:  **Provoke**<br>
           Enemies around this unit cannot move or activate Abilities, and can only attack this unit.
@@ -132,11 +133,14 @@ keyword:  **Zeal**<br>
 <br>
 <br>
 
+tooltip:  **anywhere**<br>
+          On the board, in the hand, in the deck.
+
 tooltip:  **Awesome Abyssal Scar**<br>
           Summon 4⚔️/4❤️ Fiends on every allied Shadow Creep.
 
 tooltip:  **Awesome Malice**<br>
-          Summon as many 4⚔️/4❤️ Husks as the attack of your sacrifice.
+          Summon as many 4⚔️/4❤️ Husks as the ⚔️ of your sacrifice.
 
 tooltip:  **Awesome Shadow Spawn**<br>
           Your Wraithlings are 5⚔️/5❤️.

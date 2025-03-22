@@ -1,5 +1,6 @@
 name:     Bakezori<br>
-text:     Whenever this minion is moved for any reason, draw a card.
+text:     Whenever this minion changes location, draw a card.
+behavior: maybe Changed
 
 name:     Bamboozle<br>
 text:     Transform a nearby enemy minion into a 0⚔️/2❤️ Panddo. If it's already a Panddo, destroy it instead and draw to fill your hand.
@@ -98,7 +99,7 @@ name:     Second-Sword Sarugi<br>
 text:     Your spells cost 2 less.
 
 name:     Storm Kage<br>
-text:     Whenever one of your spells deals damage, put a Kage Lightning in your hand.
+text:     Whenever you cast a spell that successfully deals damage, put a Kage Lightning into your hand.
 
 name:     Koan of Horns<br>
 text:     Transform all minions in your hand and deck into 0-cost Gore Horns. Draw 3 cards.

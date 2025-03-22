@@ -37,13 +37,11 @@ Cannot move. But can still teleport.
 
 - maybe Dispel: Removes all applied buffs permanently, and suppresses all effects from the target minion or space for 2 turns.
 
-- Provoke already strong, should allow activating Abilities.
-
 - maybe Devour keyword.
 
 <br>
 
-notes to self: "Turn a space ..", Shadow Creep, Mana Spring tile,
+notes to self: "Turn a space ..", Shadow Creep, Mana Spring tile, Nature's Confluence, Invulnerable, (Target enemy minions instead of Choosing? also avoid using Choose in general, it's implicit),
 
 <br>
 
@@ -63,11 +61,12 @@ Display Token cards in tooltips - on hover and with right-click during a game.
 <br>
 
 - Increase battlefield size to **11 x 7**. It's better overall and also allows move effects (like **Move** (3)) be used more.<br>
-Generals start at a space away from the edge. Mana tile placement doesn't change relative to Generals and each other.<br>
+As if a frame of spaces is added around current battlefield.<br>
 (this of course will affect cards in the game, and they will have to be adjusted)<br>
 First do a "Grand Fusion Mode" weekend with this new size, to let players get used to it and accept it better when it's permanent. (Maybe also increasing max mana to 12 for this mode, to better implement this "Grand" theme)
 - Backstab damage should not apply on counterattacks.
 - Artifacts that appear from 'thin-air' in their physical form (and usually equipped to General right then), are "Forged".
+- Provoke already strong, allow activating Abilities while provoked.
 
 <br>
 

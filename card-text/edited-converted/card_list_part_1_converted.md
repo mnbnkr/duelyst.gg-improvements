@@ -334,7 +334,8 @@ name:     Grandmaster Z'ir<br>
 text:     If your General is destroyed, Grandmaster Z'ir becomes your General.
 
 name:     Indominus<br>
-text:     Your General is **Invulnerable** BUT cannot move or attack.
+text:     Your General is **Invulnerable**, **Rooted** and cannot attack.<br>
+behavior: Changed maybe
 
 name:     Peacekeeper<br>
 text:     **Frenzy**, **Airdrop**, **Provoke**, **Celerity**, **Forcefield**.
