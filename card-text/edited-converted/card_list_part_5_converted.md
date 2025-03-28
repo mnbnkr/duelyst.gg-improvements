@@ -22,7 +22,7 @@ text:     **Ranged** (2)
 
 name:     Wings of MECHAZ0R<br>
 text:     **Airdrop**<br>
-          **Deploy**: Progresses MECHAZ0R build by +20%.
+          **Deploy**: Progresses MECHAZ0R assembly by +20%.
 
 name:     Wood-Wen<br>
 text:     **Provoke**<br>
@@ -70,7 +70,7 @@ text:     Enemies in the 3 spaces in front of this minion have -2⚔️.
 
 name:     Cannon of MECHAZ0R<br>
 text:     **Ranged** (2)<br>
-          **Deploy**: Progresses MECHAZ0R build by +20%.
+          **Deploy**: Progresses MECHAZ0R assembly by +20%.
 
 name:     Chaos Elemental<br>
 text:     Whenever this minion takes damage, it randomly teleports.
@@ -185,7 +185,7 @@ text:     Whenever this minion deals damage, restore 2❤️ to your General.
 
 name:     Sword of MECHAZ0R<br>
 text:     **Frenzy**<br>
-          **Deploy**: Progresses MECHAZ0R build by +20%.
+          **Deploy**: Progresses MECHAZ0R assembly by +20%.
 
 name:     Sworn Avenger<br>
 text:     **Ranged** (2)<br>
@@ -212,7 +212,7 @@ text:     **Frenzy**<br>
           Whenever an enemy attacks during the opponent's turn, this minion gains +3⚔️ until the end of your turn.
 
 name:     Wind Runner<br>
-text:     After this minion moves, give all allied minions around it +1⚔️/+1❤️.
+text:     After this minion moves, give nearby allied minions +1⚔️/+1❤️.
 
 name:     Wings of Paradise<br>
 text:     **Flying**<br>
@@ -251,7 +251,7 @@ text:     **Ranged** (2)<br>
 
 name:     Chassis of MECHAZ0R<br>
 text:     **Forcefield**<br>
-          **Deploy**: Progresses MECHAZ0R build by +20%.
+          **Deploy**: Progresses MECHAZ0R assembly by +20%.
 
 name:     Dioltas<br>
 text:     **Dying Wish**: Summon a 0⚔️/8❤️ Tombstone minion with **Provoke** near your General.
@@ -279,7 +279,7 @@ name:     Hailstone Golem<br>
 text:
 
 name:     Hsuku<br>
-text:     At the end of any player's turn, give one of their minions a random buff and keyword (excluding Hsuku).
+text:     At the end of any player's turn, randomly give one of their minions a random buff and keyword (excluding Hsuku).
 
 name:     Loreweaver<br>
 text:     Whenever you draw a spell, put a copy of it into your hand.
@@ -298,7 +298,8 @@ text:     At the start of your turn, fully heal this minion and swap its ⚔️ 
 
 name:     Night Watcher<br>
 text:     **Forcefield**<br>
-          Whenever any player summons a minion with Rush, exhaust it.
+          Whenever any player summons a minion with **Rush**, exhaust it.<br>
+tooltip:  **Rush** keyword description.
 
 name:     Owlbeast Sage<br>
 text:     Whenever you cast a spell, your nearby Arcanyst minions gain +2❤️.
@@ -375,7 +376,7 @@ name:     Young Flamewing<br>
 text:     **Flying**
 
 name:     Alcuin Fugitive<br>
-text:     At the end of any turn you cast a spell, put a copy of the most recently cast spell into your hand.
+text:     At the end of any turn you've cast a spell, put a copy of the most recently cast spell into your hand.
 
 name:     Alter Rexx<br>
 text:     Whenever you summon MECHAZ0R, put a MECHAZ0R into your hand.
@@ -411,7 +412,7 @@ name:     Dagger Kiri<br>
 text:     **Celerity**
 
 name:     Dancing Blades<br>
-text:     **Deploy**: Deal 3 damage to any minion in front of this.
+text:     **Deploy**: Deal 3 damage to a minion in front of this.
 
 name:     Envybaer<br>
 text:     Whenever this minion damages an enemy, teleport that enemy to a random corner.
@@ -429,7 +430,7 @@ name:     Grincher<br>
 text:     **Deploy**: Add a random artifact to your hand. It costs 3 less.
 
 name:     Hollow Grovekeeper<br>
-text:     **Deploy**: Destroy any minion with **Provoke** or **Frenzy**. If you do, this minion gains **Provoke** and **Frenzy**.
+text:     **Deploy**: Destroy a minion with **Provoke** or **Frenzy**. If you do, this minion gains **Provoke** and **Frenzy**.
 
 name:     Impervious Giago<br>
 text:     **Provoke**<br>
@@ -571,7 +572,7 @@ name:     Astral Crusader<br>
 text:     Whenever you replace this card, it and any other Astral Crusader in your deck cost 3 less and gains +2⚔️/+2❤️.
 
 name:     Dagona<br>
-text:     **Deploy**: Devour any minion, anywhere.<br>
+text:     **Deploy**: Devour a minion, anywhere.<br>
           **Dying Wish**: Spit out the devoured minion on this space.
 
 name:     Dark Nemesis<br>

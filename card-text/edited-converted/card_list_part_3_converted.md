@@ -404,7 +404,7 @@ text:     **Grow** +1⚔️/+1❤️<br>
           Nearby allied minions grow at the start of both player's turns.
 
 name:     Natural Selection<br>
-text:     Destroy any minion with the lowest ⚔️ or tied for the lowest ⚔️.
+text:     Destroy any minion(s) with the lowest ⚔️.
 
 name:     Oropsisaur<br>
 text:     **Grow** +1⚔️/+1❤️<br>
@@ -585,7 +585,7 @@ name:     Ilena Cryobyte<br>
 text:     **Bloodbound Spell**: Target an enemy minion. If it's nearby, **Stun** it, otherwise reduce its movement by 1.
 
 name:     Kara Winterblade<br>
-text:     **Bloodbound Spell**: Any minion you summon this turn gains +1⚔️/+1❤️.
+text:     **Bloodbound Spell**: Minions you summon this turn gains +1⚔️/+1❤️.
 
 name:     Blazing Spines<br>
 text:     **Wall**

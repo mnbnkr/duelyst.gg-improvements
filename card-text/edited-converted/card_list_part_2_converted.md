@@ -12,7 +12,7 @@ name:     Cobra Strike<br>
 text:     Deal 3 damage to an enemy minion and the enemy General.
 
 name:     Flamewreath<br>
-text:     Whenever this minion is moved for any reason, it deals 2 damage to all enemies around it.
+text:     After this minion changes location, it deals 2 damage to nearby enemies.
 
 name:     Four Winds Magi<br>
 text:     Whenever you cast a spell, deal 1 damage to enemy General and restore 1❤️ to your General.
@@ -29,7 +29,7 @@ text:     **Build** (2)<br>
 
 name:     Massacre Artist<br>
 text:     **Move** (3), **Backstab** (2).<br>
-          After this backstabs twice, all attacks are backstabs this turn.<br>
+          After this minion backstabs twice, all attacks are backstabs this turn.<br>
 behavior: Changed
 
 name:     Onyx Bear Seal<br>
@@ -57,7 +57,7 @@ name:     Heaven's Eclipse<br>
 text:     Draw 3 spell cards.
 
 name:     Onyx Jaguar<br>
-text:     Whenever an allied minion is moved for any reason, it gains +1⚔️/+1❤️.
+text:     Whenever an allied minion changes location, it gains +1⚔️/+1❤️.
 
 name:     Phoenix Barrage<br>
 text:     Deal 3 damage to a unit. Put a **Phoenix Fire** into your hand.
@@ -151,7 +151,7 @@ name:     Droplift<br>
 text:     Steal a random artifact from the enemy General and equip it.
 
 name:     Equality Constraint<br>
-text:     Any minion's ❤️ becomes equal to its ⚔️.
+text:     Set a minion's ❤️ equal to its ⚔️.
 
 name:     Iron Dervish<br>
 text:
@@ -405,7 +405,7 @@ name:     Sandswirl Reader<br>
 text:     **Deploy**: Return a minion to its owner's hand. Turn that space into Exhuming Sand.
 
 name:     Silica Weaver<br>
-text:     **Deploy**: Progresses MECHAZ0R build by +40%.
+text:     **Deploy**: Progresses MECHAZ0R assembly by +40%.
 
 name:     Sirocco<br>
 text:     **Deploy**: Summon a Skyrock Golem on random spaces for each other Golem you've summoned this game.
@@ -477,7 +477,7 @@ name:     Darkfire Sacrifice<br>
 text:     Destroy an allied minion. Your next minion costs 2 less.
 
 name:     Underlord Xor'xuul<br>
-text:     **Aspect**: During your opponent's turn, any allied non-token minions destroyed this game will resurrect at the cost of 2 mana. You can only summon minions nearby your General.
+text:     **Aspect**: During your opponent's turn, any allied non-token minions destroyed this game will resurrect at the cost of 2. You can only summon minions nearby your General.
 
 name:     AWESOME Awesomeness<br>
 text:     Summon 2 AWESOME Wraithlings nearby your General. All your other Wraithlings become AWESOME as well.<br>
@@ -517,7 +517,7 @@ name:     Malice<br>
 text:     Destroy an allied minion to summon a 4⚔️/4❤️ Husk nearby.
 
 name:     Nethermeld<br>
-text:     Teleport any minion to an allied Shadow Creep.
+text:     Teleport a minion to an allied Shadow Creep.
 
 name:     Painful Pluck<br>
 text:     **Intensify**: Turn 1 space into Shadow Creep. Cannot target spaces that have tiles.

@@ -2,10 +2,10 @@ name:     Oak in the Nemeton<br>
 text:     **Aspect**: Allied minions nearby your General have +1⚔️. Your General cannot attack.
 
 name:     Polarity<br>
-text:     Swap any minion's ⚔️ and ❤️.
+text:     Swap a minion's ⚔️ and ❤️.
 
 name:     Aspect of Ego<br>
-text:     Transform any minion into a random minion of the same cost.
+text:     Transform a minion into a random minion of the same cost.
 
 name:     Crystallize<br>
 text:     Reduce the movement of an enemy minion by 1. If the target is nearby **Stun** it instead.
@@ -14,10 +14,10 @@ name:     Flurry<br>
 text:     Whenever this minion attacks, repair all of your artifacts by 1 durability.
 
 name:     Iceshatter Gauntlet<br>
-text:     Whenever your General attacks a **stunned** minion, destroy it instantly.
+text:     Your General destroys any **stunned** minion they attack.
 
 name:     Kinetic Surge<br>
-text:     Any minion you summon this turn gains +1⚔️/+1❤️.
+text:     Minions you summon this turn gain +1⚔️/+1❤️.
 
 name:     Lesser Waterball<br>
 text:     Deal 4 damage to an enemy minion.
@@ -104,7 +104,7 @@ name:     **Gravity Wall** *(token)*<br>
 text:     **Wall**, **Provoke**.
 
 name:     Hearth-sister<br>
-text:     **Deploy**: Swap positions with any other minion.
+text:     **Deploy**: Swap positions with another minion.
 
 name:     Icy<br>
 text:     **Deploy**: **Stun** an enemy.
@@ -141,10 +141,10 @@ name:     Wild Warbird<br>
 text:     **Ability** 1: Deal 2 damage to all enemies in this column.
 
 name:     Aspect of the Bear<br>
-text:     Transform any minion into a 4⚔️/5❤️ Ursaplomb that will not counterattack.
+text:     Transform a minion into a 4⚔️/5❤️ Ursaplomb that will not counterattack.
 
 name:     Aspect of the Ravager<br>
-text:     Transform any minion into a 3⚔️/3❤️ Ravager with no abilities.
+text:     Transform a minion into a 3⚔️/3❤️ Ravager with no abilities.
 
 name:     Blazing Spines<br>
 text:     Summon two joined 3⚔️/3❤️ Walls that can attack.
@@ -220,10 +220,10 @@ name:     Yggdra's Voracity<br>
 text:     Whenever an enemy is **stunned**, fully heal this minion.
 
 name:     Aspect of Shim'zar<br>
-text:     Transform any minion into a random Battle Pet.
+text:     Transform a minion into a random Battle Pet.
 
 name:     Aspect of the Wyrm<br>
-text:     Transform any minion into a 4⚔️/4❤️ Whyte Drake with **Flying**. Nearby allied minions gain **Flying**.
+text:     Transform a minion into a 4⚔️/4❤️ Whyte Drake with **Flying**. Nearby allied minions gain **Flying**.
 
 name:     Avalanche<br>
 text:     Deal 4 damage to everything on your starting side of the battlefield and **Stun** them.
@@ -327,7 +327,7 @@ name:     Spirit of the Wild<br>
 text:     Reactivate allied minions on your opponent's starting side of the battlefield.
 
 name:     Aspect of the Mountains<br>
-text:     Transform any minion into a 5⚔️/5❤️ Seismic Elemental. Deal 5 damage to enemy minions around it.
+text:     Transform a minion into a 5⚔️/5❤️ Seismic Elemental. Deal 5 damage to enemy minions around it.
 
 name:     Draugar Eyolith<br>
 text:     **Build** (2)<br>
@@ -383,7 +383,7 @@ name:     Mana Infusion<br>
 text:     Reduce the cost of all cards in your hand by 2.
 
 name:     Mythron Wanderer<br>
-text:     **Aspect**: The first minion you summon during your turn gets +0⚔️/+1❤️. You many only have 1 copy of each card in your deck.
+text:     **Aspect**: The first minion you summon during your turn gets +0⚔️/+1❤️. You may only have 1 copy of each card in your deck.
 
 name:     Blizzard<br>
 text:     Deal 1 damage to all enemies. They move 1 space less next turn.
@@ -392,7 +392,7 @@ name:     Bloodtear Alchemist<br>
 text:     **Deploy**: Deal 1 damage to an enemy.
 
 name:     Devour<br>
-text:     Devour any minion with the highest ⚔️ or tied for the highest ⚔️, gain its stats and keywords.
+text:     Devour any minion(s) with the highest ⚔️, gaining their stats and keywords.
 
 name:     Dex<br>
 text:     **Celerity**
@@ -407,7 +407,7 @@ name:     Glub<br>
 text:     Whenever a Spriggin is destroyed, this minion gains +3⚔️/+3❤️.
 
 name:     Helm of MECHAZ0R<br>
-text:     **Deploy**: Progresses MECHAZ0R build by +20%.
+text:     **Deploy**: Progresses MECHAZ0R assembly by +20%.
 
 name:     Illusion<br>
 text:
@@ -576,7 +576,7 @@ name:     Rage<br>
 text:     **Frenzy**
 
 name:     Recombobulus<br>
-text:     **Deploy**: Teleport any minion one space randomly.
+text:     **Deploy**: Teleport a minion to a random nearby space.
 
 name:     Replicant<br>
 text:     **Deploy**: Draw another Replicant.

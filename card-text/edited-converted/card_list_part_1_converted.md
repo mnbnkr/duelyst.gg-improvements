@@ -2,10 +2,11 @@ name:     Argeon Highmayne<br>
 text:     **Bloodbound Spell**: Give an allied minion +2⚔️.
 
 name:     Brome Warcrest<br>
-text:     **Bloodbound Spell**: Summon a Conscript. If summoned in front summon a Crestfallen instead.
+text:     **Bloodbound Spell**: Summon a Conscript. If summoned in front summon a Crestfallen instead.<br>
+tooltip:  Conscript and Cresfallen; card or text.
 
 name:     Zir'an Sunforge<br>
-text:     **Bloodbound Spell**: Restore 3❤️ to any Minion.
+text:     **Bloodbound Spell**: Restore 3❤️ to a minion.
 
 name:     Beam Shock<br>
 text:     **Stun** an enemy.
@@ -26,7 +27,7 @@ name:     Aerial Rift<br>
 text:     Give your minions **Airdrop** this turn. Draw a card.
 
 name:     Afterglow<br>
-text:     Restore 3❤️ to any Minion.
+text:     Restore 3❤️ to a minion.
 
 name:     Auryn Nexus<br>
 text:     **Echo**<br>
@@ -60,7 +61,7 @@ name:     Lionheart Blessing<br>
 text:     Give an allied minion, "**Zeal**: Whenever this minion deals damage, draw a card".
 
 name:     Magnetize<br>
-text:     Pull any minion to the space in front of your General.
+text:     Pull a minion to the space in front of your General.
 
 name:     Roar<br>
 text:     Give an allied minion +2⚔️.
@@ -107,7 +108,7 @@ name:     Gold Vitriol<br>
 text:     Whenever you heal a unit, deal 2 damage to a random enemy.
 
 name:     Lasting Judgement<br>
-text:     Give any minion +3⚔️, but -3❤️.
+text:     Give a minion +3⚔️, but -3❤️.
 
 name:     Lightchaser<br>
 text:     Whenever a unit is healed, this minion gains +1⚔️/+1❤️.
@@ -160,7 +161,7 @@ name:     Aperion's Claim<br>
 text:     Create **Hallowed Ground** in a 3x3 area. At the end of your opponent's next turn, destroy all enemy minions occupying them.
 
 name:     Arclyte Sentinel<br>
-text:     **Deploy**: Give any nearby minion +2⚔️/-2❤️.
+text:     **Deploy**: Give a nearby minion +2⚔️/-2❤️.
 
 name:     Argeon's Authority<br>
 text:     Your General gains **Provoke** and **Armour**.
@@ -190,7 +191,7 @@ name:     Life Coil<br>
 text:     Double a minion's ❤️. Draw a card.
 
 name:     Martyrdom<br>
-text:     Destroy any minion. Restore that minion's ❤️ to its General.
+text:     Destroy a minion. Restore that minion's ❤️ to its General.
 
 name:     Radiant Dragoon<br>
 text:     At the end of your turn, give an allied minion +2❤️. Prioritize a minion infront of this minion.
@@ -293,7 +294,7 @@ name:     Ironcliffe Guardian<br>
 text:     **Airdrop**, **Provoke**.
 
 name:     Oakenheart<br>
-text:     **Deploy**: Progresses MECHAZ0R build by +20%.<br>
+text:     **Deploy**: Progresses MECHAZ0R assembly by +20%.<br>
           Your other Mechs have +1⚔️/+1❤️.
 
 name:     Second Sun<br>
@@ -380,13 +381,13 @@ text:     Draw a card at end of turn. Your **Bloodbound Spell** is **Kiyomori**.
 tooltip:  (Kiyomori card or text)
 
 name:     Juxtaposition<br>
-text:     Swap positions between any two minions.
+text:     Swap positions between two minions.
 
 name:     Mana Vortex<br>
 text:     The next spell you cast this turn costs 1 less.
 
 name:     Mechaz0r Progression<br>
-text:     Progresses MECHAZ0R build by +20%.
+text:     Progresses MECHAZ0R assembly by +20%.
 
 name:     Meditate<br>
 text:     Shuffle five copies of the spell you cast most recently into your deck (excluding Meditate).
@@ -466,7 +467,7 @@ name:     Crimson Coil<br>
 text:     Deal 2 damage to a minion. Activate your Battle Pets.
 
 name:     Deathstrike Seal<br>
-text:     Give an allied minion, "Destroy any minion damaged by this minion".
+text:     Give an allied minion "Destroy any minion damaged by this minion".
 
 name:     Eight Gates<br>
 text:     Spells you cast this turn that deal damage deal +2 damage.
@@ -496,7 +497,7 @@ name:     Phoenix Fire<br>
 text:     Deal 3 damage to a unit.
 
 name:     Saberspine Seal<br>
-text:     Give a minion or General +3⚔️ this turn.
+text:     Give a unit +3⚔️ this turn.
 
 name:     Scroll Bandit<br>
 text:     **Backstab**: Steal a spell from your opponent's deck.
