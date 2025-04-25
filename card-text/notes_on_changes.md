@@ -29,7 +29,7 @@ Cannot move. But can still teleport.
 ---
 <br>
 
-- (for converted card_list.md files) Cards that have their behavior changed, will have additional field 'behavior: Changed'. And often the same cards could have their 'cost: Changed (X)' as well.
+- (for converted card_list.md files) Cards that have their behavior changed, will have additional field 'behavior: Changed'. And often the same cards could have their 'cost: Changed (X)' as well. ("tooltip:" indicates needed tooltip to include on preview, either card or just text.)
 
 - Game engine would replace ⚔️ and ❤️ with more appropriate symbols (would also need to include the associated words 'Attack' and 'Health' in the search index, since of course otherwise it often wouldn't be possible to find the cards you're looking for after this change).
 
