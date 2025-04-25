@@ -588,7 +588,7 @@ text:     Swap positions between an allied minion and your General.
 name:     Thunderbomb<br>
 text:     Deal 3 damage to an enemy and 1 damage to all enemies around it.
 
-name:      Twilight Fox
+name:      Twilight Fox<br>
 text:      **Backstab** (2)
            **Blood Surge**: Teleport to your opponent's starting side's edge column, keeping to the same row. Gain +2 movement until the end of turn.
 
