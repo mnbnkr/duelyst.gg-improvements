@@ -20,7 +20,7 @@ name:     Abhorrent Unbirth<br>
 text:     Destroy all allied minions to summon a 1⚔️/1❤️ Abomination that gains their ⚔️, ❤️, and keywords.
 
 name:     Abyssal Juggernaut<br>
-text:     At the start of turn, gain +2⚔️/+2❤️ for each allied Shadow Creep nearby, until end of turn.
+text:     At the start of your turn, gain +2⚔️/+2❤️ for each allied Shadow Creep nearby, until end of turn.
 
 name:     Blood Baronette<br>
 text:     **Deploy**: Double a Wraithling's ⚔️ and ❤️.
