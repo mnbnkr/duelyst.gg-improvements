@@ -1,5 +1,5 @@
 name:     Bakezori<br>
-text:     Whenever this minion changes location, draw a card.
+text:     Whenever this minion changes location, draw a card.<br>
 behavior: maybe Changed
 
 name:     Bamboozle<br>
@@ -15,10 +15,10 @@ name:     Flamewreath<br>
 text:     After this minion changes location, it deals 2 damage to nearby enemies.
 
 name:     Four Winds Magi<br>
-text:     Whenever you cast a spell, deal 1 damage to enemy General and restore 1❤️ to your General.
+text:     Whenever you cast a spell, deal 1 damage to the enemy General and restore 1❤️ to your General.
 
 name:     Keshrai Fanblade<br>
-text:     Deploy: Next turn, opponent's spells cost 2 more to cast.
+text:     **Deploy**: Next turn, your opponent's spells cost 2 more to cast.
 
 name:     Kindling<br>
 text:     Whenever you cast a spell, your nearby Arcanyst minions gain +1⚔️.
@@ -83,7 +83,7 @@ name:     Grandmaster Zendo<br>
 text:     The enemy General moves and attacks automatically.
 
 name:     Ornate Hiogi<br>
-text:     	Whenever you cast a spell, draw a card.
+text:     Whenever you cast a spell, draw a card.
 
 name:     Taegon the Citrine Dragon<br>
 text:     **Deploy**: All enemies are pushed in the chosen direction.
@@ -114,7 +114,7 @@ name:     Ciphyron Ascendant<br>
 text:     **Bloodbound Spell**: Give an enemy minion -2⚔️ until your next turn.
 
 name:     Scioness Sajj<br>
-text:     **Bloodbound Spell**: Until end of turn, your General deals double damage to minions and receives 2 less damage from minions.
+text:     **Bloodbound Spell**: Until the end of turn, your General deals double damage to minions and takes 2 less damage from minions.
 
 name:     Zirix Starstrider<br>
 text:     **Bloodbound Spell**: Summon a 2⚔️/2❤️ Iron Dervish on a random space nearby.
@@ -160,13 +160,13 @@ name:     Iron Shroud<br>
 text:     Summon a 2⚔️/2❤️ Iron Dervish on a random space nearby.
 
 name:     Kinematic Projection<br>
-text:     Give a minion Blast. It can no longer move or damage Generals.
+text:     Give a minion **Blast**. It can no longer move or damage Generals.
 
 name:     Planar Foundry<br>
 text:     Draw an artifact.
 
 name:     Psionic Strike<br>
-text:     Your General deals double damage to and receives 2 damage less from minions this turn.
+text:     Your General deals double damage to and takes 2 less damage from minions this turn.
 
 name:     Sand Dervish<br>
 text:
@@ -179,7 +179,7 @@ name:     Scion's First Wish<br>
 text:     Give an allied minion +1⚔️/+1❤️. Draw a card.
 
 name:     Stone to Spears<br>
-text:     An allied Structure gains +3⚔️ and may move and attack this turn if able.
+text:     An allied **Structure** gains +3⚔️ and may move and attack this turn if able.
 
 name:     Whisper of the Sands<br>
 text:     **Echo**<br>
@@ -189,11 +189,11 @@ name:     Atom Klinger<br>
 text:     Whenever you equip an artifact, this minion gains +⚔️ equal to the artifact's cost.
 
 name:     Barren Shrike<br>
-text:     **Deploy**: Take your General's longest equipped artifact, gaining +2⚔️/+2❤️ while holding it.<br>
+text:     **Deploy**: Take your General's artifact that has been equipped the longest. This minion gains +2⚔️/+2❤️ while holding it.<br>
           **Ability** 2: Repair and return the artifact to your General.
 
 name:     Bloodfire Totem<br>
-text:     At end of EACH turn, deal 1 damage to your General.
+text:     At the end of each turn, deal 1 damage to your General.
 
 name:     Bone Swarm<br>
 text:     Deal 2 damage to all enemies around your General.
@@ -211,7 +211,7 @@ name:     Duskweaver<br>
 text:     **Dying Wish**: Put a random Scion's Wish spell into your hand.
 
 name:     Dustdrinker<br>
-text:     **Intensify**: Deal 1 damage to the enemy General and this minion gains +1❤️.
+text:     **Intensify**: Deal 1 damage to the enemy General and give this minion +1❤️.
 
 name:     Ethereal Obelysk<br>
 text:     **Summon Dervish**
@@ -249,7 +249,7 @@ name:     Pyromancer<br>
 text:     **Blast**
 
 name:     Rashas Curse<br>
-text:     Destroy a random enemy artifact. Summon a Wind Dervish with Rush near them.
+text:     Destroy a random enemy artifact. Summon a Wind Dervish with **Rush** near the enemy General.
 
 name:     Reassemble<br>
 text:     Return an allied Obelysk to your hand and reduce its cost to 0. Draw a card.
@@ -270,11 +270,11 @@ name:     Wind Dervish<br>
 text:     **Rush**
 
 name:     Wind Slicer<br>
-text:     **Deploy**: Lower the cost of all Structure minions in your hand by 1.
+text:     **Deploy**: Lower the cost of all minions with **Structure** in your hand by 1.
 
 name:     Windstorm Obelysk<br>
 text:     **Summon Dervish**<br>
-          Your dervishes have +3❤️.
+          Your Dervishes have +3❤️.
 
 name:     Astral Flood<br>
 text:     Put 3 random Battle Pets into your hand.
@@ -293,7 +293,7 @@ text:     Whenever your opponent draws a card, this minion gains a random keywor
 
 name:     Fireblaze Obelysk<br>
 text:     **Summon Dervish**<br>
-          Your dervishes have +1⚔️.
+          Your Dervishes have +1⚔️.
 
 name:     Imperial Mechanyst<br>
 text:     **Deploy**: Repair all of your artifacts to full durability.
@@ -312,14 +312,14 @@ name:     Psychic Conduit<br>
 text:     Reactivate and take control of an enemy minion with 2 or less ⚔️ until the end of turn.
 
 name:     Sand Howler<br>
-text:     **Cannot be targeted by enemy spells or Ability keyword effects.**
+text:     **Spell Shield**
 
 name:     Scion's Third Wish<br>
 text:     Give an allied Dervish minion +3⚔️/+3❤️ and **Flying**.
 
 name:     Simulacra Obelysk<br>
-text:     **Build** (2)*<br>
-          *Summon Dervish**<br>
+text:     **Build** (2)<br>
+          **Summon Dervish**<br>
           When this minion is built, start building another on a nearby space.
 
 name:     Skyppy<br>
@@ -378,13 +378,13 @@ text:     **Flying**<br>
 
 name:     Wind Striker<br>
 text:     **Flying**<br>
-          **Deploy**: Equip a Staff of Y'kir to your General.
+          **Deploy**: Equip a Staff of Y'Kir to your General.
 
 name:     Accumulonimbus<br>
 text:     **Intensify**: Summon 2 **Wind Dervishes** nearby your General.
 
 name:     Corpse Combustion<br>
-text:     Summon all allied minions with Dying Wish destroyed since your last turn on random spaces.
+text:     Summon all allied minions with **Dying Wish** destroyed since your last turn on random spaces.
 
 name:     Entropic Decay<br>
 text:     Destroy an enemy minion nearby your General.
@@ -408,7 +408,7 @@ name:     Silica Weaver<br>
 text:     **Deploy**: Progresses MECHAZ0R assembly by +40%.
 
 name:     Sirocco<br>
-text:     **Deploy**: Summon a Skyrock Golem on random spaces for each other Golem you've summoned this game.
+text:     **Deploy**: Summon a Skyrock Golem on a random space for each other Golem you've summoned this game.
 
 name:     Spinecleaver<br>
 text:     Your General gains +1⚔️. Enemy minions destroyed by your General summon a Bloodfire Totem on that space.
@@ -437,23 +437,23 @@ text:     **Deploy**: Take control of enemy minions with 2 or less ⚔️ on thi
 
 name:     Oserix<br>
 text:     **Flying**<br>
-          Dying Wish: Equip 2 random artifacts from your deck.
+          **Dying Wish**: Equip 2 random artifacts from your deck.
 
 name:     Pantheran<br>
 text:     Costs 0 if you've cast all three Scion's Wish spells this game.
 
 name:     Stars Fury<br>
-text:     Summon a 2⚔️/2❤️ Dervish with Rush in front of each enemy minion and General.
+text:     Summon a 2⚔️/2❤️ Dervish with **Rush** in front of each enemy minion and General.
 
 name:     Swarmking Scarab<br>
 text:     **Blast**<br>
-          Summon 1⚔️/1❤️ Scarabyte with **Flying** and **Rush** into spaces affected by **Blast**.
+          Summon a 1⚔️/1❤️ Scarabyte with **Flying** and **Rush** on each space affected by **Blast**.
 
 name:     Dominate Will<br>
 text:     Take control of an enemy minion nearby your General.
 
 name:     Circle of Desiccation<br>
-text:     Destroy all non-Structure minions.
+text:     Destroy all minions without **Structure**.
 
 name:     Circle of Fabrication<br>
 text:     Summon one of each Obelysk from your deck on random spaces.
@@ -481,13 +481,13 @@ text:     **Aspect**: During your opponent's turn, any allied non-token minions 
 
 name:     AWESOME Awesomeness<br>
 text:     Summon 2 AWESOME Wraithlings nearby your General. All your other Wraithlings become AWESOME as well.<br>
-          And Summon a 4⚔️/4❤️ Fiend on every unoccupied allied Shadow Creep.
+          Summon a 4⚔️/4❤️ Fiend on every unoccupied allied Shadow Creep.
 
 name:     Abomination<br>
 text:
 
 name:     Abyssal Crawler<br>
-text:     At the end of your turn, turn a nearby space into Shadow Creep. Prioritizing the space in front if there is no tile on it.
+text:     At the end of your turn, turn a nearby space into Shadow Creep. Prioritize the space in front if there is no tile on it.
 
 name:     Abyssal Scar<br>
 text:     Turn 1 space into Shadow Creep at the end of your turn.
@@ -505,7 +505,7 @@ name:     Grasp Of Agony<br>
 text:     Target an enemy minion. When it dies, it deals 3 damage to enemies around it.
 
 name:     Horn of the Forsaken<br>
-text:     Whenever your General recieves damage, summon a 1⚔️/1❤️ Wraithling nearby your General.
+text:     Whenever your General receives damage, summon a 1⚔️/1❤️ Wraithling nearby your General.
 
 name:     Husk<br>
 text:
@@ -523,7 +523,7 @@ name:     Painful Pluck<br>
 text:     **Intensify**: Turn 1 space into Shadow Creep. Cannot target spaces that have tiles.
 
 name:     Relentless Shadow<br>
-text:     Summon a 1⚔️/1❤️ Wraithling. At the end of your turn put a Relentless Shadow into your hand.
+text:     Summon a 1⚔️/1❤️ Wraithling. At the end of your turn, put a Relentless Shadow into your hand.
 
 name:     Shadow Creeper<br>
 text:     **Dying Wish**: Create a Shadow Creep on this space.
@@ -538,16 +538,16 @@ name:     Storm Clone<br>
 text:     Clone your General onto a random nearby tile. Put a Knucklestorm into your hand.
 
 name:     Touch of Despair<br>
-text:     Give all enemy minions -1⚔️/-1❤️ for every Pillar on the field.
+text:     Give all enemy minions -1⚔️/-1❤️ for every Pillar on the battlefield.
 
 name:     Void Pulse<br>
-text:     Deal 2 damage to enemy General. Restore 3❤️ to your General.
+text:     Deal 2 damage to the enemy General. Restore 3❤️ to your General.
 
 name:     Wraithling<br>
 text:
 
 name:     Blood Siren<br>
-text:     **Deploy**: Give a enemy -2⚔️/-1❤️ this turn.
+text:     **Deploy**: Give an enemy -2⚔️/-1❤️ this turn.
 
 name:     Consuming Rebirth<br>
 text:     Destroy an allied minion. At the end of your turn, re-summon it on the same space and give it +1⚔️/+1❤️.
@@ -563,12 +563,12 @@ text:     Deal 1 damage to an enemy minion. After it's attacked this turn, destr
 
 name:     Echoing Shriek<br>
 text:     **Echo**<br>
-          Convert spaces allied minions are destroyed on this turn to Minor Summoning Circle<br>
-behavior: Changed probably (now works retroactively)
+          Convert spaces where allied minions are destroyed this turn into Minor Summoning Circles.<br>
+behavior: Changed probably (now works retroactively)<br>
 tooltip:  (Minor Summoning Circle card or text)
 
 name:     Minor Summoning Circle<br>
-text:     Whenever an allied minion is summoned on this space, it gains +1/+1.
+text:     Whenever an allied minion is summoned on this space, it gains +1⚔️/+1❤️.
 
 name:     Fiend<br>
 text:
@@ -577,13 +577,13 @@ name:     Gibbet<br>
 text:     Whenever this attacks an enemy minion, destroy that minion and summon a Gibbet on that space.
 
 name:     Gloomchaser<br>
-text:     **Deploy**: Summon a 1⚔️/1❤️ Wraithling in a random nearby space.
+text:     **Deploy**: Summon a 1⚔️/1❤️ Wraithling on a random nearby space.
 
 name:     Gor<br>
 text:     **Dying Wish**: Re-summon this minion in a random corner.
 
 name:     Infest<br>
-text:     Give an enemy minion "**Dying Wish**: Eject an enemy Wraithling on this space. It deals 2 damage to your General, and gives Infest to all nearby allied minions."
+text:     Give an enemy minion "**Dying Wish**: Eject an enemy Wraithling on this space. It deals 2 damage to your General and gives Infest to all nearby allied minions."
 
 name:     Inkhorn Gaze<br>
 text:     Deal 2 damage to a minion. If it dies this turn, put a random Battle Pet into your hand.

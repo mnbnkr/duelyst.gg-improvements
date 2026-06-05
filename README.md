@@ -1,5 +1,5 @@
 ## Duelyst.gg improvements (by the community, mostly mnbnkr)
 
-Suggest any kind of duelyst.gg improvements and ideas (not only about card text). This is a place that collects all the 'best' ideas - that might even be implemented into the game.
+Suggest any kind of improvement or idea for duelyst.gg (not only card text). This repository collects the best ideas that might eventually be implemented in the game.
 
 [Important notes on changes, with suggestions](https://github.com/mnbnkr/duelyst.gg-improvements/blob/main/card-text/notes_on_changes.md)

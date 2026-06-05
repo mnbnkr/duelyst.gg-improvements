@@ -11,7 +11,7 @@ name:     AWESOME Abyssal Scar<br>
 text:     Summon a 4⚔️/4❤️ Fiend on every unoccupied allied Shadow Creep.
 
 name:     AWESOME Malice<br>
-text:     Destroy an allied minion. Summon Husks equal to the ⚔️ of that minion, nearby first.
+text:     Destroy an allied minion. Summon a number of Husks equal to that minion's ⚔️, prioritizing nearby spaces.
 
 name:     AWESOME Shadow Spawn<br>
 text:     Summon 2 AWESOME Wraithlings nearby your General. All your other Wraithlings become AWESOME as well.
@@ -20,13 +20,13 @@ name:     Abhorrent Unbirth<br>
 text:     Destroy all allied minions to summon a 1⚔️/1❤️ Abomination that gains their ⚔️, ❤️, and keywords.
 
 name:     Abyssal Juggernaut<br>
-text:     At the start of your turn, gain +2⚔️/+2❤️ for each allied Shadow Creep nearby, until end of turn.
+text:     At the start of your turn, gain +2⚔️/+2❤️ for each allied Shadow Creep nearby until the end of turn.
 
 name:     Blood Baronette<br>
 text:     **Deploy**: Double a Wraithling's ⚔️ and ❤️.
 
 name:     Blood Echoes<br>
-text:     Destroy all allied minions and re-summon them on random spaces at end of turn.
+text:     Destroy all allied minions and re-summon them on random spaces at the end of turn.
 
 name:     Bonecrusher<br>
 text:     **Intensify**: This minion gains +5⚔️.
@@ -75,7 +75,7 @@ text:     **Sentinel**: General attacks.<br>
           The enemy General has -1⚔️ and your General gains +1⚔️.
 
 name:     Soul Grimwar<br>
-text:     Your General gains "Deathwatch: Gains +2⚔️".
+text:     Your General gains "**Deathwatch**: Gains +2⚔️".
 
 name:     Spirit Conduit<br>
 text:     Whenever an allied Arcanyst dies, put a 2⚔️/1❤️ Arcane Spirit into your hand.
@@ -109,7 +109,7 @@ name:     Cacophynos<br>
 text:     **Dying Wish**: Destroy a random nearby enemy minion.
 
 name:     Dark Seed<br>
-text:     Deal 1 damage to the enemy General for each card in the opponent's hand.
+text:     Deal 1 damage to the enemy General for each card in your opponent's hand.
 
 name:     Deepfire Devourer<br>
 text:     **Frenzy**<br>
@@ -160,7 +160,7 @@ name:     Furor Chakram<br>
 text:     Allied minions have +2⚔️ and **Frenzy**.
 
 name:     Hexclaw<br>
-text:     **Dying Wish**: The enemy General gains, "At the start of your turn, take 1 damage".
+text:     **Dying Wish**: The enemy General gains "At the start of your turn, take 1 damage".
 
 name:     Nether Summoning<br>
 text:     Summon 2 non-token minions destroyed since the end of your last turn nearby.
@@ -170,7 +170,7 @@ text:     **Deploy**: Deal 2 damage to each enemy on or near allied Shadow Creep
 
 name:     Reaper of the Nine Moons<br>
 text:     **Flying**<br>
-          **Dying Wish**: Summon a random minion from the opponent's deck on this space.
+          **Dying Wish**: Summon a random minion from your opponent's deck on this space.
 
 name:     Abyssal Tormentor<br>
 text:     **Provoke**<br>
@@ -193,7 +193,7 @@ name:     Moonrider<br>
 text:     **Blood Surge**: Summon a 4⚔️/4❤️ **Fiend** on a nearby space.
 
 name:     Nightsorrow Assassin<br>
-text:     This minions mana cost is reduced by 1 for each minion destroyed during your turn.
+text:     This minion's mana cost is reduced by 1 for each minion destroyed during your turn.
 
 name:     Rite of the Undervault<br>
 text:     Draw to fill your hand.
@@ -240,7 +240,7 @@ name:     Vaath the Immortal<br>
 text:     **Bloodbound Spell**: Give your General +1⚔️ and heal your General for 1❤️.
 
 name:     Chrysalis Egg<br>
-text:     Will hatch at the start of its owner's turn
+text:     Will hatch at the start of its owner's turn.
 
 name:     Dampening Wave<br>
 text:     Target an enemy minion. It can no longer counterattack.
@@ -252,7 +252,7 @@ name:     Hatefurnace<br>
 text:     **Aspect**: Your General has 40❤️ but moves 1 less space.
 
 name:     Amplification<br>
-text:     Give a allied damaged minion +2⚔️ and +4❤️.
+text:     Give a damaged allied minion +2⚔️ and +4❤️.
 
 name:     Dance of Dreams<br>
 text:     Whenever an allied minion dies this turn, draw a card.
@@ -298,7 +298,7 @@ name:     Tremor<br>
 text:     **Stun** enemy minions in a 2x2 area.
 
 name:     Vyling<br>
-text:     Whenever a minion is summoned that has more ⚔️ or ❤️ than this minion, this minion gains +1⚔️/+1❤️.
+text:     Whenever a minion is summoned that has more ⚔️ or ❤️ than this minion, this minion gains +1⚔️/+1❤️.<br>
 behavior: Changed probably (no longer maximum Health)
 
 name:     Angered Okkadok<br>
@@ -347,7 +347,7 @@ name:     Rancour<br>
 text:     Whenever your General takes damage, this minion gains that much ⚔️.
 
 name:     Savage Chain<br>
-text:     During your opponent's turn, whenever an enemy minion moves to or is summoned nearby your general, your general deals 2 damage to it.
+text:     During your opponent's turn, whenever an enemy minion moves to or is summoned nearby your General, your General deals 2 damage to it.
 
 name:     Seismoid<br>
 text:     Whenever you summon a Mech from your hand, both players draw a card.
@@ -384,7 +384,7 @@ text:     Turn a 2x2 area into Primal Flourish.<br>
 tooltip:  (Primal Flourish card or text)
 
 name:     **Primal Flourish** *(token)*<br>
-text:     Allied minions occupying Primal Flourish get Grow +2⚔️/+2❤️.
+text:     Allied minions occupying Primal Flourish gain **Grow** +2⚔️/+2❤️.
 
 name:     Erratic Raptyr<br>
 text:     **Rebirth**<br>
@@ -401,7 +401,7 @@ text:     **Deploy**: Deal 1 damage to everything (including self).
 
 name:     Moloki Huntress<br>
 text:     **Grow** +1⚔️/+1❤️<br>
-          Nearby allied minions grow at the start of both player's turns.
+          Nearby allied minions grow at the start of both players' turns.
 
 name:     Natural Selection<br>
 text:     Destroy any minion(s) with the lowest ⚔️.
@@ -445,7 +445,7 @@ name:     Blood Rage<br>
 text:     Give an allied minion +1⚔️/+1❤️ for each time damage was dealt this turn.
 
 name:     Dreadnought<br>
-text:     **Ability** 1: move this minion 1 space. This ability does not exhaust.<br>
+text:     **Ability** 1: Move this minion 1 space. This ability does not exhaust.<br>
           This minion cannot move. This effect cannot be **dispelled**.
 
 name:     Drogon<br>
@@ -465,7 +465,7 @@ text:     **Rush**<br>
           **Deploy**: Deal 4 damage to your General.
 
 name:     Gargantuan Growth<br>
-text:     Give a minion, "**Grow** +8⚔️/+8❤️".
+text:     Give a minion "**Grow** +8⚔️/+8❤️".
 
 name:     Gigaloth<br>
 text:     **Build** (2)<br>
@@ -484,10 +484,10 @@ name:     Omniseer<br>
 text:     **Deploy**: Turn a space into Primal Flourish.
 
 name:     Progenitor<br>
-text:     **Deploy**: Up to 2 of your other non-Egg minions summon an Egg of themselves, behind themselves.
+text:     **Deploy**: Up to 2 of your other non-Egg minions summon an Egg of themselves behind themselves.
 
 name:     Thumping Wave<br>
-text:     Give a minion +5⚔️. At end of turn, transform it into a 3⚔️/3❤️ **Kin**.
+text:     Give a minion +5⚔️. At the end of turn, transform it into a 3⚔️/3❤️ **Kin**.
 
 name:     Twin Fang<br>
 text:     Whenever an ally takes damage, your General gains +2⚔️.
@@ -533,7 +533,7 @@ name:     Armada<br>
 text:     **Blood Surge**: Deal 5 damage to the nearest enemy.
 
 name:     Chrysalis Burst<br>
-text:     Summon a random Egg in 4 random spaces.
+text:     Summon a random Egg on each of 4 random spaces.
 
 name:     Fractal Replication<br>
 text:     Choose an allied minion. Summon 2 copies of it nearby.
@@ -566,14 +566,14 @@ text:     A massive 6⚔️/26❤️ minion.
 
 name:     Juggernaut<br>
 text:     **Grow** +2⚔️/+2❤️<br>
-          Whenever this minion takes damage, summon a random Golem Egg for each damage taken nearby.
+          Whenever this minion takes damage, summon a random Golem Egg nearby for each point of damage taken.
 
 name:     Saurian Finality<br>
 text:     **Stun** the enemy General. Your General gains +3⚔️. Both players lose 3 mana. Restore 10❤️ to your General.
 
 name:     Grandmaster Kraigon<br>
 text:     **Grow** +2⚔️/+2❤️, **Frenzy**, **Forcefield**.<br>
-          Your General has: **Grow** +2⚔️/+2❤️, **Frenzy**, **Forcefield**.
+          Your General has **Grow** +2⚔️/+2❤️, **Frenzy**, **Forcefield**.
 
 name:     Mandrake<br>
 text:     Costs 1 less for each minion summoned from any player's hand this game.
@@ -582,10 +582,10 @@ name:     Faie Bloodwing<br>
 text:     **Bloodbound Spell**: Deal 2 damage to all enemies in the enemy General's column.
 
 name:     Ilena Cryobyte<br>
-text:     **Bloodbound Spell**: Target an enemy minion. If it's nearby, **Stun** it, otherwise reduce its movement by 1.
+text:     **Bloodbound Spell**: Target an enemy minion. If it's nearby, **Stun** it. Otherwise, reduce its movement by 1.
 
 name:     Kara Winterblade<br>
-text:     **Bloodbound Spell**: Minions you summon this turn gains +1⚔️/+1❤️.
+text:     **Bloodbound Spell**: Minions you summon this turn gain +1⚔️/+1❤️.
 
 name:     Blazing Spines<br>
 text:     **Wall**
@@ -596,7 +596,7 @@ tooltip:  (Vespyr Wall card or text)
 
 name:     **Vespyr Wall** *(token)*<br>
 text:     **Wall**<br>
-          Units that attack this minion while being nearby, are **Stunned**.
+          Units that attack this minion while nearby are **Stunned**.
 
 name:     Essence Sculpt<br>
 text:     Choose a **stunned** minion. Put a copy of it into your hand. Gain 1 mana this turn.

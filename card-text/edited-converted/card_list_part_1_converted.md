@@ -2,8 +2,8 @@ name:     Argeon Highmayne<br>
 text:     **Bloodbound Spell**: Give an allied minion +2⚔️.
 
 name:     Brome Warcrest<br>
-text:     **Bloodbound Spell**: Summon a Conscript. If summoned in front summon a Crestfallen instead.<br>
-tooltip:  Conscript and Cresfallen; card or text.
+text:     **Bloodbound Spell**: Summon a Conscript. If summoned in front, summon a Crestfallen instead.<br>
+tooltip:  (Conscript and Crestfallen cards or text)
 
 name:     Zir'an Sunforge<br>
 text:     **Bloodbound Spell**: Restore 3❤️ to a minion.
@@ -12,7 +12,7 @@ name:     Beam Shock<br>
 text:     **Stun** an enemy.
 
 name:     Grand Strategos<br>
-text:     **Aspect**: Your BBS now also promotes up to 2 allied minions, but costs 2. Your deck may not contain any minion that costs more than 2.
+text:     **Aspect**: Your **Bloodbound Spell** now also promotes up to 2 allied minions, but costs 2. Your deck may not contain any minion that costs more than 2.
 
 name:     Steadfast Formation<br>
 text:     Give allied minions in a 2x2 area **Provoke** and +1❤️.
@@ -49,7 +49,7 @@ name:     Fortified Assault<br>
 text:     Transform an enemy minion's space into Hallowed Ground. Deal it 1 damage for each allied Hallowed Ground.
 
 name:     Kingsguard<br>
-text:     Summon a Conscript. If summoned in front summon a Crestfallen instead.
+text:     Summon a Conscript. If summoned in front, summon a Crestfallen instead.
 
 name:     Lifestream<br>
 text:     Fully heal an allied minion, then draw a copy of it.
@@ -58,7 +58,7 @@ name:     Lightspawn<br>
 text:     Summon 2 Slo nearby your General.
 
 name:     Lionheart Blessing<br>
-text:     Give an allied minion, "**Zeal**: Whenever this minion deals damage, draw a card".
+text:     Give an allied minion "**Zeal**: Whenever this minion deals damage, draw a card".
 
 name:     Magnetize<br>
 text:     Pull a minion to the space in front of your General.
@@ -99,7 +99,7 @@ text:     **Echo**<br>
 
 name:     Divine Bond<br>
 text:     **Echo**<br>
-          At the start of your next turn give a minion +⚔️ equal to its ❤️.
+          At the start of your next turn, give a minion +⚔️ equal to its ❤️.
 
 name:     Fiz<br>
 text:     **Deploy**: Restore 2❤️ to a unit.
@@ -114,7 +114,7 @@ name:     Lightchaser<br>
 text:     Whenever a unit is healed, this minion gains +1⚔️/+1❤️.
 
 name:     Lucent Beam<br>
-text:     If a unit was healed this turn, deal 4 damage to a unit. Otherwise deal 2 damage.<br>
+text:     If a unit was healed this turn, deal 4 damage to a unit. Otherwise, deal 2 damage.<br>
 behavior: Changed
 
 name:     Marching Orders<br>
@@ -140,7 +140,7 @@ text:     This minion remembers all allied spells that targeted it.<br>
           **Dying Wish**: Put a copy of each remembered spell into your hand.
 
 name:     Tempest<br>
-text:     Deal 2 damage all minions and Generals.
+text:     Deal 2 damage to all minions and Generals.
 
 name:     Vale Ascension<br>
 text:     Summon a random allied non-token minion destroyed this game onto an allied Hallowed Ground.
@@ -182,7 +182,7 @@ name:     Gryphon Fledgling<br>
 text:     **Zeal**: **Flying**.
 
 name:     Heavy Sentry<br>
-text:     If this has not moved since the start of its owner's turn, it has +2⚔️ and +1 Armor.
+text:     If this has not moved since the start of its owner's turn, it has +2⚔️ and **Armour**.
 
 name:     Legion<br>
 text:     **Intensify**: Put 1 Crestfallen into your hand. Shuffle a copy of this minion into your deck.
@@ -194,7 +194,7 @@ name:     Martyrdom<br>
 text:     Destroy a minion. Restore that minion's ❤️ to its General.
 
 name:     Radiant Dragoon<br>
-text:     At the end of your turn, give an allied minion +2❤️. Prioritize a minion infront of this minion.
+text:     At the end of your turn, give an allied minion +2❤️. Prioritize a minion in front of this minion.
 
 name:     Scintilla<br>
 text:     **Blood Surge**: Restore 3❤️ to your General.
@@ -233,7 +233,7 @@ text:     Your General gains +2⚔️. The first time your General takes damage 
 
 name:     Divine Liturgy<br>
 text:     **Echo**<br>
-          At the start of your next turn give all allied minions +⚔️ equal to their ❤️.
+          At the start of your next turn, give all allied minions +⚔️ equal to their ❤️.
 
 name:     Invincible<br>
 text:     Give an allied minion with full ❤️ +4⚔️/+4❤️.
@@ -246,7 +246,7 @@ text:     **Build** (2)<br>
           Whenever you summon a minion nearby this, transform that minion into an Ironcliffe Guardian.
 
 name:     Lionize<br>
-text:     Give **Celerity** to an allied minion, it cannot attack this turn.
+text:     Give **Celerity** to an allied minion. It cannot attack this turn.
 
 name:     Lysian Brawler<br>
 text:     **Celerity**
@@ -285,7 +285,7 @@ text:     Your General gains +4⚔️. At the end of your turn, repair all of yo
 name:     Decimate<br>
 text:     Destroy all minions without any of their own allies nearby.<br>
 behavior: Changed<br>
-mana:     Changed (4)
+cost:     Changed (4)
 
 name:     Halo Bulwark<br>
 text:     Allies nearby your General have **Forcefield**.
@@ -305,7 +305,7 @@ text:     **Zeal**: Draw 2 additional cards at the end of your turn.
 
 name:     War Exorcist<br>
 text:     **Provoke**<br>
-          This casts Holy Immolation at the start of your turn.<br>
+          This minion casts Holy Immolation at the start of your turn.<br>
 tooltip:  (Holy Immolation card or text)
 
 name:     Holy Immolation<br>
@@ -346,7 +346,7 @@ text:     **Deploy**: If you have no spells in your deck, equip Skywind Glaives,
 
 name:     Excelsious<br>
 text:     **Celerity**, **Provoke**<br>
-          This minion gains +1⚔️/+1❤️ for each time you healed a unit this game.
+          This minion gains +1⚔️/+1❤️ for each time you've healed a unit this game.
 
 name:     Sky Phalanx<br>
 text:     Summon three Silverguard Knights nearby your General.
@@ -361,23 +361,23 @@ name:     Reva Eventide<br>
 text:     **Bloodbound Spell**: Summon a Heartseeker.
 
 name:     Shidai Stormblossom<br>
-text:     **Bloodbound Spell**: Draw a card at end of turn. Your **Bloodbound Spell** is **Kiyomori**.<br>
+text:     **Bloodbound Spell**: Draw a card at the end of turn. Your **Bloodbound Spell** is **Kiyomori**.<br>
 tooltip:  (Kiyomori, Kotetsu, Tanahashi and Murasame cards or texts)
 
-name:     **Kiyomori** (*token*)<br>
+name:     **Kiyomori** *(token)*<br>
 text:     Your General may move 2 additional spaces this turn. Your **Bloodbound Spell** is **Kotetsu**.<br>
 tooltip:  (Kotetsu card or text)
 
-name:     **Kotetsu** (*token*)<br>
+name:     **Kotetsu** *(token)*<br>
 text:     Give an ally **Backstab** (4) this turn. Your **Bloodbound Spell** is **Tanahashi**.<br>
 tooltip:  (Tanahashi card or text)
 
-name:     **Tanahashi** (*token*)<br>
+name:     **Tanahashi** *(token)*<br>
 text:     Teleport an enemy 3 spaces. Your **Bloodbound Spell** is **Murasame**.<br>
 tooltip:  (Murasame card or text)
 
-name:     **Murasame** (*token*)<br>
-text:     Draw a card at end of turn. Your **Bloodbound Spell** is **Kiyomori**.<br>
+name:     **Murasame** *(token)*<br>
+text:     Draw a card at the end of turn. Your **Bloodbound Spell** is **Kiyomori**.<br>
 tooltip:  (Kiyomori card or text)
 
 name:     Juxtaposition<br>
@@ -415,7 +415,7 @@ name:     Ghost Lightning<br>
 text:     Deal 1 damage to all enemy minions.
 
 name:     Gotatsu<br>
-text:     Deal 1 damage to a minion. Draw a card at end of turn.
+text:     Deal 1 damage to a minion. Draw a card at the end of turn.
 
 name:     Heartseeker<br>
 text:     **Ranged** (1)
@@ -485,7 +485,7 @@ name:     Kaido Assassin<br>
 text:     **Backstab** (1)
 
 name:     Mask of Shadows<br>
-text:     Your General gains +1⚔️. Your General gains Backstab (4).
+text:     Your General gains +1⚔️. Your General gains **Backstab** (4).
 
 name:     Mass Flight<br>
 text:     Give all allied minions **Flying** this turn.
@@ -554,7 +554,7 @@ text:     **Ranged** (2)<br>
           **Deploy**: An enemy minion cannot move normally next turn.
 
 name:     Killing Edge<br>
-text:     Give an allied minion +4⚔️/+2❤️. If that minion has **Backstab**, draw a card at end of turn.
+text:     Give an allied minion +4⚔️/+2❤️. If that minion has **Backstab**, draw a card at the end of turn.
 
 name:     Lantern Fox<br>
 text:     Whenever this minion takes damage, put a Phoenix Fire into your hand.
@@ -577,7 +577,7 @@ text:     Surround the enemy General with allied **Panddos** that disappear at t
 name:     Penumbraxx<br>
 text:     **Build** (2)<br>
           **Backstab** (2)<br>
-          Whenever this backstabs, transform it into a structure with Build (1).
+          Whenever this backstabs, transform it into a **Structure** with **Build** (1).
 
 name:     Sparrowhawk<br>
 text:     **Bond**: Put a Mist Dragon Seal into your hand.
@@ -588,12 +588,12 @@ text:     Swap positions between an allied minion and your General.
 name:     Thunderbomb<br>
 text:     Deal 3 damage to an enemy and 1 damage to all enemies around it.
 
-name:      Twilight Fox<br>
-text:      **Backstab** (2)
-           **Blood Surge**: Teleport to your opponent's starting side's edge column, keeping to the same row. Gain +2 movement until the end of turn.
+name:     Twilight Fox<br>
+text:     **Backstab** (2)<br>
+          **Blood Surge**: Teleport to the edge column on your opponent's starting side, keeping to the same row. Gain +2 movement until the end of turn.
 
 name:     Twin Strike<br>
-text:     Deal 2 damage to exactly two random enemy minions. Draw a card at end of turn.
+text:     Deal 2 damage to exactly two random enemy minions. Draw a card at the end of turn.
 
 name:     Unbounded Energy Amulet<br>
 text:     Your General gains +1⚔️. Your General may move an additional space.
@@ -602,7 +602,7 @@ name:     Whiplash<br>
 text:     **Deploy** and **Ability** 1: Deal 2 damage to a unit.
 
 name:     Widowmaker<br>
-text:     **Equipped** with Blacksteel Glave.
+text:     **Equipped** with Blacksteel Glaive.
 
 name:     Ancestral Divination<br>
 text:     Draw a card for each allied minion.

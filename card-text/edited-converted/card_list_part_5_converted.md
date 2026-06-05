@@ -118,7 +118,7 @@ text:     **Deploy**: Your opponent summons two Komodo Chargers nearby their Gen
 
 name:     Lady Locke<br>
 text:     **Provoke**<br>
-          **Deploy**: Other minions you summon this turn gain +1⚔️/+1❤️ and gain **Provoke**.
+          **Deploy**: Other minions you summon this turn gain +1⚔️/+1❤️ and **Provoke**.
 
 name:     Mirkblood Devourer<br>
 text:     Allied minions summoned nearby this minion gain +1⚔️/+1❤️.
@@ -145,7 +145,7 @@ name:     Rokadoptera<br>
 text:     **Deploy**: Put a Boulder Hurl into your hand.
 
 name:     Sand Burrower<br>
-text:     At the end of its owner's turn this minion deals 1 damage to and **Stuns** the enemy minion in front of it.
+text:     At the end of its owner's turn, this minion deals 1 damage to and **Stuns** the enemy minion in front of it.
 
 name:     Sapphire Seer<br>
 text:     **Forcefield**
@@ -209,7 +209,7 @@ text:     **Dying Wish**: Draw a card.
 
 name:     Wild Tahr<br>
 text:     **Frenzy**<br>
-          Whenever an enemy attacks during the opponent's turn, this minion gains +3⚔️ until the end of your turn.
+          Whenever an enemy attacks during your opponent's turn, this minion gains +3⚔️ until the end of your turn.
 
 name:     Wind Runner<br>
 text:     After this minion moves, give nearby allied minions +1⚔️/+1❤️.
@@ -288,7 +288,7 @@ name:     MECHAZ0R!<br>
 text:     **Airdrop**, **Forcefield**, **Frenzy**, **Ranged** (4).
 
 name:     Matter Shaper<br>
-text:     **Deploy**: Destroy an enemy artifact to put a random artifact from your faction into your hand.
+text:     **Deploy**: Destroy an enemy artifact to put a random artifact from your Faction into your hand.
 
 name:     Mindwarper<br>
 text:     **Deploy** and **Ability** 1: Gain a copy of a random spell from your opponent's hand.
@@ -330,7 +330,7 @@ name:     Silhouette Tracer<br>
 text:     **Deploy**: Teleport your General up to 3 spaces.
 
 name:     Spelljammer<br>
-text:     Each player draws an additional card at the end of their turns.
+text:     Each player draws an additional card at the end of their turn.
 
 name:     Sphynx<br>
 text:     **Deploy**: Put a Riddle into your opponent's hand.<br>
@@ -364,7 +364,7 @@ name:     Timekeeper<br>
 text:     **Deploy**: Your builds progress by 1 turn.
 
 name:     Twilight Sorcerer<br>
-text:     When this minion enters play it learns your **Bloodbound Spell**. It can then cast it as **Ability** 1.
+text:     When this minion enters play, it learns your **Bloodbound Spell**. It can then cast it as **Ability** 1.
 
 name:     Unseven<br>
 text:     **Dying Wish**: Summon a minion with **Dying Wish** from your hand.
@@ -376,7 +376,7 @@ name:     Young Flamewing<br>
 text:     **Flying**
 
 name:     Alcuin Fugitive<br>
-text:     At the end of any turn you've cast a spell, put a copy of the most recently cast spell into your hand.
+text:     At the end of any turn in which you've cast a spell, put a copy of the most recently cast spell into your hand.
 
 name:     Alter Rexx<br>
 text:     Whenever you summon MECHAZ0R, put a MECHAZ0R into your hand.
@@ -400,7 +400,7 @@ name:     Capricious Marauder<br>
 text:     Whenever an allied minion is destroyed, your opponent takes control of this minion.
 
 name:     Chakkram<br>
-text:     This minion costs 2 less if your General took damage on opponent's last turn.
+text:     This minion costs 2 less if your General took damage on your opponent's last turn.
 
 name:     Chirpuka<br>
 text:     Whenever your opponent summons a minion, summon a 2⚔️/1❤️ Puka with **Provoke** in front of it.
@@ -421,7 +421,7 @@ name:     Fireblazer<br>
 text:     **Provoke**
 
 name:     Firestarter<br>
-text:     Whenever you cast a spell, summon a 1⚔️/1❤️ Spellspark with Rush on a random nearby space.
+text:     Whenever you cast a spell, summon a 1⚔️/1❤️ Spellspark with **Rush** on a random nearby space.
 
 name:     Golden Justicar<br>
 text:     **Equipped** with Justicar's Bastion.
@@ -469,7 +469,7 @@ name:     Sworn Defender<br>
 text:     Whenever your General takes damage, fully heal this minion.
 
 name:     The High Hand<br>
-text:     **Deploy**: Gains +1⚔️/+1❤️ for each card in your opponent's hand.
+text:     **Deploy**: Gain +1⚔️/+1❤️ for each card in your opponent's hand.
 
 name:     Theobule<br>
 text:     **Deploy**: Replace each card in your hand.
@@ -479,7 +479,7 @@ text:     **Flying**<br>
           **Bond**: Put the three Teachings of the Dragon into your hand.
 
 name:     Archon Spellbinder<br>
-text:     Your opponent's non-Bloodbound Spells cost 1 more to cast.
+text:     Your opponent's non-Bloodbound spells cost 1 more to cast.
 
 name:     Bonereaper<br>
 text:     **Provoke**<br>
@@ -505,7 +505,7 @@ name:     Grimes<br>
 text:     **Deploy** and **Dying Wish**: Summon a random tribal minion nearby.
 
 name:     Grove Lion<br>
-text:     While this minion is on the battlefield, your General has Forcefield.
+text:     While this minion is on the battlefield, your General has **Forcefield**.
 
 name:     Inquisitor Kron<br>
 text:     **Provoke**<br>
@@ -518,14 +518,14 @@ text:     **Ranged** (2)<br>
 name:     Lodestar<br>
 text:     **Airdrop**<br>
           **Forcefield**<br>
-          At the end of each turn, pull at least one enemy unit 1 space closer to self (all others units are 50% likely to be pulled).<br>
+          At the end of each turn, pull at least one enemy unit 1 space closer to this minion (all other enemy units each have a 50% chance to be pulled).<br>
 behavior: Changed
 
 name:     Magesworn<br>
-text:     Both players cannot cast spells that cost 2 or less.
+text:     Neither player can cast spells that cost 2 or less.
 
 name:     Project Ω<br>
-text:     This minion gains +2⚔️/+2❤️ for each other Mech you summoned this game.
+text:     This minion gains +2⚔️/+2❤️ for each other Mech you've summoned this game.
 
 name:     Q'orrhlma'a<br>
 text:     **Deploy**: Remove all minions that cost 2 or less from your deck.
@@ -569,14 +569,14 @@ name:     Zen'rui, the Blightspawned<br>
 text:     **Deploy**: Take control of a nearby enemy minion with 2 or less ⚔️.
 
 name:     Astral Crusader<br>
-text:     Whenever you replace this card, it and any other Astral Crusader in your deck cost 3 less and gains +2⚔️/+2❤️.
+text:     Whenever you replace this card, it and any other Astral Crusader in your deck cost 3 less and gain +2⚔️/+2❤️.
 
 name:     Dagona<br>
 text:     **Deploy**: Devour a minion, anywhere.<br>
           **Dying Wish**: Spit out the devoured minion on this space.
 
 name:     Dark Nemesis<br>
-text:     At the start of your turn, deal 4 damage to the enemy General and this minion gains +4⚔️.
+text:     At the start of your turn, deal 4 damage to the enemy General and give this minion +4⚔️.
 
 name:     Drybone Golem<br>
 text:
@@ -599,16 +599,16 @@ text:     **Airdrop**<br>
           **Deploy**: Push all nearby minions and Generals to random spaces.
 
 name:     Pandora<br>
-text:     At the end of your turn, summon a 3⚔️/3❤️ Spirit Wolf with a random ability into a nearby space.
+text:     At the end of your turn, summon a 3⚔️/3❤️ Spirit Wolf with a random ability on a nearby space.
 
 name:     Red Synja<br>
 text:     Whenever your General takes damage, deal 7 damage to a random nearby enemy minion.
 
 name:     Reliquarian<br>
-text:     **Deploy**: Forge an allied minion into a Faction artifact with equal ⚔️, and equip it.
+text:     **Deploy**: Forge an allied minion into a Faction artifact with equal ⚔️ and equip it.
 
 name:     Rook<br>
-text:     **Deploy** and at the end of your turn: this minion gains a random Faction ability.
+text:     **Deploy** and at the end of your turn: This minion gains a random Faction ability.
 
 name:     War Talon<br>
 text:     **Frenzy**, **Provoke**.
@@ -617,7 +617,7 @@ name:     Whistling Blade<br>
 text:     **Provoke**
 
 name:     Zurael, the Lifegiver<br>
-text:     **Deploy**: Summon all non-token allied minions destroyed on your opponent's last turn to random spaces.
+text:     **Deploy**: Summon all non-token allied minions destroyed during your opponent's last turn on random spaces.
 
 name:     Khymera<br>
 text:     Whenever this minion takes damage, summon a random token minion nearby.

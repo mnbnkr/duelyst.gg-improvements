@@ -8,7 +8,7 @@ name:     Aspect of Ego<br>
 text:     Transform a minion into a random minion of the same cost.
 
 name:     Crystallize<br>
-text:     Reduce the movement of an enemy minion by 1. If the target is nearby **Stun** it instead.
+text:     Reduce the movement of an enemy minion by 1. If the target is nearby, **Stun** it instead.
 
 name:     Flurry<br>
 text:     Whenever this minion attacks, repair all of your artifacts by 1 durability.
@@ -129,7 +129,7 @@ name:     Resonance Scythe<br>
 text:     Your General has +1⚔️. Reactivate your General whenever they destroy a **stunned** enemy.
 
 name:     Rolling Snowstorm<br>
-text:     At the start of your next 9 turns deal 6 damage to all enemies in a column, starting with the edge column on your opponent's starting side.
+text:     At the start of your next 9 turns, deal 6 damage to all enemies in a column, starting with the edge column on your opponent's starting side.
 
 name:     Shatter<br>
 text:     Destroy a **stunned** enemy minion.
@@ -162,7 +162,8 @@ name:     Disciple of Yggdra<br>
 text:     When an enemy is **stunned**, transform this minion into Yggdra's Voracity and draw a card.
 
 name:     Drake Dowager<br>
-text:     **Sentinel**: General attacks. **Ranged** (2).<br>
+text:     **Sentinel**: General attacks.<br>
+          **Ranged** (2)<br>
           Whenever this attacks, summon a 4⚔️/4❤️ Flying Drake nearby.
 
 name:     Fenrir Warmaster<br>
@@ -170,7 +171,7 @@ text:     **Dying Wish**: Summon a 3⚔️/2❤️ Ghost Wolf on this space.
 
 name:     Freeblade<br>
 text:     **Sentinel**: Minion summoned.<br>
-          This swaps positions with the minion that transformed it.
+          This minion swaps positions with the minion that transformed it.
 
 name:     Glacial Elemental<br>
 text:     Whenever you summon a Vespyr minion, deal 2 damage to a random enemy minion.
@@ -207,7 +208,7 @@ name:     Snowpiercer<br>
 text:     Your General gains +3⚔️.
 
 name:     Volatile Crystal<br>
-text:     During your opponent's turn, whenever an enemy appears nearby, Detonate dealing 8 damage.
+text:     During your opponent's turn, whenever an enemy appears nearby, **Detonate** dealing 8 damage.
 
 name:     Whispering Horn<br>
 text:     Whenever your General attacks or counterattacks, summon a Flurry nearby that can repair your artifacts.
@@ -242,7 +243,7 @@ name:     Endless Hunt<br>
 text:     Summon a 3⚔️/3❤️ Vespyr **Night Howler**. Put an Endless Hunt into your hand.
 
 name:     Huldra<br>
-text:     **Ability 2**: Return a minion to its owner's hand. It gains **Echo**.
+text:     **Ability** 2: Return a minion to its owner's hand. It gains **Echo**.
 
 name:     Ice Drake<br>
 text:
@@ -279,13 +280,13 @@ name:     Whyte Drake<br>
 text:     **Flying**
 
 name:     Wind Sister Maia<br>
-text:     Whenever you summon a minion (including this one) on the opponent's side of the field, it gains +1⚔️/+1❤️.
+text:     Whenever you summon a minion (including this one) on your opponent's side of the battlefield, it gains +1⚔️/+1❤️.
 
 name:     Winterblade<br>
 text:     Your General gains +2⚔️. Enemy minions damaged by your General are **Stunned**.
 
 name:     Wintertide<br>
-text:     Summon three 2⚔️/2❤️ Vespyr Winter Maerids on any column.
+text:     Summon three 2⚔️/2❤️ Vespyr Winter Maerids in any column.
 
 name:     Animus Plate<br>
 text:     Your General gains +2⚔️. Whenever your General attacks or counterattacks, give all allied Vespyr minions +2⚔️/+2❤️.
@@ -295,7 +296,7 @@ text:     **Airdrop**
 
 name:     Auroraboros<br>
 text:     **Echo**<br>
-          Give allied minions "Dying Wish: Re-summon this minion on this space".
+          Give allied minions "**Dying Wish**: Re-summon this minion on this space".
 
 name:     Cloudcaller<br>
 text:     **Deploy**: Your Bloodbound Spell refreshes and is Lesser Waterball this turn.
@@ -334,7 +335,7 @@ text:     **Build** (2)<br>
           Enemies can only move 1 space (also while it's building).
 
 name:     Draugar Lord<br>
-text:     **Dying Wish**: Summon a 4⚔️/8 Ice Drake on this space.
+text:     **Dying Wish**: Summon a 4⚔️/8❤️ Ice Drake on this space.
 
 name:     Echo Deliverant<br>
 text:     Whenever you summon another Mech, summon a copy of it nearby.
@@ -343,14 +344,14 @@ name:     Frostburn<br>
 text:     Deal 3 damage to all enemy minions.
 
 name:     Icebreak Ambush<br>
-text:     Summon an ambush of Infiltrate minions on your opponent's starting side of the battlefield.
+text:     Summon an ambush of minions with **Infiltrate** on your opponent's starting side of the battlefield.
 
 name:     Vespyrian Might<br>
 text:     Give a Vespyr minion +2⚔️/+2❤️ for each allied Vespyr.
 
 name:     Ancient Grove<br>
 text:     **Provoke**<br>
-          **Deploy**: Your minions gain "Dying Wish: Summon a 1⚔️/1❤️ **Treant**".
+          **Deploy**: Your minions gain "**Dying Wish**: Summon a 1⚔️/1❤️ **Treant**".
 
 name:     Flawless Reflection<br>
 text:     Choose a minion. Transform all nearby minions into copies of it.
@@ -398,7 +399,7 @@ name:     Dex<br>
 text:     **Celerity**
 
 name:     Dreamgazer<br>
-text:     When you replace this, summon it on a random space nearby your General, who takes 2 damage.
+text:     When you replace this, summon it on a random space nearby your General. Your General takes 2 damage.
 
 name:     Fog<br>
 text:     **Dying Wish**: Put a random Battle Pet into your hand.
@@ -427,7 +428,7 @@ text:     Deal 2 damage to a unit.
 name:     Lesson of Wisdom<br>
 text:     Restore 3❤️ to a unit.
 
-name:     Mini-jax<br>
+name:     Mini-Jax<br>
 text:     **Ranged** (4)
 
 name:     Mirrorrim<br>
@@ -508,7 +509,7 @@ name:     **Mana Spring** *(token)*<br>
 text:     +1 mana.
 
 name:     Crimson Guide<br>
-text:     At the end of its owner's turn this minion converts the space underneath it to a Minor Summoning Circle.
+text:     At the end of its owner's turn, this minion converts the space underneath it to a Minor Summoning Circle.
 
 name:     Cryptographer<br>
 text:     **Deploy**: Refresh your Bloodbound Spell.
@@ -518,7 +519,7 @@ text:     **Frenzy**
 
 name:     Dragonlark<br>
 text:     **Docile**, **Celerity**.<br>
-          Whenever this minion moves, summon an Eruptive Egg on its previous location.<br>
+          Whenever this minion moves, summon an Eruptive Egg at its previous location.<br>
 tooltip:  (Eruptive Egg card or text)
 
 name:     **Eruptive Egg** *(token)*<br>
@@ -552,7 +553,7 @@ text:     **Deploy**: Restore 1❤️ to a unit.<br>
           **Ability** 3: Summon an allied non-token minion that was destroyed since your opponent's last turn nearby.
 
 name:     Jaxi<br>
-text:     **Dying Wish**: Summon a 1⚔️/1❤️ Ranged Mini-Jax in a random corner.
+text:     **Dying Wish**: Summon a 1⚔️/1❤️ **Ranged** Mini-Jax in a random corner.
 
 name:     Lost Artificer<br>
 text:     The first artifact you equip each turn costs 1 less.
@@ -561,10 +562,10 @@ name:     Manaforger<br>
 text:     The first non-Bloodbound spell you cast each turn costs 1 less.
 
 name:     Maw<br>
-text:     **Deploy**: Deal 2 damage to a enemy minion.
+text:     **Deploy**: Deal 2 damage to an enemy minion.
 
 name:     Metaltooth<br>
-text:     If you have another Mech, this minion has Rush.
+text:     If you have another Mech, this minion has **Rush**.
 
 name:     Piercing Mantis<br>
 text:     **Frenzy**
